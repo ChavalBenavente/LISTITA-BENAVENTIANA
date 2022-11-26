@@ -1,0 +1,750 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id=”dsports.ec” tvg-name=”Dsports Ecuador” tvg-logo=”https://i.ibb.co/gdLQ8HW/DIRECTV.jpg” group-title=”Sports”, Dsports Ecuador
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/111497
+
+#EXTINF:-1 tvg-id=”dsports.pe” tvg-name=”Dsports Perú” tvg-logo=”http://iptvglobal.site:25461/images/ae5c644767f76c8e55d7622da392b477.png” group-title=”DIRECTV (PERU)”,Dsports Perú
+
+http://iptvglobal.site:25461/nany1/nany1/129895
+
+#EXTINF:-1 tvg-id=”dsports.co” tvg-name=”Dsports Colombia HD” tvg-logo=”http://streamgo.vip:8008/images/251ef8acedafb7c6a185a76541f46c8d.png” group-title=”Sports”,Dsports Colombia HD
+
+http://streamgo.vip:8008/jonathan12/jonathan12/159055
+
+#EXTINF:-1 tvg-id=”” tvg-name=”DSports 2 Colombia” tvg-logo=”http://streamgo.vip:8008/images/127421a04b74c096bc7df50e1b84b863.png” group-title=”Sports”,DSports 2 Colombia
+
+http://streamgo.vip:8008/jonathan12/jonathan12/159056
+
+#EXTINF:-1 tvg-id=”dsports+.co” tvg-name=”DSports+ Colombia” tvg-logo=”http://streamgo.vip:8008/images/2d252c2c28eb8d9a4ccfc9809eba24a3.png” group-title=”Sports”,Dsports+ Colombia
+
+http://streamgo.vip:8008/jonathan12/jonathan12/159054
+
+#EXTINF:-1 tvg-id=”espn2.pe” tvg-name=”ESPN” tvg-logo=”http://iptvglobal.site:25461/images/b5c360145f54e5f3da03169753c4a828.png” group-title=”Sports”,ESPN
+
+http://iptvglobal.site:25461/Moises/Moises/128627
+
+#EXTINF:-1 tvg-id=”espn.ar” tvg-name=”ESPN 2” tvg-logo=”http://iptvglobal.site:25461/images/3a60836f4120ffaa1201d3853c983f19.jpg” group-title=”Sports”,ESPN 2
+
+http://iptvglobal.site:25461/Moises/Moises/128621
+
+#EXTINF:-1 tvg-id=”” tvg-name=”ESPN 3” tvg-logo=”http://streamgo.vip:8008/images/65b140dd9ebf0ec2b2a8c1565fa90080.png” group-title=”Sports”,ESPN 3
+
+http://streamgo.vip:8008/jonathan12/jonathan12/167725
+
+#EXTINF:-1 tvg-id=”” tvg-name=”ESPN 4” tvg-logo=”http://streamgo.vip:8008/images/9c83acb71e6f939bae03936d2c827d7c.png” group-title=”Sports”,ESPN 4
+
+http://streamgo.vip:8008/jonathan12/jonathan12/167726
+
+#EXTINF:-1 tvg-id=”” tvg-name=”ESPN Extra” tvg-logo=”http://streamgo.vip:8008/images/cb88103bd31fe7d6cf58e9a7c023b120.png” group-title=”Sports”,ESPN Extra
+
+http://streamgo.vip:8008/jonathan12/jonathan12/167727
+
+#EXTINF:-1 tvg-id=”golperu.pe” tvg-name=”Gol Perú FHD” tvg-logo=”http://streamgo.vip:8008/images/7418ab7b1d5e79d1050f53f7ffcb0317.png” group-title=”Sports” “Perú”,Gol Perú FHD
+
+http://streamgo.vip:8008/jonathan12/jonathan12/166609
+
+#EXTINF:-1 tvg-id=”golperu.pe” tvg-name=”Gol Perú HD” tvg-country=”PE” tvg-logo=”https://i.postimg.cc/0rRZZm1v/Picsart-22-11-22-02-12-07-238.jpg” group-title=”Sports”, Gol Perú HD
+
+http://iptvglobal.site:25461/Moises/Moises/86485
+
+#EXTINF:-1 tvg-id=”mdeportes.pe” tvg-name=”Movistar Deportes HD” tvg-logo=”https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.Y_aHNvRJD4.jpg” group-title=”Sports”,Movistar Deportes HD
+
+http://tutv.online:2080/Patricio/Patricio/71797
+
+#EXTINF:-1 tvg-id=”movistardeportes.pe” tvg-name=”Movistar Deportes” tvg-country=”PE” tvg-logo=”https://i.ibb.co/ZBVtnK2/MOVISTAR-DEPORTES-PERU.jpg” group-title=”Sports”,Movistar Deportes
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/86951
+
+#EXTINF:-1 tvg-id=”movistarplus.pe”tvg-name=”Movistar Plus” tvg-logo=”https://i.postimg.cc/GtMXBKjM/19894871-1750510471633586-2821184914832360189-n.png” group-title=”Sports”,Movistar Plus
+
+http://iptvglobal.site:25461/Moises/Moises/129879
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Fox Sports Perú HD “ tvg-logo=”https://i.ibb.co/5R7KFzs/PERU.jpg” group-title=“Sports”,Fox Sports Perú HD 
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/81626
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Fox Sports 2 HD” tvg-logo=”https://i.ibb.co/WFmK07M/ARGENTINA-2.jpg” group-title=”Sports“,Fox Sports 2 HD
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/1520
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Fox Sports 3 HD” tvg-logo=”https://i.ibb.co/WWVFgX9/ARGENTINA-3.jpg” group-title=”Sports”,Fox Sports 3 HD
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/1521
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Fox Sports Premium HD” tvg-logo=”https://i.ibb.co/yhRmfZm/ARGENTINA-PREMIUM.jpg” group-title=”⭐ DEPORTES PREMIUM ⚽️ “,Fox Sports Premium HD
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/1522
+
+#EXTINF:-1 tvg-id=”” tvg-name=”TyC Sports Internacional“ tvg-logo=”https://i.ibb.co/JrpvfmG/T-C-SPORTS.jpg” group-title=”⭐ ARGENTINA “,TyC Sports Internacional
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/103227
+
+#EXTINF:-1 tvg-id=”” tvg-name=”TyC Sports” tvg-logo=”http://127.0.0.1/” group-title=”LATINO (USA) (SD)”,TyC Sports
+
+http://iptvglobal.site:25461/Moises/Moises/131167
+
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="Azteca 7 HD" tvg-logo="http://streamgo.vip:8008/images/e9fdc6c348a5ab254077c171967ccfcb.jpg" group-title="México ⭐",Azteca 7 HD
+
+http://streamgo.vip:8008/jonathan12/jonathan12/140409
+
+ 
+
+#EXTINF:-1 tvg-id=”bitme.mx” tvg-name=”BITME HD” tvg-logo=”http://iptvglobal.site:25461/images/8fdcaf15d7cb14bd280e8614a61395de.png”,BITME HD
+
+http://iptvglobal.site:25461/Moises/Moises/87149
+
+#EXTINF:-1 tvg-id=”Boing.es” tvg-name=”Boing FHD” tvg-logo=”http://streamgo.vip:8008/images/77a3eb5fb7bd8e418593ed0eb110edd2.png” group-title=”Tv España ⭐”,Boing FHD
+
+http://streamgo.vip:8008/jonathan12/jonathan12/168006 
+
+#EXTINF:-1 tvg-id=”telefe.ar” tvg-name=”Telefe HD” tvg-logo=”http://tutv.online:2080/images/7aaa339acbc3f286f02236ccb094ad83.png” group-title=”Argentina”,Telefe HD
+
+http://tutv.online:2080/Patricio/Patricio/72753
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Canal 5 HD” tvg-logo=”https://i.ibb.co/sW8wQJN/CANAL5.jpg” group-title=”México ⭐”,Canal 5 HD
+
+http://streamgo.vip:8008/jonathan12/jonathan12/140368
+
+#EXTINF:-1 tvg-id=”espn.ar” tvg-name=”ESPN” tvg-logo=”https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif” group-title=”CLARO TV (FHD)”,ESPN
+
+http://iptvglobal.site:25461/nany1/nany1/135609
+
+#EXTINF:-1 tvg-id=”espn2.ar” tvg-name=”ESPN 2” tvg-logo=”https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif” group-title=”CLARO TV (FHD)”,ESPN 2
+
+http://iptvglobal.site:25461/nany1/nany1/135619
+
+#EXTINF:-1 tvg-id=”espn3.ar” tvg-name=”ESPN 3” tvg-logo=”https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif” group-title=”CLARO TV (FHD)”,ESPN 3
+
+http://iptvglobal.site:25461/nany1/nany1/135599
+
+#EXTINF:-1 tvg-id=”espnextra.ar” tvg-name=”ESPN Extra” tvg-logo=”https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif” group-title=”CLARO TV (FHD)”,ESPN Extra
+
+http://iptvglobal.site:25461/nany1/nany1/135602
+
+#EXTINF:-1 tvg-id=”” tvg-name=”TNT Sports Estadio“ tvg-logo=”https://i.ibb.co/YP4F09j/TNT-1.jpg” group-title=”⭐ DEPORTE CHILE ⚽️”,TNT Sports Estadio
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/1229
+
+#EXTINF:-1 tvg-id=”tntsports.ar” tvg-name=”TNT Sports Argentina HD” tvg-logo=”http://iptvglobal.site:25461/images/a2f2c27bb0215f5d47d15f6c066e558a.png” group-title=”M Liga de Campeones HD”,TNT Sports Argentina HD
+
+http://iptvglobal.site:25461/Moises/Moises/129701
+
+#EXTINF:-1 tvg-id=”tntsports2.cl” tvg-name=”TNT Sports 2 HD” tvg-logo=”http://iptvglobal.site:25461/images/c62074f50d17a61094dfc41685d7b766.png” group-title=”CHILE”,TNT Sports 2 HD
+
+http://iptvglobal.site:25461/Moises/Moises/86599
+
+#EXTINF:-1 tvg-id=”tntsports3.cl” tvg-name=”TNT Sports 3 HD” tvg-logo=”http://iptvglobal.site:25461/images/c62074f50d17a61094dfc41685d7b766.png” group-title=”CHILE”,TNT Sports 3 HD
+
+http://iptvglobal.site:25461/Moises/Moises/86600
+
+#EXTINF:-1 tvg-id=”” tvg-name=”TNT Sports Premium HD” tvg-logo=”http://iptvglobal.site:25461/images/c62074f50d17a61094dfc41685d7b766.png” group-title=”CHILE”,TNT Sports Premium HD
+
+http://iptvglobal.site:25461/Moises/Moises/86601
+
+#EXTINF:-1 tvg-id=”” tvg-name=”TBS HD” tvg-logo=”” group-title=”MEXICO HD (ENCODER)”,TBS HD
+
+http://iptvglobal.site:25461/nany1/nany1/87008
+
+#EXTINF:-1 tvg-id="" tvg-name="Vevo" tvg-logo="https://i.picasion.com/pic92/262ff4afeb4bfa5584905a6e5f2d5533.gif" group-title="TV | AREA VIX HD*",Vevo
+
+http://iptvglobal.site:25461/nany1/nany1/144351
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Win Sports” tvg-logo=”http://127.0.0.1/” group-title=”LATINO (USA) (SD)”,Win Sports
+
+http://iptvglobal.site:25461/Moises/Moises/131168
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Win Sports +” tvg-logo=”http://castlempire.site:8080/images/0490c7d6ebd8f068e449b87271212be4.jpg” group-title=”DEPORTES HD ⚽”,Win Sports +
+
+http://tutv.online:2080/Patricio/Patricio/71863
+
+#EXTINF:-1 tvg-id=”espn.mx” tvg-name=”ESPN México” tvg-logo=”https://i.picasion.com/pic92/5dc351b9ee68f3b27d6da53c92bc2458.gif” group-title=”DEPORTES LATINOS (FHD)”,ESPN México
+
+http://iptvglobal.site:25461/nany1/nany1/86254
+
+#EXTINF:-1 tvg-id=”espn2.mx” tvg-name=”ESPN 2 México” tvg-logo=”https://i.picasion.com/pic92/487f45a9b2d9452efff17de9e6c141b7.gif” group-title=”DEPORTES LATINOS (FHD)”,ESPN 2 México
+
+http://iptvglobal.site:25461/nany1/nany1/86255
+
+#EXTINF:-1 tvg-id=”espn3.mx” tvg-name=”ESPN 3 México” tvg-logo=”https://i.picasion.com/pic92/b363a44564fce565843db3971ab14157.gif” group-title=”DEPORTES LATINOS (FHD)”,ESPN 3 México
+
+http://iptvglobal.site:25461/nany1/nany1/86256
+
+#EXTINF:-1 tvg-id=”espnxtra.mx” tvg-name=”ESPN Extra México” tvg-logo=”https://i.picasion.com/pic92/2f4a274348c8a3d349dea14c2a8170a9.gif” group-title=”DEPORTES LATINOS (FHD)”,ESPN Extra México
+
+http://iptvglobal.site:25461/nany1/nany1/86253
+
+#EXTINF:-1 tvg-id=”goltv.ec” tvg-name=”GolTV HD” tvg-logo=”https://i.picasion.com/pic92/74ed7d9f4315365f4bef7023d7535314.gif” group-title=”DEPORTES LATINOS (FHD)”,GolTV HD
+
+http://iptvglobal.site:25461/Moises/Moises/86245
+
+#EXTINF:-1 tvg-id=”goltv.ec” tvg-name=”Gol TV” tvg-logo=”http://castlempire.site:8080/images/d21cf3f28df92aef3e6585042635d72b.jpg” group-title=”DEPORTES HD ⚽”,Gol TV
+
+http://tutv.online:2080/Patricio/Patricio/71814
+
+#EXTINF:-1 tvg-id=”foxsports.mx” tvg-name=”Fox Sports México” tvg-logo=”http://iptvglobal.site:25461/images/500cf40a8e8c37cbcc81a66265dc06d0.png” group-title=”MEXICO HD (ENCODER)”,Fox Sports México
+
+http://iptvglobal.site:25461/nany1/nany1/87055
+
+#EXTINF:-1 tvg-id=”foxsports2.mx” tvg-name=”Fox Sports 2 México” tvg-logo=”http://iptvglobal.site:25461/images/bc3c27321719cdceecc603b08cd2f816.png” group-title=”MEXICO HD (ENCODER)”,Fox Sports 2 México
+
+http://iptvglobal.site:25461/nany1/nany1/87054
+
+#EXTINF:-1 tvg-id=”foxsports3.mx” tvg-name=”Fox Sports 3 México” tvg-logo=”https://i.picasion.com/pic92/750f7e24fe0d3482e6c5b32048f66d6b.gif” group-title=”MEXICO HD (ENCODER)”,Fox Sports 3 México
+
+http://iptvglobal.site:25461/nany1/nany1/87053
+
+#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="Comedy Central HD" tvg-logo="https://i.picasion.com/pic92/30d2e21e2b372eab1b794b1f801b91be.gif" group-title="MEXICO HD(ENCODER)",Comedy Central HD
+
+http://iptvglobal.site:25461/Moises/Moises/87071
+
+#EXTINF:-1 tvg-id=”comedycentral.es” tvg-name=”Comedy Central España” tvg-logo=”http://cpi4u.com:45862/images/5daae38532c46bb29b2f71930b4f2d82.png” group-title=”⭐ ESPAÑA “,Comedy Central España
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/110012
+
+#EXTINF:-1 tvg-id=”comedy” tvg-name=”Comedy Central España 2” tvg-logo=”http://streamgo.vip:8008/images/17ad467ec489133da03c6b3cb03f5d07.jpg” group-title=”Tv España ⭐”,Comedy Central España 2
+
+http://streamgo.vip:8008/jonathan12/jonathan12/168162
+
+#EXTINF:-1 tvg-id="historyhd.mx" tvg-name="History Channel FHD" tvg-logo="https://i.picasion.com/pic92/f80d806e267aa4d6986021e45379aea8.gif" group-title="LATIN DUAL AUDIO (FHD)",History Channel FHD
+
+http://iptvglobal.site:25461/Moises/Moises/86844
+
+#EXTINF:-1 tvg-id=”history.es” tvg-name=”Historia HD” tvg-logo=”” group-title=”⭐ ESPAÑA “,Historia HD
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/114935
+
+#EXTINF:-1 tvg-id=”” tvg-name=”History en Español” tvg-logo=”” group-title=”⭐ ESPAÑA “,History en Español
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/115091
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Super" tvg-logo="http://tutv.online:36995/images/c05ebe927a3c3a098010bc80e86dee0c.jpg" group-title="24/7 Kids",24/7 | Dragon Ball Super
+
+http://tutv.online:2080/Patricio/Patricio/18058
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Discovery Channel HD” tvg-logo=”https://selectra.mx/sites/default/files/styles/_default/public/images/logos/discovery-channel-logo-350x183.png?itok=e6NzDgq0” group-title=”VIP FULL-HD (+30 Mbps)⭐️”,Discovery Channel HD
+
+http://tutv.online:2080/Patricio/Patricio/72065
+
+#EXTINF:-1 tvg-id=”discoverychannel.sp” tvg-name=”Discovery Channel España” tvg-logo=”http://mirror.streamhubtv.me:8080/images/be34fe9fbde58cdeb95658967017059f.png” group-title=”⭐ ESPAÑA “,Discovery Channel España
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/110026
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Animal Planet HD” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_HD.svg/761px-Animal_Planet_HD.svg.png” group-title=”VIP FULL-HD (+30 Mbps)⭐️”,Animal Planet HD
+
+http://tutv.online:2080/Patricio/Patricio/72061
+
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="Discover H&H FHD"tvg-logo="https://i.picasion.com/pic92/faf10db51834b400896db671f832e689.gif" group-title="LATIN DUAL AUDIO (FHD)", Discovery H&H FHD
+
+http://iptvglobal.site:25461/Moises/Moises/86845
+
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="Discovery Theater FHD" tvg-logo="https://i.picasion.com/pic92/75e37e438d6803fe9b58acec81ba18ce.gif" group-title="LATIN DUAL AUDIO (FHD)",Discovery Theater FHD
+
+http://iptvglobal.site:25461/Moises/Moises/86846
+
+#EXTINF:-1 tvg-id=”tlc.mx” tvg-name=”TLC FHD” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1024px-TLC_Logo.svg.png” group-title=”MEXICO HD (ENCODER)”,TLC FHD
+
+http://iptvglobal.site:25461/nany1/nany1/87033
+
+#EXTINF:-1 tvg-id=”discoveryid.mx” tvg-name=”Discovery ID HD” tvg-logo=”https://cdn.mitvstatic.com/channels/co_discovery-id-hd_m.png” group-title=”VIP FULL-HD (+30 Mbps)⭐️”,Discovery Investigation HD
+
+http://tutv.online:2080/Patricio/Patricio/72067
+
+#EXTINF:-1 tvg-id=”DiscoveryKids.mx” tvg-name=”Discovery Kids HD” tvg-logo=”DiscoveryKids.jpg” group-title=”VIP FULL-HD (+30 Mbps)⭐️”,Discovery Kids HD
+
+http://tutv.online:2080/Patricio/Patricio/72068
+
+#EXTINF:-1 tvg-id=”discoverykids.mx” tvg-name=”Discovery Kids FHD” tvg-logo=”https://i.picasion.com/pic92/a4b9d73aa8e92a6026851181611fbe31.gif” group-title=”LATIN DUAL AUDIO (FHD)”,DISCOVERY KIDS FHD
+
+http://iptvglobal.site:25461/Moises/Moises/86873
+
+#EXTINF:-1 tvg-id=”disneychannel.mx” tvg-name=”Disney Channel FHD” tvg-logo=”https://i.picasion.com/pic92/009881f71fe3a89fc0046b2cbdfaf437.gif” group-title=”LATIN DUAL AUDIO (FHD)”,Disney Channel FHD
+
+http://iptvglobal.site:25461/Moises/Moises/86874
+
+#EXTINF:-1 tvg-id=”DisneyChannel.es” tvg-name=”Disney Channel España” tvg-logo=”http://streamgo.vip:8008/images/cdeeafbf75d0756deafe04c647cb47be.png” group-title=”Tv España ⭐”,Disney Channel España
+
+http://streamgo.vip:8008/jonathan12/jonathan12/168000
+
+#EXTINF:-1 tvg-id=”DisneyJr.es” tvg-name=”Disney Jr. España” tvg-logo=”http://streamgo.vip:8008/images/f3b23b22f7d0803b4170d415df30860a.png” group-title=”Tv España ⭐”,Disney Jr. España
+
+http://streamgo.vip:8008/jonathan12/jonathan12/167999
+
+#EXTINF:-1 tvg-id=”cartoonnetwork.mx” tvg-name=”Cartoon Network FHD” tvg-logo=”https://i.picasion.com/pic92/b1f38c6755faad12fdf555290c877050.gif” group-title=”LATIN DUAL AUDIO (FHD) ”,Cartoon Network FHD
+
+http://iptvglobal.site:25461/Moises/Moises/86872
+
+#EXTINF:-1 tvg-id=”cartoonnetwork.mx” tvg-name=”Cartoon Network SD” tvg-logo=”https://i.ibb.co/nQRgLLR/CARTOON-NETWOR.jpg” group-title=”⭐INFANTILES PREMIUM ✅ “,CARTOON NETWORK SD
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/1816
+
+#EXTINF:-1 tvg-id=”cartoonnetwork.ar” tvg-name=”Cartoon Network HD” tvg-logo=”https://i.ibb.co/nQRgLLR/CARTOON-NETWOR.jpg” group-title=”⭐INFANTILES PREMIUM ✅ “,Cartoon Network HD
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/1817
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Nickelodeon HD” tvg-logo=”https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif” group-title=”CLARO TV (FHD)”,Nickelodeon HD
+
+http://iptvglobal.site:25461/nany1/nany1/135660
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Nickelodeon España” tvg-logo=”http://streamgo.vip:8008/images/bb8f34562e38dd39fddc3f8900b76350.png” group-title=”Tv España ⭐”,Nickelodeon España
+
+http://streamgo.vip:8008/jonathan12/jonathan12/167997
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Nick Jr. HD” tvg-logo=”https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif” group-title=”CLARO TV (FHD)”,Nick Jr. HD
+
+http://iptvglobal.site:25461/nany1/nany1/135664
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Nick Jr. España” tvg-logo=”http://streamgo.vip:8008/images/57f6f526c0a95af828613d43dac5cad0.png” group-title=”Tv España ⭐”,Nick Jr. España
+
+http://streamgo.vip:8008/jonathan12/jonathan12/168001
+
+#EXTINF:-1 tvg-id=”imagentv.mx” tvg-name=”Imagen TV” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png” group-title=”MEXICO HD (ENCODER)”,Imagen TV
+
+http://iptvglobal.site:25461/nany1/nany1/86995
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Canal Claro” tvg-logo=”https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif” group-title=”CLARO TV (FHD)”,Canal Claro
+
+http://iptvglobal.site:25461/nany1/nany1/135597
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Claro Sports” tvg-logo=”https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif” group-title=”CLARO TV (FHD)”,Claro Sports
+
+http://iptvglobal.site:25461/nany1/nany1/135598
+
+#EXTINF:-1 tvg-id=”lifetime.mx” tvg-name=”Lifetime” tvg-logo=”http://iptvglobal.site:25461/images/98a2245eb8327ea202772dee3062f094.png” group-title=”MEXICO HD (ENCODER)”,Lifetime
+
+http://iptvglobal.site:25461/nany1/nany1/86997
+
+#EXTINF:-1 tvg-id=”mtv.mx” tvg-name=”MTV” tvg-logo=”https://i.picasion.com/pic92/02dbe5b145e031710ef8b29f929ce895.gif” group-title=”MEXICO HD (ENCODER)”,MTV
+
+http://iptvglobal.site:25461/nany1/nany1/86999
+
+#EXTINF:-1 tvg-id=”” tvg-name=”A&E HD” tvg-logo=”http://www.tv-logo.com/pt-data/uploads/images/logo/ae_hd.jpg” group-title=”VIP FULL-HD (+30 Mbps)⭐️”,A&E HD
+
+http://tutv.online:2080/Patricio/Patricio/72094
+
+#EXTINF:-1 tvg-id=”a&e.cl” tvg-name=”A&E Chile SD” tvg-logo=”https://i.ibb.co/4tjTFTy/AYE.jpg” group-title=”⭐ CINE PREMIUM SD ✅ “,A&E Chile SD
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/1406
+
+#EXTINF:-1 tvg-id=”a&e.mx” tvg-name=”A&E MX HD” tvg-logo=”http://castlempire.site:8080/images/e8faaf5ba3adf6336ba216780cbf1044.png” group-title=”Entretenimiento ⭐️”,A&E MX HD
+
+http://tutv.online:2080/Patricio/Patricio/71726
+
+#EXTINF:-1 tvg-id=”” tvg-name=”AMC HD” tvg-logo=”http://www.tv-logo.com/pt-data/uploads/images/logo/amc_us_hd.jpg” group-title=”VIP FULL-HD (+30 Mbps)⭐️”,AMC HD
+
+http://tutv.online:2080/Patricio/Patricio/72093
+
+#EXTINF:-1 tvg-id=”amchd.mx” tvg-name=”AMC” tvg-logo=”http://iptvglobal.site:25461/images/503cdbf879614b704e79e70ec54a55f7.png” group-title=”LATIN CINEMA (HD)”,AMC
+
+http://iptvglobal.site:25461/Moises/Moises/90170
+
+#EXTINF:-1 tvg-id="amchd.mx" tvg-name="AMC FHD" tvg-logo="https://i.picasion.com/pic92/1a9e2244d60e2df63667c62c8f33da29.gif" group-title="LATIN DUAL AUDIO (FHD)",AMC FHD
+
+http://iptvglobal.site:25461/Moises/Moises/86848
+
+#EXTINF:-1 tvg-id=”amc.es” tvg-name=”AMC España” tvg-logo=”http://iptvglobal.site:25461/images/a615120e6d3bbfe8ca0b5a38509b4cf7.png” group-title=”ESPANA”,AMC España
+
+http://iptvglobal.site:25461/Moises/Moises/129533
+
+#EXTINF:-1 tvg-id=”” tvg-name=”A3S” tvg-logo=”https://i.picasion.com/pic92/1d65e2436007297cf84fa5f027c1056e.gif” group-title=”LATIN ENTERTAINMENT (HD)”,A3S
+
+http://iptvglobal.site:25461/nany1/nany1/88215
+
+#EXTINF:-1 tvg-id=”antena3.mx” tvg-name=”ANTENA SERIES HD” tvg-logo=”http://iptvglobal.site:25461/images/7161afb1a96e248ee7e33d143625c869.png” group-title=”MEXICO HD (ENCODER)”,ANTENA SERIES HD
+
+http://iptvglobal.site:25461/nany1/nany1/124475
+
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="AXN FHD" tvg-logo="https://i.picasion.com/pic92/ff7e04f714e191ff795392fa777c7f34.gif" group-title="LATIN ENTERTAINMENT (HD)",AXN FHD
+
+http://iptvglobal.site:25461/Moises/Moises/86849
+
+#EXTINF:-1 tvg-id=”syfy.mx” tvg-name=”Syfy HD” tvg-logo=”https://i.picasion.com/pic92/87d87287cb8599c3f4014112af21b2d5.gif” group-title=”MEXICO HD (ENCODER)”,SYFY HD
+
+http://iptvglobal.site:25461/nany1/nany1/87007
+
+#EXTINF:-1 tvg-id=”syfy.es” tvg-name=”SyFy España” tvg-logo=”http://mirror.streamhubtv.me:8080/images/e4b6e97ba35fe38d1c06db6049bf8951.png” group-title=”⭐ ESPAÑA “,SyFy España
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/110001
+
+#EXTINF:-1 tvg-id=”axnhd.es” tvg-name=”AXN ESPAÑA” tvg-logo=”http://iptvglobal.site:25461/images/8c6a4bc9e59472a8ce9f6e1cb0292ac4.png” group-title=”ESPANA”,AXN ESPAÑA
+
+http://iptvglobal.site:25461/Moises/Moises/129536
+
+ #EXTINF:-1 tvg-id=”axnseries.mx” tvg-name=AXN SERIES HD” tvg-logo=”http://iptvglobal.site:25461/images/24200e5458115164277932bc29676978.png” group-title=”MEXICO HD (ENCODER)”,AXN SERIES HD
+
+http://iptvglobal.site:25461/Moises/Moises/124491
+
+#EXTINF:-1 tvg-id=”axnwhite.es” tvg-name=”AXN WHITE ESPAÑA” tvg-logo=”http://mirror.streamhubtv.me:8080/images/89892b4830845317fb46634f6ea21665.png” group-title=”⭐ ESPAÑA “,AXN WHITE ESPAÑA
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109992
+
+#EXTINF:-1 tvg-id=”calle13.es” tvg-name=”CALLE 13 ESPAÑA” tvg-logo=”http://mirror.streamhubtv.me:8080/images/d74048ddca74cad8ff0c4da0a711358b.png” group-title=”⭐ ESPAÑA “,CALLE 13 ESPAÑA
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109981
+
+#EXTINF:-1 tvg-id=”darkred.es” tvg-name=”DARK RED SD” tvg-logo=”http://cpi4u.com:45862/images/730fd04c1cd9abb2d52067b8635ee977.png” group-title=”⭐ ESPAÑA “,DARK RED SD
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/110005
+
+#EXTINF:-1 tvg-id=”cinecanal.mx” tvg-name=”Cinecanal HD” tvg-logo=”https://i.picasion.com/pic92/ee6531277e68167d2660e5f870202c9f.gif” group-title=”MEXICO HD (ENCODER)”,Cinecanal HD
+
+http://iptvglobal.site:25461/nany1/nany1/87079
+
+#EXTINF:-1 tvg-id=”cinemax.ar” tvg-name=”Cinemax HD” tvg-logo=”https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif” group-title=”LATIN CINEMA (HD)”,Cinemax HD
+
+http://iptvglobal.site:25461/nany1/nany1/87534
+
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="Cinemax FHD" tvg-logo="https://i.picasion.com/pic92/ee6531277e68167d2660e5f870202c9f.gif" group-title="LATIN DUAL AUDIO (FHD)",Cinemax FHD
+
+http://iptvglobal.site:25461/Moises/Moises/86850
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Cinecanal HD” tvg-logo=”https://cdn.mitvstatic.com/channels/co_cinecanal-sd-hd-1_m.png” group-title=”VIP FULL-HD (+30 Mbps)⭐️”,Cinecanal HD
+
+http://tutv.online:2080/Patricio/Patricio/72062
+
+#EXTINF:-1 tvg-id=”fox.es” tvg-name=”FOX ESPAÑA” tvg-logo=”http://cpi4u.com:45862/images/91a55beada45a6be6b9670a0ed8003ca.png” group-title=”⭐ ESPAÑA “,FOX ESPAÑA
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109983
+
+#EXTINF:-1 tvg-id=”fx.mx” tvg-name=”FX HD” tvg-logo=”https://i.picasion.com/pic92/de3e71cad2c796c62b5456f5fce7432f.gif” group-title=”LATIN CINEMA (HD)”,FX HD
+
+http://iptvglobal.site:25461/nany1/nany1/87565
+
+#EXTINF:-1 tvg-id=”fx.pe” tvg-name=”FX Perú FHD” tvg-logo=”https://i.picasion.com/pic92/7e11e154ea8506a703973f3189f9c4cf.gif” group-title=”MEXICO HD (ENCODER)”,FX Perú FHD
+
+http://iptvglobal.site:25461/nany1/nany1/87098
+
+#EXTINF:-1 tvg-id="fx.cr" tvg-name="FX FHD" tvg-logo="https://i.picasion.com/pic92/fadab9b1cc9a337d33df62a95799b4ea.gif" group-title="LATIN DUAL AUDIO (FHD)",FX FHD
+
+http://iptvglobal.site:25461/Moises/Moises/86856
+
+#EXTINF:-1 tvg-id=”paramount.mx” tvg-name=”Paramount Network” tvg-logo=”https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Paramount_Channel_logo.svg/1200px-Paramount_Channel_logo.svg.png” group-title=”MEXICO HD (ENCODER)”,Paramount Network
+
+http://iptvglobal.site:25461/nany1/nany1/87004
+
+#EXTINF:-1 tvg-id=”paramount.es” tvg-name=”Paramount Network Esñaña” tvg-logo=”http://cpi4u.com:45862/images/da5e8049aecc3505e9304ce140840851.png” group-title=”⭐ ESPAÑA “,Paramount Network España
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109972
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Showtime Beyond HD” tvg-logo=”http://logoiptv.dynns.com/iptv/Showtime.png” group-title=”Pack ShowTime ⭐️”,Showtime Beyond HD
+
+http://tutv.online:2080/Patricio/Patricio/65072
+
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBO FHD" tvg-logo="https://i.picasion.com/pic92/df0964125d60482c98cfdb312457d245.gif" group-title="LATIN DUAL AUDIO (FHD)",HBO FHD
+
+http://iptvglobal.site:25461/Moises/Moises/86858
+
+#EXTINF:-1 tvg-id=”” tvg-name=”HBO Argentina” tvg-logo=”https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif” group-title=”CLARO TV (FHD)”,HBO Argentina
+
+http://iptvglobal.site:25461/nany1/nany1/135623
+
+#EXTINF:-1 tvg-id=”” tvg-name=”HBO DIRECTV” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/HBO_Latino_%282014%29.svg/2560px-HBO_Latino_%282014%29.svg.png” group-title=”LATIN CINEMA (HD)”,HBO DIRECTV
+
+http://iptvglobal.site:25461/nany1/nany1/140934
+
+#EXTINF:-1 tvg-id=”hbo2.mx” tvg-name=”HBO 2” tvg-logo=”http://iptvglobal.site:25461/images/675664b597f318f30d66c8d8834ea421.jpg” group-title=”LATIN CINEMA (HD)”,HBO 2
+
+http://iptvglobal.site:25461/nany1/nany1/90200
+
+#EXTINF:-1 tvg-id=”hbo2.ar” tvg-name=”HBO 2 Argentina” tvg-logo=”http://127.0.0.1/” group-title=”LATINO (USA) (SD)”,HBO 2 Argentina
+
+http://iptvglobal.site:25461/nany1/nany1/131122
+
+ 
+
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="HBO Plus" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="LATIN DUAL AUDIO (FHD)",HBO Plus
+
+http://iptvglobal.site:25461/Moises/Moises/86861
+
+#EXTINF:-1 tvg-id=”hboplus.ar” tvg-name=”HBO Plus Argentina” tvg-logo=”http://127.0.0.1/” group-title=”LATINO (USA) (SD)”,HBO Plus Argentina
+
+http://iptvglobal.site:25461/nany1/nany1/131117
+
+#EXTINF:-1 tvg-id=”hboxtreme.mx” tvg-name=”HBO Xtreme” tvg-logo=”https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif” group-title=”CLARO TV (FHD)”,HBO Xtreme
+
+http://iptvglobal.site:25461/nany1/nany1/135611
+
+#EXTINF:-1 tvg-id=”hboxtreme.ar” tvg-name=”HBO Xtreme Argentina” tvg-logo=”https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif” group-title=”CLARO TV (FHD)”,HBO Xtreme Argentina
+
+http://iptvglobal.site:25461/nany1/nany1/135657
+
+#EXTINF:-1 tvg-id=”hbopo.mx” tvg-name=”HBO Pop” tvg-logo=”http://iptvglobal.site:25461/images/ad7c604a311bc79f9110eaa409f12719.jpg” group-title=”LATIN CINEMA (HD)”,HBO Pop
+
+http://iptvglobal.site:25461/Moises/Moises/90194
+
+#EXTINF:-1 tvg-id=”hbopo.ar” tvg-name=”HBO Pop Argentina” tvg-logo=”https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif” group-title=”CLARO TV (FHD)”,HBO Pop Argentina
+
+http://iptvglobal.site:25461/nany1/nany1/135655
+
+#EXTINF:-1 tvg-id=”hbofamily.mx” tvg-name=”HBO Family” tvg-logo=”http://iptvglobal.site:25461/images/a4c0db3fc3fcab436feba24bbbbe0316.jpg” group-title=”LATIN CINEMA (HD)”,HBO Family
+
+http://iptvglobal.site:25461/nany1/nany1/90191
+
+#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="Hbo Signature" tvg-logo="https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif" group-title="CLARO TV (FHD)",HBO Signature
+
+http://iptvglobal.site:25461/nany1/nany1/135605
+
+#EXTINF:-1 tvg-id=”max.mx” tvg-name=”HBO Mundi” tvg-logo=”https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif” group-title=”CLARO TV (FHD)”,HBO Mundi
+
+http://iptvglobal.site:25461/nany1/nany1/135622
+
+#EXTINF:-1 tvg-id=”max.ar” tvg-name=”HBO Mundi Argentina” tvg-logo=”https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif” group-title=”CLARO TV (FHD)”,HBO Mundi Argentina
+
+http://iptvglobal.site:25461/nany1/nany1/135628
+
+#EXTINF:-1 tvg-id=”warnerchannel.co” tvg-name=”Warner Colombia” tvg-logo=”https://i.picasion.com/pic92/538eab0aa4a1fcc9978674b4c8ef6ab5.gif” group-title=”LATIN ENTERTAINMENT (HD)”,Warner Colombia”
+
+http://iptvglobal.site:25461/nany1/nany1/88243
+
+#EXTINF:-1 tvg-id=”warnerchannel.mx” tvg-name=”Warner Channel” tvg-logo=”https://i.picasion.com/pic92/538eab0aa4a1fcc9978674b4c8ef6ab5.gif” group-title=”MEXICO SD (POCA INTERNET)”,Warner Channel
+
+http://iptvglobal.site:25461/nany1/nany1/87228
+
+#EXTINF:-1 tvg-id=”space.mx” tvg-name=”Space FHD” tvg-logo=”https://i.picasion.com/pic92/538eab0aa4a1fcc9978674b4c8ef6ab5.gif” group-title=”LATIN DUAL AUDIO (FHD)”,Space FHD
+
+http://iptvglobal.site:25461/Moises/Moises/86870
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Star Channel” tvg-logo=”starchannel.jpg” group-title=”LATIN (FHD)”,Star Channel
+
+http://iptvglobal.site:25461/Moises/Moises/130353
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Starz HD” tvg-logo=”http://logoiptv.dynns.com/iptv/Starz.jpg” group-title=”Pack StarZ ⭐️”,Starz HD
+
+http://tutv.online:2080/Patricio/Patricio/65022
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Starz Encore Family HD” tvg-logo=”http://logoiptv.dynns.com/iptv/Starz.jpg” group-title=”Pack StarZ ⭐️”,Starz Encore Family HD
+
+http://tutv.online:2080/Patricio/Patricio/65026
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Starz Encore Classic HD” tvg-logo=”http://logoiptv.dynns.com/iptv/Starz.jpg” group-title=”Pack StarZ ⭐️”,Starz Encore Classic HD
+
+http://tutv.online:2080/Patricio/Patricio/65028
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Starz Encore Action” tvg-logo=”http://logoiptv.dynns.com/iptv/Starz.jpg” group-title=”Pack StarZ ⭐️”,Starz Encore Action
+
+http://tutv.online:2080/Patricio/Patricio/65030  
+
+#EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="SONY CHANNEL FHD" tvg-logo="https://i.picasion.com/pic92/c625b3229148e396fb831025874dc8ea.gif" group-title="LATIN DUAL AUDIO (FHD)",SONY CHANNEL FHD
+
+http://iptvglobal.site:25461/Moises/Moises/86864
+
+
+
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="TNT FHD" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="LATIN DUAL AUDIO (FHD)",TNT FHD
+
+http://iptvglobal.site:25461/Moises/Moises/86866
+
+#EXTINF:-1 tvg-id=”tnt.es” tvg-name=”TNT ESPAÑA” tvg-logo=”http://cpi4u.com:45862/images/35eba2825874ecd2dcd252efdcfba8e3.png” group-title=”⭐ ESPAÑA “,TNT ESPAÑA
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109998
+
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="TNT SERIES FHD" tvg-logo="https://i.picasion.com/pic92/c4b662c0b6f09e50fecd8392bd6f3721.gif" group-title="LATIN DUAL AUDIO (FHD)",TNT SERIES FHD
+
+http://iptvglobal.site:25461/Moises/Moises/86867
+
+#EXTINF:-1 tvg-id=”” tvg-name=”NBC UNIVERSO” tvg-logo=”https://i.ibb.co/9H71xPc/UNIVERSO.jpg” group-title=”⭐ UNIVISION PREMIUM ✅ “,NBC UNIVERSO
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/115391
+
+#EXTINF:-1 tvg-id=”” tvg-name=”TIGO SPORTS + HD” tvg-logo=”http://streamgo.vip:8008/images/9223463904e4ca513ad47e3a07c2aba6.jpg” group-title=”Deporte Tigo Sports ⚽”,TIGO SPORTS + HD
+
+http://streamgo.vip:8008/jonathan12/jonathan12/150038
+
+#EXTINF:-1 tvg-id=”canaln.pe” tvg-name=”CANAL N HD” tvg-logo=”https://i.ibb.co/ZK6V837/CANAL-N.jpg” group-title=”⭐ PERU”,CANAL N HD
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/86946
+
+#EXTINF:-1 tvg-id=”canal13.cl” tvg-name=”13 HD” tvg-logo=”http://streamgo.vip:8008/images/a67edae422309f893a73707b38e9ca09.png” group-title=”Chile ⭐”,13 HD
+
+http://streamgo.vip:8008/jonathan12/jonathan12/28219
+
+#EXTINF:-1 tvg-id=”chilevision.cl” tvg-name=”Chilevision HD” tvg-logo=”http://streamgo.vip:8008/images/06074edd7f572f827c08c4ef64c49049.png” group-title=”Chile ⭐”,Chilevision HD
+
+http://streamgo.vip:8008/jonathan12/jonathan12/28233
+
+#EXTINF:-1 tvg-id="tvnchile.cl" tvg-name="TVN HD" tvg-logo="http://streamgo.vip:8008/images/69e49ff199bfc129952b6602b5ed7aba.png" group-title="Chile ⭐",TVN HD
+
+http://streamgo.vip:8008/jonathan12/jonathan12/28250
+
+#EXTINF:-1 tvg-id=”” tvg-name=”13 Entretencion” tvg-logo=”http://streamgo.vip:8008/images/0b5879426e89dec80c851083f6a6b7d8.png” group-title=”Chile ⭐”,13 Entretencion
+
+http://streamgo.vip:8008/jonathan12/jonathan12/131472
+
+#EXTINF:-1 tvg-id=”” tvg-name=”13 Prime” tvg-logo=”http://streamgo.vip:8008/images/9b1dd26d1375fb5db2b6158c55e0a523.png” group-title=”Chile ⭐”,13 Prime
+
+http://streamgo.vip:8008/jonathan12/jonathan12/131473
+
+#EXTINF:-1 tvg-id=”” tvg-name=”13 Teleseries” tvg-logo=”http://streamgo.vip:8008/images/337e9d841d5d16a255204ef83a53d9da.png” group-title=”Chile ⭐”,13 Teleseries
+
+http://streamgo.vip:8008/jonathan12/jonathan12/131474
+
+ #EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="Studio Universal" tvg-logo="https://i.picasion.com/pic92/c95b572dc3ef1b0e464273ec25bd7523.gif" group-title="LATIN DUAL AUDIO (FHD)",Studio Universal
+
+#EXTINF:-1 tvg-id=”mega.es” tvg-name=”MEGA” tvg-logo=”http://51.222.43.170:36995/images/bcc2706ee2a40a8028cdfdfc9d7140ed.jpg” group-title=”ESPANA”,MEGA
+
+http://iptvglobal.site:25461/Moises/Moises/129525
+
+#EXTINF:-1 tvg-id=”” tvg-name=”MX |* BANDAMAX FHD” tvg-logo=”http://iptvglobal.site:25461/images/a2d4b314096c4986c95cab9bafbcafc6.png” group-title=”MEXICO HD (ENCODER)”,MX |* BANDAMAX FHD
+
+http://iptvglobal.site:25461/nany1/nany1/124490
+
+#EXTINF:-1 tvg-id=”” tvg-name=”MEGA HD” tvg-logo=”http://streamgo.vip:8008/images/d4faa708735bad60438d674c8d48ed67.png” group-title=”Tv España ⭐”,MEGA HD
+
+http://streamgo.vip:8008/jonathan12/jonathan12/168114
+
+#EXTINF:-1 tvg-id=”” tvg-name=”E! ENTERTAINMENT” tvg-logo=”” group-title=”MEXICO HD (ENCODER)”,E! ENTERTAINMENT
+
+http://iptvglobal.site:25461/nany1/nany1/86977
+
+#EXTINF:-1 tvg-id=”” tvg-name=”ENERGY HD” tvg-logo=”http://streamgo.vip:8008/images/5819e8ce65172793665396ddb1f2ec7c.png” group-title=”Tv España ⭐”,ENERGY HD
+
+http://streamgo.vip:8008/jonathan12/jonathan12/168116
+
+#EXTINF:-1 tvg-id=”” tvg-name=”DKISS” tvg-logo=”http://streamgo.vip:8008/images/afccc3195fe20727961833a33a594537.png” group-title=”Tv España ⭐”,DKISS
+
+http://streamgo.vip:8008/jonathan12/jonathan12/168117
+
+#EXTINF:-1 tvg-id="filmandarts.mx" tvg-name="FILM & ARTS FHD" tvg-logo="https://i.picasion.com/pic92/3570d6d71c4569d8ba8d52d62854d15e.gif" group-title="LATIN DUAL AUDIO (FHD)",FILM & ARTS FHD
+
+http://iptvglobal.site:25461/Moises/Moises/86871
+
+ 
+
+#EXTINF:-1 tvg-id=”boomerang.mx” tvg-name=”BOOMERANG” tvg-logo=”” group-title=”MEXICO HD (ENCODER)”,BOOMERANG
+
+http://iptvglobal.site:25461/Moises/Moises/86971
+
+#EXTINF:-1 tvg-id=”” tvg-name=”DE PELICULA” tvg-logo=”https://i.picasion.com/pic92/3928a294778951e0205f6461e9b7972a.gif” group-title=”LATIN CINEMA (HD)”,DE PELICULA
+
+http://iptvglobal.site:25461/Moises/Moises/90166
+
+#EXTINF:-1 tvg-id=”” tvg-name=”GOLDEN PREMIER” tvg-logo=”https://i.picasion.com/pic92/5f09b99c9da386bf38734fb7b73abc6e.gif” group-title=”LATIN CINEMA (HD)”,GOLDEN PREMIER
+
+http://iptvglobal.site:25461/Moises/Moises/90167
+
+#EXTINF:-1 tvg-id=”golden.mx” tvg-name=”GOLDEN” tvg-logo=”http://iptvglobal.site:25461/images/092765ab50cf86081c76eef40c3dec50.jpg” group-title=”LATIN CINEMA (HD)”,GOLDEN
+
+http://iptvglobal.site:25461/Moises/Moises/90169
+
+#EXTINF:-1 tvg-id=”goldenplus.mx” tvg-name=”GOLDEN PLUS” tvg-logo=”https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU” group-title=”Cine Premium ▶️”,GOLDEN PLUS
+
+http://streamgo.vip:8008/jonathan12/jonathan12/147327
+
+#EXTINF:-1 tvg-id=”cinemax.mx” tvg-name=”Cinemax” tvg-logo=”https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif” group-title=”LATIN CINEMA (HD)”,Cinemax
+
+http://iptvglobal.site:25461/Moises/Moises/90175 
+
+#EXTINF:-1 tvg-id=”” tvg-name=”TRUTV HD” tvg-logo=”http://iptvglobal.site:25461/images/580af8efe7a11b4eadef44837260a3c6.png” group-title=”MEXICO HD (ENCODER)”,TRUTV HD
+
+http://iptvglobal.site:25461/Moises/Moises/124494
+
+#EXTINF:-1 tvg-id=”” tvg-name=”TV PÚBLICA HD “ tvg-logo=”https://i.ibb.co/jw0cxV3/tv-publica.jpg” group-title=”⭐ ARGENTINA “,TV PÚBLICA HD 
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/21248
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Telemundo 31” tvg-logo=”https://upload.wikimedia.org/wikipedia/en/3/38/WTMO-CD_Logo.png” group-title=”ORLANDO (FLORIDA)”,Telemundo 31
+
+http://iptvglobal.site:25461/Moises/Moises/136523
+
+#EXTINF:-1 tvg-id=”sundance.es” tvg-name=”SUNDANCE ESPAÑA” tvg-logo=”http://cpi4u.com:45862/images/c0eb5e1af4939d0fc1df3f17396e0ac4.png” group-title=”⭐ ESPAÑA “,SUNDANCE ESPAÑA
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109970
+
+#EXTINF:-1 tvg-id=”” tvg-name=”TCM ESPAÑA” tvg-logo=”http://iptvglobal.site:25461/images/3caa0458528da3c317b9cc2b63c2f12f.png” group-title=”ESPANA”,TCM ESPAÑA
+
+http://iptvglobal.site:25461/Moises/Moises/129534
+
+ #EXTINF:-1 tvg-id=”24horas.es” tvg-name=”24 HORAS” tvg-logo=”http://boxdigital.xyz:8080/images/1b4ec146befce6f86d0fc8994852ea7e.png” group-title=”ESPANA”,24 HORAS
+
+http://iptvglobal.site:25461/Moises/Moises/152292
+
+#EXTINF:-1 tvg-id=”” tvg-name=”TVE INTERNACIONAL” tvg-logo=”http://iptvglobal.site:25461/images/c5268844c32fdbf39389dfd7ca423a8c.png” group-title=”ESPANA”,TVE INTERNACIONAL
+
+http://iptvglobal.site:25461/Moises/Moises/152295
+
+#EXTINF:-1 tvg-id=”la1.es” tvg-name=”LA 1 FHD” tvg-logo=”http://iptvglobal.site:25461/images/579dd927d834ecafd6022b70f6da34ba.png” group-title=”ESPANA”,LA 1 FHD
+
+http://iptvglobal.site:25461/Moises/Moises/152297
+
+#EXTINF:-1 tvg-id=”” tvg-name=”La 2 HD” tvg-logo=”http://iptvglobal.site:25461/images/a266e77451e29a2596dd206a1ce576af.png” group-title=”ESPANA”,La 2 HD
+
+http://iptvglobal.site:25461/Moises/Moises/152299
+
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD" tvg-logo="http://iptvglobal.site:25461/images/5a57821055007ef407f4991556a89482.png" group-title="ESPANA",ANTENA 3 HD
+
+http://iptvglobal.site:25461/nany1/nany1/152302
+
+#EXTINF:-1 tvg-id=”” tvg-name=”CUATRO FHD” tvg-logo=”http://iptvglobal.site:25461/images/64e2895fe535c3dbbb675717ce67e852.png” group-title=”ESPANA”,CUATRO FHD
+
+http://iptvglobal.site:25461/Moises/Moises/152305
+
+#EXTINF:-1 tvg-id=”” tvg-name=”TELECINCO FHD” tvg-logo=”http://iptvglobal.site:25461/images/5ad332383ce0872e8c04a92ee6d19810.png” group-title=”ESPANA”,TELECINCO FHD
+
+http://iptvglobal.site:25461/Moises/Moises/152308
+
+#EXTINF:-1 tvg-id=”” tvg-name=”LA SEXTA FHD” tvg-logo=”http://iptvglobal.site:25461/images/913f42e41823ebcbc17b6f7ca14a6207.png” group-title=”ESPANA”,LA SEXTA FHD
+
+http://iptvglobal.site:25461/Moises/Moises/152311
+
+#EXTINF:-1 tvg-id=”” tvg-name=”MEGA” tvg-logo=”http://iptvglobal.site:25461/images/b8e7e9a54566707d8cdeac1fc441c8fe.png” group-title=”ESPANA”,MEGA
+
+http://iptvglobal.site:25461/Moises/Moises/152312
+
+#EXTINF:-1 tvg-id=”” tvg-name=”NOVA HD” tvg-logo=”http://iptvglobal.site:25461/images/0a24522530b32a1e5ddeb4fa45f4077d.png” group-title=”ESPANA”,NOVA HD
+
+http://iptvglobal.site:25461/Moises/Moises/152313
+
+#EXTINF:-1 tvg-id=”decasa.es” tvg-name=”DECASA TV HD” tvg-logo=”http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA” group-title=”⭐ ESPAÑA “,DECASA TV HD
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/110016
+
+#EXTINF:-1 tvg-id=”Hashtag0.es” tvg-name=”#0  FHD” tvg-logo=”http://iptvglobal.site:25461/images/13488685430089965e4bd86b692dba19.png” group-title=”ESPANA”,#0  FHD
+
+http://iptvglobal.site:25461/Moises/Moises/152330
+
+#EXTINF:-1 tvg-id="" tvg-name="1HD Music Television.. " tvg-logo="http://iptvglobal.site:25461/images/850c86b0d25fe8ce6f967ba0810a96cc.png" group-title="MUSICA",1HD Music Television . .
+
+http://iptvglobal.site:25461/Moises/Moises/152334  #EXTINF:-1 tvg-id=”” tvg-name=”BEIN SPORTS ESPAÑOL HD” tvg-logo=”https://i.picasion.com/pic92/588dca1fb4f032f6bcf4cde359f4adc5.gif” group-title=”LATIN ENCODER USA (HD)”,BEIN SPORTS ESPAÑOL HD
+
+http://iptvglobal.site:25461/Moises/Moises/106373
+
+#EXTINF:-1 tvg-id=”M.Deportes.1.es” tvg-name=”MOVISTAR DEPORTES ESPAÑA | DEP_ESP” tvg-logo=”https://i.postimg.cc/Dwj4TXBP/Picsart-22-11-22-02-17-00-537.jpg”,MOVISTAR DEPORTES ESPAÑA
+
+http://iptvglobal.site:25461/Moises/Moises/105203
+
+#EXTINF:-1 tvg-id=”xhtm.es” tvg-name=”CANAL DE LAS ESTRELLAS -2HRS HD” tvg-logo=”http://iptvglobal.site:25461/images/0ed9404d458cfd868328bc7a08eb4e5f.png” group-title=”MEXICO HD (ENCODER)”,CANAL DE LAS ESTRELLAS -2HRS HD
+
+http://iptvglobal.site:25461/nany1/nany1/86996
+
+#EXTINF:-1 tvg-id=”” tvg-name=”CANAL DE LAS ESTRELLAS FHD” tvg-logo=”http://streamgo.vip:8008/images/701be531dda70ddb5867afcfe7a0441c.jpg” group-title=”México ⭐”,CANAL DE LAS ESTRELLAS FHD
+
+http://streamgo.vip:8008/jonathan12/jonathan12/140400
+
+#EXTINF:-1 tvg-id=”tlnovelas.mx” tvg-name=”TL NOVELAS HD” tvg-logo=”http://streamgo.vip:8008/images/c1dd441128f2b1a40d8cda05f48df0d1.jpg” group-title=”México ⭐”,TL NOVELAS HD
+
+http://streamgo.vip:8008/jonathan12/jonathan12/140397
+
+#EXTINF:-1 tvg-id=”elnueve.ar” tvg-name=”EL NUEVE FHD” tvg-logo=”https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU” group-title=”Argentina ⭐”,EL NUEVE FHD
+
+http://streamgo.vip:8008/jonathan12/jonathan12/158987
+
+#EXTINF:-1 tvg-id=”eltrece.ar” tvg-name=”EL TRECE HD” tvg-logo=”https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU” group-title=”Argentina ⭐”, EL TRECE HD
+
+http://streamgo.vip:8008/jonathan12/jonathan12/158985
+
+#EXTINF:-1 tvg-id=”maschic.ar” tvg-name=”MAS CHIC HD” tvg-logo=”https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVPxtfPGqdC6sq8ijhoEDpZJu9mNYTnHxOg&usqp=CAU” group-title=”Argentina ⭐”,MAS CHIC HD
+
+http://streamgo.vip:8008/jonathan12/jonathan12/159012
+
+#EXTINF:-1 tvg-id=”” tvg-name=”BESTCABLE SPORTS FHD“ tvg-logo=”https://i.ibb.co/jg4d0Xp/BESTCABLE-SOPRTS.jpg” group-title=”⭐ PERU”,BESTCABLE SPORTS FHD 
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/104294
+
+#EXTINF:-1 tvg-id=”panamericanatv.pe” tvg-name=”PANAMERICANA HD” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/512px-Panamericana-tv.svg.png”,PANAMERICANA HD
+
+http://iptvglobal.site:25461/Moises/Moises/86478
+
+#EXTINF:-1 tvg-id=”” tvg-name=”24H | Dragon Ball Super” tvg-logo=”http://streamgo.vip:8008/images/dcc375dd1037e0e94cd063ca3268f41d.png” group-title=”24/7 VIP ✅”,24H | Dragon Ball Super
+
+http://streamgo.vip:8008/jonathan12/jonathan12/158337
+
