@@ -298,9 +298,12 @@ http://iptvglobal.site:25461/nany1/nany1/135664
 
 http://streamgo.vip:8008/jonathan12/jonathan12/168001
 
-#EXTINF:-1 tvg-id=”imagentv.mx” tvg-name=”Imagen TV” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png” group-title=”MEXICO HD (ENCODER)”,Imagen TV
+#EXTINF:-1 tvg-id=”canaln.pe” tvg-name=”CANAL N” tvg-logo=”https://i.ibb.co/ZK6V837/CANAL-N.jpg” group-title=”⭐ PERU”,CANAL N
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/86946
 
-http://iptvglobal.site:25461/nany1/nany1/86995
+#EXTINF:-1 tvg-id="" tvg-name="Cine Terror GoogleTV" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="TV | GOOGLE TV",Cine Terror GoogleTV
+http://new-tv.cloud:25461/Antoniohdz22/Z99PfDcXwTnJ/171477
+
 
 #EXTINF:-1 tvg-id=”” tvg-name=”Canal Claro” tvg-logo=”https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif” group-title=”CLARO TV (FHD)”,Canal Claro
 
@@ -346,6 +349,10 @@ http://iptvglobal.site:25461/Moises/Moises/86848
 
 http://iptvglobal.site:25461/Moises/Moises/129533
 
+#EXTINF:-1 tvg-id=”” tvg-name=”Star Channel” tvg-logo=”starchannel.jpg” group-title=”LATIN (FHD)”,Star Channel
+
+http://iptvglobal.site:25461/Moises/Moises/130353
+
 #EXTINF:-1 tvg-id=”” tvg-name=”A3S” tvg-logo=”https://i.picasion.com/pic92/1d65e2436007297cf84fa5f027c1056e.gif” group-title=”LATIN ENTERTAINMENT (HD)”,A3S
 
 http://iptvglobal.site:25461/nany1/nany1/88215
@@ -378,6 +385,46 @@ http://iptvglobal.site:25461/Moises/Moises/124491
 
 http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109992
 
+#EXTINF:-1 tvg-id=”fox.es” tvg-name=”FOX ESPAÑA” tvg-logo=”http://cpi4u.com:45862/images/91a55beada45a6be6b9670a0ed8003ca.png” group-title=”⭐ ESPAÑA “,FOX ESPAÑA
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109983
+
+#EXTINF:-1 tvg-id=”fx.mx” tvg-name=”FX HD” tvg-logo=”https://i.picasion.com/pic92/de3e71cad2c796c62b5456f5fce7432f.gif” group-title=”LATIN CINEMA (HD)”,FX HD
+
+http://iptvglobal.site:25461/nany1/nany1/87565
+
+#EXTINF:-1 tvg-id=”fx.pe” tvg-name=”FX Perú FHD” tvg-logo=”https://i.picasion.com/pic92/7e11e154ea8506a703973f3189f9c4cf.gif” group-title=”MEXICO HD (ENCODER)”,FX Perú FHD
+
+http://iptvglobal.site:25461/nany1/nany1/87098
+
+#EXTINF:-1 tvg-id="fx.cr" tvg-name="FX FHD" tvg-logo="https://i.picasion.com/pic92/fadab9b1cc9a337d33df62a95799b4ea.gif" group-title="LATIN DUAL AUDIO (FHD)",FX FHD
+
+http://iptvglobal.site:25461/Moises/Moises/86856
+
+#EXTINF:-1 tvg-id=”paramount.mx” tvg-name=”Paramount Network” tvg-logo=”https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Paramount_Channel_logo.svg/1200px-Paramount_Channel_logo.svg.png” group-title=”MEXICO HD (ENCODER)”,Paramount Network
+
+http://iptvglobal.site:25461/nany1/nany1/87004
+
+#EXTINF:-1 tvg-id=”paramount.es” tvg-name=”Paramount Network Esñaña” tvg-logo=”http://cpi4u.com:45862/images/da5e8049aecc3505e9304ce140840851.png” group-title=”⭐ ESPAÑA “,Paramount Network España
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109972 
+
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="TNT FHD" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="LATIN DUAL AUDIO (FHD)",TNT FHD
+
+http://iptvglobal.site:25461/Moises/Moises/86866
+
+#EXTINF:-1 tvg-id=”tnt.es” tvg-name=”TNT ESPAÑA” tvg-logo=”http://cpi4u.com:45862/images/35eba2825874ecd2dcd252efdcfba8e3.png” group-title=”⭐ ESPAÑA “,TNT ESPAÑA
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109998
+
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="TNT SERIES FHD" tvg-logo="https://i.picasion.com/pic92/c4b662c0b6f09e50fecd8392bd6f3721.gif" group-title="LATIN DUAL AUDIO (FHD)",TNT SERIES FHD
+
+http://iptvglobal.site:25461/Moises/Moises/86867 
+
+#EXTINF:-1 tvg-id=”” tvg-name=”TV PÚBLICA HD “ tvg-logo=”https://i.ibb.co/jw0cxV3/tv-publica.jpg” group-title=”⭐ ARGENTINA “,TV PÚBLICA HD 
+
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/21248
+
 #EXTINF:-1 tvg-id=”calle13.es” tvg-name=”CALLE 13 ESPAÑA” tvg-logo=”http://mirror.streamhubtv.me:8080/images/d74048ddca74cad8ff0c4da0a711358b.png” group-title=”⭐ ESPAÑA “,CALLE 13 ESPAÑA
 
 http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109981
@@ -402,29 +449,7 @@ http://iptvglobal.site:25461/Moises/Moises/86850
 
 http://tutv.online:2080/Patricio/Patricio/72062
 
-#EXTINF:-1 tvg-id=”fox.es” tvg-name=”FOX ESPAÑA” tvg-logo=”http://cpi4u.com:45862/images/91a55beada45a6be6b9670a0ed8003ca.png” group-title=”⭐ ESPAÑA “,FOX ESPAÑA
 
-http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109983
-
-#EXTINF:-1 tvg-id=”fx.mx” tvg-name=”FX HD” tvg-logo=”https://i.picasion.com/pic92/de3e71cad2c796c62b5456f5fce7432f.gif” group-title=”LATIN CINEMA (HD)”,FX HD
-
-http://iptvglobal.site:25461/nany1/nany1/87565
-
-#EXTINF:-1 tvg-id=”fx.pe” tvg-name=”FX Perú FHD” tvg-logo=”https://i.picasion.com/pic92/7e11e154ea8506a703973f3189f9c4cf.gif” group-title=”MEXICO HD (ENCODER)”,FX Perú FHD
-
-http://iptvglobal.site:25461/nany1/nany1/87098
-
-#EXTINF:-1 tvg-id="fx.cr" tvg-name="FX FHD" tvg-logo="https://i.picasion.com/pic92/fadab9b1cc9a337d33df62a95799b4ea.gif" group-title="LATIN DUAL AUDIO (FHD)",FX FHD
-
-http://iptvglobal.site:25461/Moises/Moises/86856
-
-#EXTINF:-1 tvg-id=”paramount.mx” tvg-name=”Paramount Network” tvg-logo=”https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Paramount_Channel_logo.svg/1200px-Paramount_Channel_logo.svg.png” group-title=”MEXICO HD (ENCODER)”,Paramount Network
-
-http://iptvglobal.site:25461/nany1/nany1/87004
-
-#EXTINF:-1 tvg-id=”paramount.es” tvg-name=”Paramount Network Esñaña” tvg-logo=”http://cpi4u.com:45862/images/da5e8049aecc3505e9304ce140840851.png” group-title=”⭐ ESPAÑA “,Paramount Network España
-
-http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109972
 
 #EXTINF:-1 tvg-id=”” tvg-name=”Showtime Beyond HD” tvg-logo=”http://logoiptv.dynns.com/iptv/Showtime.png” group-title=”Pack ShowTime ⭐️”,Showtime Beyond HD
 
@@ -451,7 +476,6 @@ http://iptvglobal.site:25461/nany1/nany1/90200
 http://iptvglobal.site:25461/nany1/nany1/131122
 
  
-
 #EXTINF:-1 tvg-id="hboplus.mx" tvg-name="HBO Plus" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="LATIN DUAL AUDIO (FHD)",HBO Plus
 
 http://iptvglobal.site:25461/Moises/Moises/86861
@@ -504,9 +528,6 @@ http://iptvglobal.site:25461/nany1/nany1/87228
 
 http://iptvglobal.site:25461/Moises/Moises/86870
 
-#EXTINF:-1 tvg-id=”” tvg-name=”Star Channel” tvg-logo=”starchannel.jpg” group-title=”LATIN (FHD)”,Star Channel
-
-http://iptvglobal.site:25461/Moises/Moises/130353
 
 #EXTINF:-1 tvg-id=”” tvg-name=”Starz HD” tvg-logo=”http://logoiptv.dynns.com/iptv/Starz.jpg” group-title=”Pack StarZ ⭐️”,Starz HD
 
@@ -530,18 +551,6 @@ http://iptvglobal.site:25461/Moises/Moises/86864
 
 
 
-#EXTINF:-1 tvg-id="tnt.mx" tvg-name="TNT FHD" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="LATIN DUAL AUDIO (FHD)",TNT FHD
-
-http://iptvglobal.site:25461/Moises/Moises/86866
-
-#EXTINF:-1 tvg-id=”tnt.es” tvg-name=”TNT ESPAÑA” tvg-logo=”http://cpi4u.com:45862/images/35eba2825874ecd2dcd252efdcfba8e3.png” group-title=”⭐ ESPAÑA “,TNT ESPAÑA
-
-http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109998
-
-#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="TNT SERIES FHD" tvg-logo="https://i.picasion.com/pic92/c4b662c0b6f09e50fecd8392bd6f3721.gif" group-title="LATIN DUAL AUDIO (FHD)",TNT SERIES FHD
-
-http://iptvglobal.site:25461/Moises/Moises/86867
-
 #EXTINF:-1 tvg-id=”” tvg-name=”NBC UNIVERSO” tvg-logo=”https://i.ibb.co/9H71xPc/UNIVERSO.jpg” group-title=”⭐ UNIVISION PREMIUM ✅ “,NBC UNIVERSO
 
 http://cpi4u.com:45862/EDSON660/VEjxagzuVK/115391
@@ -550,10 +559,11 @@ http://cpi4u.com:45862/EDSON660/VEjxagzuVK/115391
 
 http://streamgo.vip:8008/jonathan12/jonathan12/150038
 
-#EXTINF:-1 tvg-id=”canaln.pe” tvg-name=”CANAL N HD” tvg-logo=”https://i.ibb.co/ZK6V837/CANAL-N.jpg” group-title=”⭐ PERU”,CANAL N HD
 
-http://cpi4u.com:45862/EDSON660/VEjxagzuVK/86946
+#EXTINF:-1 tvg-id=”imagentv.mx” tvg-name=”Imagen TV” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png” group-title=”MEXICO HD (ENCODER)”,Imagen TV
 
+http://iptvglobal.site:25461/nany1/nany1/86995
+ 
 #EXTINF:-1 tvg-id=”canal13.cl” tvg-name=”13 HD” tvg-logo=”http://streamgo.vip:8008/images/a67edae422309f893a73707b38e9ca09.png” group-title=”Chile ⭐”,13 HD
 
 http://streamgo.vip:8008/jonathan12/jonathan12/28219
@@ -638,9 +648,7 @@ http://iptvglobal.site:25461/Moises/Moises/90175
 
 http://iptvglobal.site:25461/Moises/Moises/124494
 
-#EXTINF:-1 tvg-id=”” tvg-name=”TV PÚBLICA HD “ tvg-logo=”https://i.ibb.co/jw0cxV3/tv-publica.jpg” group-title=”⭐ ARGENTINA “,TV PÚBLICA HD 
 
-http://cpi4u.com:45862/EDSON660/VEjxagzuVK/21248
 
 #EXTINF:-1 tvg-id=”” tvg-name=”Telemundo 31” tvg-logo=”https://upload.wikimedia.org/wikipedia/en/3/38/WTMO-CD_Logo.png” group-title=”ORLANDO (FLORIDA)”,Telemundo 31
 
