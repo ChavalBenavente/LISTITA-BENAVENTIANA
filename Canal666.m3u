@@ -206,6 +206,17 @@ http://cpi4u.com:45862/EDSON660/VEjxagzuVK/110012
 
 http://streamgo.vip:8008/jonathan12/jonathan12/168162
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Series" tvg-logo="https://static.epg.best/es/MovistarSeries.es.png" group-title="││TV││ ESPAÑA ",Movistar Series
+http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/1421
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Series 2" tvg-logo="https://static.epg.best/es/CcanalPlusSeriesmania.es.png" group-title="││TV││ ESPAÑA ",Movistar Series 2
+http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/1422
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Acción" tvg-logo="https://static.epg.best/es/MovistarAccion.es.png" group-title="││TV││ ESPAÑA ",Movistar Acción
+http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/1418
+
+
 #EXTINF:-1 tvg-id="historyhd.mx" tvg-name="History Channel FHD" tvg-logo="https://i.picasion.com/pic92/f80d806e267aa4d6986021e45379aea8.gif" group-title="LATIN DUAL AUDIO (FHD)",History Channel FHD
 
 http://iptvglobal.site:25461/Moises/Moises/86844
@@ -223,6 +234,22 @@ http://new-tv.cloud:25461/Antoniohdz22/Z99PfDcXwTnJ/174678
 
 #EXTINF:-1 tvg-id="natgeo.mx" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/O1znldX.png" group-title="TV | CULTURA Y MUNDO",National Geographic
 http://new-tv.cloud:25461/Antoniohdz22/Z99PfDcXwTnJ/174683
+
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic España" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png" group-title="││TV││ ESPAÑA ",National Geographic España
+http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/790
+
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo WILD" tvg-logo="https://static.epg.best/mx/NatGeoWild.mx.png" group-title="││TV││ DISCOVERY",NatGeo WILD
+http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/50
+
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo WILD España" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="││TV││ ESPAÑA ",NatGeo WILD España
+http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/1379
+
+#EXTINF:-1 tvg-id="" tvg-name="Odisea" tvg-logo="https://static.epg.best/es/Odisea.es.png" group-title="││TV││ ESPAÑA ",Odisea
+http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/1403
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN Español" tvg-logo="https://static.epg.best/mx/CableNewsNetwork.mx.png" group-title="││TV││ NOTICIAS",CNN Español
+http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Super" tvg-logo="http://tutv.online:36995/images/c05ebe927a3c3a098010bc80e86dee0c.jpg" group-title="24/7 Kids",24/7 | Dragon Ball Super
 
@@ -282,15 +309,21 @@ http://iptvglobal.site:25461/Moises/Moises/86872
 
 #EXTINF:-1 tvg-id=”cartoonnetwork.mx” tvg-name=”Cartoon Network SD” tvg-logo=”https://i.ibb.co/nQRgLLR/CARTOON-NETWOR.jpg” group-title=”⭐INFANTILES PREMIUM ✅ “,CARTOON NETWORK SD
 
-http://cpi4u.com:45862/EDSON660/VEjxagzuVK/1816
+http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/169
+
 
 #EXTINF:-1 tvg-id=”cartoonnetwork.ar” tvg-name=”Cartoon Network HD” tvg-logo=”https://i.ibb.co/nQRgLLR/CARTOON-NETWOR.jpg” group-title=”⭐INFANTILES PREMIUM ✅ “,Cartoon Network HD
 
 http://cpi4u.com:45862/EDSON660/VEjxagzuVK/1817
 
-#EXTINF:-1 tvg-id=”” tvg-name=”Nickelodeon HD” tvg-logo=”https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif” group-title=”CLARO TV (FHD)”,Nickelodeon HD
 
-http://iptvglobal.site:25461/nany1/nany1/135660
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es" group-title="││TV││ INFANTILES",Cartoonito
+http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/168
+
+
+#EXTINF:-1 tvg-id=”” tvg-name=”Nickelodeon HD” tvg-logo=”https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif” group-title=”CLARO TV (FHD)”,Nickelodeon HD
+http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/175
+
 
 #EXTINF:-1 tvg-id=”” tvg-name=”Nickelodeon España” tvg-logo=”http://streamgo.vip:8008/images/bb8f34562e38dd39fddc3f8900b76350.png” group-title=”Tv España ⭐”,Nickelodeon España
 
@@ -303,6 +336,10 @@ http://iptvglobal.site:25461/nany1/nany1/135664
 #EXTINF:-1 tvg-id=”” tvg-name=”Nick Jr. España” tvg-logo=”http://streamgo.vip:8008/images/57f6f526c0a95af828613d43dac5cad0.png” group-title=”Tv España ⭐”,Nick Jr. España
 
 http://streamgo.vip:8008/jonathan12/jonathan12/168001
+
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="││TV││ ESPAÑA ",Dreamworks
+http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/1409
+
 
 #EXTINF:-1 tvg-id=”canaln.pe” tvg-name=”CANAL N” tvg-logo=”https://i.ibb.co/ZK6V837/CANAL-N.jpg” group-title=”⭐ PERU”,CANAL N
 http://cpi4u.com:45862/EDSON660/VEjxagzuVK/86946
@@ -354,6 +391,14 @@ http://iptvglobal.site:25461/Moises/Moises/86848
 #EXTINF:-1 tvg-id=”amc.es” tvg-name=”AMC España” tvg-logo=”http://iptvglobal.site:25461/images/a615120e6d3bbfe8ca0b5a38509b4cf7.png” group-title=”ESPANA”,AMC España
 
 http://iptvglobal.site:25461/Moises/Moises/129533
+
+#EXTINF:-1 tvg-id="" tvg-name="AMC Crime España" tvg-logo="https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_2.png" group-title="││TV││ ESPAÑA ",AMC Crime España
+http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/1430
+
+#EXTINF:-1 tvg-id="filmandarts.mx" tvg-name="FILM & ARTS" tvg-logo="https://i.picasion.com/pic92/3570d6d71c4569d8ba8d52d62854d15e.gif" group-title="LATIN DUAL AUDIO (FHD)",FILM & ARTS
+
+http://iptvglobal.site:25461/Moises/Moises/86871
+
 
 #EXTINF:-1 tvg-id=”” tvg-name=”Star Channel” tvg-logo=”starchannel.jpg” group-title=”LATIN (FHD)”,Star Channel
 
@@ -566,6 +611,36 @@ http://cpi4u.com:45862/EDSON660/VEjxagzuVK/115391
 http://streamgo.vip:8008/jonathan12/jonathan12/150038
 
 
+#EXTINF:-1 tvg-id=”boomerang.mx” tvg-name=”BOOMERANG” tvg-logo=”” group-title=”MEXICO HD (ENCODER)”,BOOMERANG
+
+http://iptvglobal.site:25461/Moises/Moises/86971
+
+#EXTINF:-1 tvg-id=”” tvg-name=”DE PELICULA” tvg-logo=”https://i.picasion.com/pic92/3928a294778951e0205f6461e9b7972a.gif” group-title=”LATIN CINEMA (HD)”,DE PELICULA
+
+http://iptvglobal.site:25461/Moises/Moises/90166
+
+#EXTINF:-1 tvg-id=”” tvg-name=”GOLDEN PREMIER” tvg-logo=”https://i.picasion.com/pic92/5f09b99c9da386bf38734fb7b73abc6e.gif” group-title=”LATIN CINEMA (HD)”,GOLDEN PREMIER
+
+http://iptvglobal.site:25461/Moises/Moises/90167
+
+#EXTINF:-1 tvg-id=”golden.mx” tvg-name=”GOLDEN” tvg-logo=”http://iptvglobal.site:25461/images/092765ab50cf86081c76eef40c3dec50.jpg” group-title=”LATIN CINEMA (HD)”,GOLDEN
+
+http://iptvglobal.site:25461/Moises/Moises/90169
+
+#EXTINF:-1 tvg-id=”goldenplus.mx” tvg-name=”GOLDEN PLUS” tvg-logo=”https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU” group-title=”Cine Premium ▶️”,GOLDEN PLUS
+
+http://streamgo.vip:8008/jonathan12/jonathan12/147327
+
+#EXTINF:-1 tvg-id=”cinemax.mx” tvg-name=”Cinemax” tvg-logo=”https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif” group-title=”LATIN CINEMA (HD)”,Cinemax
+
+http://iptvglobal.site:25461/Moises/Moises/90175 
+
+#EXTINF:-1 tvg-id=”” tvg-name=”TRUTV HD” tvg-logo=”http://iptvglobal.site:25461/images/580af8efe7a11b4eadef44837260a3c6.png” group-title=”MEXICO HD (ENCODER)”,TRUTV HD
+
+http://iptvglobal.site:25461/Moises/Moises/124494
+
+
+
 #EXTINF:-1 tvg-id=”imagentv.mx” tvg-name=”Imagen TV” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png” group-title=”MEXICO HD (ENCODER)”,Imagen TV
 
 http://iptvglobal.site:25461/nany1/nany1/86995
@@ -620,39 +695,11 @@ http://streamgo.vip:8008/jonathan12/jonathan12/168116
 
 http://streamgo.vip:8008/jonathan12/jonathan12/168117
 
-#EXTINF:-1 tvg-id="filmandarts.mx" tvg-name="FILM & ARTS FHD" tvg-logo="https://i.picasion.com/pic92/3570d6d71c4569d8ba8d52d62854d15e.gif" group-title="LATIN DUAL AUDIO (FHD)",FILM & ARTS FHD
 
-http://iptvglobal.site:25461/Moises/Moises/86871
 
  
 
-#EXTINF:-1 tvg-id=”boomerang.mx” tvg-name=”BOOMERANG” tvg-logo=”” group-title=”MEXICO HD (ENCODER)”,BOOMERANG
 
-http://iptvglobal.site:25461/Moises/Moises/86971
-
-#EXTINF:-1 tvg-id=”” tvg-name=”DE PELICULA” tvg-logo=”https://i.picasion.com/pic92/3928a294778951e0205f6461e9b7972a.gif” group-title=”LATIN CINEMA (HD)”,DE PELICULA
-
-http://iptvglobal.site:25461/Moises/Moises/90166
-
-#EXTINF:-1 tvg-id=”” tvg-name=”GOLDEN PREMIER” tvg-logo=”https://i.picasion.com/pic92/5f09b99c9da386bf38734fb7b73abc6e.gif” group-title=”LATIN CINEMA (HD)”,GOLDEN PREMIER
-
-http://iptvglobal.site:25461/Moises/Moises/90167
-
-#EXTINF:-1 tvg-id=”golden.mx” tvg-name=”GOLDEN” tvg-logo=”http://iptvglobal.site:25461/images/092765ab50cf86081c76eef40c3dec50.jpg” group-title=”LATIN CINEMA (HD)”,GOLDEN
-
-http://iptvglobal.site:25461/Moises/Moises/90169
-
-#EXTINF:-1 tvg-id=”goldenplus.mx” tvg-name=”GOLDEN PLUS” tvg-logo=”https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU” group-title=”Cine Premium ▶️”,GOLDEN PLUS
-
-http://streamgo.vip:8008/jonathan12/jonathan12/147327
-
-#EXTINF:-1 tvg-id=”cinemax.mx” tvg-name=”Cinemax” tvg-logo=”https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif” group-title=”LATIN CINEMA (HD)”,Cinemax
-
-http://iptvglobal.site:25461/Moises/Moises/90175 
-
-#EXTINF:-1 tvg-id=”” tvg-name=”TRUTV HD” tvg-logo=”http://iptvglobal.site:25461/images/580af8efe7a11b4eadef44837260a3c6.png” group-title=”MEXICO HD (ENCODER)”,TRUTV HD
-
-http://iptvglobal.site:25461/Moises/Moises/124494
 
 
 
@@ -769,6 +816,3 @@ http://new-tv.cloud:25461/Antoniohdz22/Z99PfDcXwTnJ/174195
 #EXTINF:-1 tvg-id="" tvg-name="Universal Cinema" tvg-logo="https://i.imgur.com/sk9LvN2.png" group-title="TV | CINEMA PREMIUM",Universal Cinema
 http://new-tv.cloud:25461/Antoniohdz22/Z99PfDcXwTnJ/174196
 
-#EXTINF:-1 tvg-id=”” tvg-name=”ClickTV” tvg-logo=”clicktvchile.png” group-title=”",ClickTv
-
-https://content.jwplatform.com/previews/v9FT4IAy
