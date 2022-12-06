@@ -40,9 +40,15 @@ http://streamgo.vip:8008/jonathan12/jonathan12/167726
 
 http://streamgo.vip:8008/jonathan12/jonathan12/167727
 
+#EXTINF:-1 tvg-id="" tvg-name="Gol Mundial" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7864_41a_1_c00000_0_0_0.png" group-title="││TV││⛹️ DEPORTE ESPAÑA OPC2 ⛹️",Gol Mundial
+http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/25962
+
 #EXTINF:-1 tvg-id=”golperu.pe” tvg-name=”Gol Perú FHD” tvg-logo=”http://streamgo.vip:8008/images/7418ab7b1d5e79d1050f53f7ffcb0317.png” group-title=”Sports” “Perú”,Gol Perú FHD
 
 http://streamgo.vip:8008/jonathan12/jonathan12/166609
+
+#EXTINF:-1 tvg-id="" tvg-name="Gol Perú" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="││TV││⛹️ DEPORTE PERU ⛹️",Gol Perú 
+http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/253
 
 #EXTINF:-1 tvg-id=”golperu.pe” tvg-name=”Gol Perú HD” tvg-country=”PE” tvg-logo=”https://i.postimg.cc/0rRZZm1v/Picsart-22-11-22-02-12-07-238.jpg” group-title=”Sports”, Gol Perú HD
 
@@ -193,6 +199,15 @@ http://iptvglobal.site:25461/nany1/nany1/87054
 #EXTINF:-1 tvg-id=”foxsports3.mx” tvg-name=”Fox Sports 3 México” tvg-logo=”https://i.picasion.com/pic92/750f7e24fe0d3482e6c5b32048f66d6b.gif” group-title=”MEXICO HD (ENCODER)”,Fox Sports 3 México
 
 http://iptvglobal.site:25461/nany1/nany1/87053
+
+#EXTINF:-1 tvg-id="" tvg-name="TUDN USA" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",TUDN USA
+http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/395
+#EXTINF:-1 tvg-id="" tvg-name="TUDN México" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",TUDN México
+http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/397
+
+#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes" tvg-logo="https://static.epg.best/mx/TVC.mx.png" group-title="││TV││ MEXICO",TVC Deportes
+http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/277
+
 
 #EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="Comedy Central HD" tvg-logo="https://i.picasion.com/pic92/30d2e21e2b372eab1b794b1f801b91be.gif" group-title="MEXICO HD(ENCODER)",Comedy Central HD
 
@@ -579,6 +594,13 @@ http://iptvglobal.site:25461/nany1/nany1/87228
 
 http://iptvglobal.site:25461/Moises/Moises/86870
 
+#EXTINF:-1 tvg-id="" tvg-name="Universal Reality" tvg-logo="https://i.imgur.com/sYQKMfP.png" group-title="TV | CINEMA PREMIUM",Universal Reality
+http://new-tv.cloud:25461/Antoniohdz22/Z99PfDcXwTnJ/174194
+#EXTINF:-1 tvg-id="" tvg-name="Universal Comedia" tvg-logo="https://i.imgur.com/Z8QtoFp.png" group-title="TV | CINEMA PREMIUM",Universal Comedia
+http://new-tv.cloud:25461/Antoniohdz22/Z99PfDcXwTnJ/174195
+#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema" tvg-logo="https://i.imgur.com/sk9LvN2.png" group-title="TV | CINEMA PREMIUM",Universal Cinema
+http://new-tv.cloud:25461/Antoniohdz22/Z99PfDcXwTnJ/174196
+
 
 #EXTINF:-1 tvg-id=”” tvg-name=”Starz HD” tvg-logo=”http://logoiptv.dynns.com/iptv/Starz.jpg” group-title=”Pack StarZ ⭐️”,Starz HD
 
@@ -809,10 +831,6 @@ http://iptvglobal.site:25461/Moises/Moises/86478
 
 http://streamgo.vip:8008/jonathan12/jonathan12/158337
 
-#EXTINF:-1 tvg-id="" tvg-name="Universal Reality" tvg-logo="https://i.imgur.com/sYQKMfP.png" group-title="TV | CINEMA PREMIUM",Universal Reality
-http://new-tv.cloud:25461/Antoniohdz22/Z99PfDcXwTnJ/174194
-#EXTINF:-1 tvg-id="" tvg-name="Universal Comedia" tvg-logo="https://i.imgur.com/Z8QtoFp.png" group-title="TV | CINEMA PREMIUM",Universal Comedia
-http://new-tv.cloud:25461/Antoniohdz22/Z99PfDcXwTnJ/174195
-#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema" tvg-logo="https://i.imgur.com/sk9LvN2.png" group-title="TV | CINEMA PREMIUM",Universal Cinema
-http://new-tv.cloud:25461/Antoniohdz22/Z99PfDcXwTnJ/174196
 
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY CANAL 10" tvg-logo="https://i.imgur.com/fuQOkHk.png" group-title="││TV││ URUGUAY ",URUGUAY CANAL 10
+http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/488
