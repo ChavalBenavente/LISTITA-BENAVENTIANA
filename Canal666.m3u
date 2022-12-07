@@ -41,7 +41,8 @@ http://streamgo.vip:8008/jonathan12/jonathan12/167726
 http://streamgo.vip:8008/jonathan12/jonathan12/167727
 
 #EXTINF:-1 tvg-id="" tvg-name="Gol Mundial" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7864_41a_1_c00000_0_0_0.png" group-title="││TV││⛹️ DEPORTE ESPAÑA OPC2 ⛹️",Gol Mundial
-http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/25962
+http://castlempire.site:8080/4201/4201/238496
+
 
 #EXTINF:-1 tvg-id=”golperu.pe” tvg-name=”Gol Perú FHD” tvg-logo=”http://streamgo.vip:8008/images/7418ab7b1d5e79d1050f53f7ffcb0317.png” group-title=”Sports” “Perú”,Gol Perú FHD
 
@@ -200,8 +201,13 @@ http://iptvglobal.site:25461/nany1/nany1/87054
 
 http://iptvglobal.site:25461/nany1/nany1/87053
 
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTV" tvg-logo="http://castlempire.site:8080/images/cafa8b11c75c407b843bcd352bd82147.png" group-title="Argentina",DEPORTV
+http://castlempire.site:8080/4201/4201/184446
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TUDN USA" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",TUDN USA
 http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/395
+
 #EXTINF:-1 tvg-id="" tvg-name="TUDN México" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",TUDN México
 http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/397
 
@@ -220,6 +226,7 @@ http://cpi4u.com:45862/EDSON660/VEjxagzuVK/110012
 #EXTINF:-1 tvg-id=”comedy” tvg-name=”Comedy Central España 2” tvg-logo=”http://streamgo.vip:8008/images/17ad467ec489133da03c6b3cb03f5d07.jpg” group-title=”Tv España ⭐”,Comedy Central España 2
 
 http://streamgo.vip:8008/jonathan12/jonathan12/168162
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Series" tvg-logo="https://static.epg.best/es/MovistarSeries.es.png" group-title="││TV││ ESPAÑA ",Movistar Series
@@ -265,14 +272,24 @@ http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/1403
 #EXTINF:-1 tvg-id="" tvg-name="CNN Español" tvg-logo="https://static.epg.best/mx/CableNewsNetwork.mx.png" group-title="││TV││ NOTICIAS",CNN Español
 http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/8
 
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="⭐️CANALES 4K⭐️",El Gourmet
+http://castlempire.site:8080/4201/4201/238977
+
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet Argentina" tvg-logo="http://castlempire.site:8080/images/503b6c92c900bf81b8079256b805397e.png" group-title="*CULTURA*",El Gourmet Argentina
+http://castlempire.site:8080/4201/4201/171013
+
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Super" tvg-logo="http://tutv.online:36995/images/c05ebe927a3c3a098010bc80e86dee0c.jpg" group-title="24/7 Kids",24/7 | Dragon Ball Super
 
 http://tutv.online:2080/Patricio/Patricio/18058
 
-#EXTINF:-1 tvg-id=”” tvg-name=”Discovery Channel HD” tvg-logo=”https://selectra.mx/sites/default/files/styles/_default/public/images/logos/discovery-channel-logo-350x183.png?itok=e6NzDgq0” group-title=”VIP FULL-HD (+30 Mbps)⭐️”,Discovery Channel HD
+#EXTINF:-1 tvg-id=”” tvg-name=”Discovery Channel” tvg-logo=”https://selectra.mx/sites/default/files/styles/_default/public/images/logos/discovery-channel-logo-350x183.png?itok=e6NzDgq0” group-title=”VIP FULL-HD (+30 Mbps)⭐️”,Discovery Channel
 
 http://tutv.online:2080/Patricio/Patricio/72065
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel USA" tvg-logo="" group-title="⭐️CANALES 4K⭐️",Discovery Channel USA
+http://castlempire.site:8080/4201/4201/238973
+
 
 #EXTINF:-1 tvg-id=”discoverychannel.sp” tvg-name=”Discovery Channel España” tvg-logo=”http://mirror.streamhubtv.me:8080/images/be34fe9fbde58cdeb95658967017059f.png” group-title=”⭐ ESPAÑA “,Discovery Channel España
 
@@ -324,7 +341,8 @@ http://iptvglobal.site:25461/Moises/Moises/86872
 
 #EXTINF:-1 tvg-id=”cartoonnetwork.mx” tvg-name=”Cartoon Network SD” tvg-logo=”https://i.ibb.co/nQRgLLR/CARTOON-NETWOR.jpg” group-title=”⭐INFANTILES PREMIUM ✅ “,CARTOON NETWORK SD
 
-http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/169
+http://castlempire.site:8080/4201/4201/238972
+
 
 
 #EXTINF:-1 tvg-id=”cartoonnetwork.ar” tvg-name=”Cartoon Network HD” tvg-logo=”https://i.ibb.co/nQRgLLR/CARTOON-NETWOR.jpg” group-title=”⭐INFANTILES PREMIUM ✅ “,Cartoon Network HD
