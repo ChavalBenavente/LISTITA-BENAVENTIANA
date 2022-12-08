@@ -244,6 +244,9 @@ http://castlempire.site:8080/4201/4201/173633
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Estrenos" tvg-logo="" group-title="ESPAÑA OP2",Movistar Estrenos
 http://castlempire.site:8080/4201/4201/173745
 
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Estrenos 2" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+series+xtra-01.png" group-title="ESPAÑA CINE",Movistar Estrenos 2
+http://castlempire.site:8080/4201/4201/173652
+
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Ñ" tvg-logo="" group-title="ESPAÑA OP2",Movistar Ñ
 http://castlempire.site:8080/4201/4201/173746
 
@@ -402,11 +405,16 @@ http://new-tv.cloud:25461/Antoniohdz22/Z99PfDcXwTnJ/171477
 
 #EXTINF:-1 tvg-id=”” tvg-name=”Canal Claro” tvg-logo=”https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif” group-title=”CLARO TV (FHD)”,Canal Claro
 
-http://iptvglobal.site:25461/nany1/nany1/135597
+http://castlempire.site:8080/4201/4201/190206
+
 
 #EXTINF:-1 tvg-id=”” tvg-name=”Claro Sports” tvg-logo=”https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif” group-title=”CLARO TV (FHD)”,Claro Sports
 
-http://iptvglobal.site:25461/nany1/nany1/135598
+http://castlempire.site:8080/4201/4201/169912
+
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports 2" tvg-logo="http://castlempire.site:8080/images/c3ccb88837dc2195572cdfd92ce5b3c1.png" group-title="**DEPORTES HD-OP2**⚽",Claro Sports 2
+http://castlempire.site:8080/4201/4201/181284
+
 
 #EXTINF:-1 tvg-id=”lifetime.mx” tvg-name=”Lifetime” tvg-logo=”http://iptvglobal.site:25461/images/98a2245eb8327ea202772dee3062f094.png” group-title=”MEXICO HD (ENCODER)”,Lifetime
 
@@ -460,12 +468,16 @@ http://iptvglobal.site:25461/Moises/Moises/130353
 
 http://iptvglobal.site:25461/nany1/nany1/88215
 
+#EXTINF:-1 tvg-id="" tvg-name="Atreseries Internacional" tvg-logo="http://castlempire.site:8080/images/4dd94898be10245e6d321411f3a7738c.png" group-title="Mexico HD",Atreseries Internacional
+http://castlempire.site:8080/4201/4201/190660
+
 #EXTINF:-1 tvg-id="" tvg-name="ATRES SERIES" tvg-logo="" group-title="⭐️CANALES 4K⭐️",ATRES SERIES
 http://castlempire.site:8080/4201/4201/238983
 
-#EXTINF:-1 tvg-id=”antena3.mx” tvg-name=”ANTENA SERIES HD” tvg-logo=”http://iptvglobal.site:25461/images/7161afb1a96e248ee7e33d143625c869.png” group-title=”MEXICO HD (ENCODER)”,ANTENA SERIES HD
+#EXTINF:-1 tvg-id=”antena3.mx” tvg-name=”A3S ESPAÑA” tvg-logo=”http://iptvglobal.site:25461/images/7161afb1a96e248ee7e33d143625c869.png” group-title=”MEXICO HD (ENCODER)”,A3S España
 
-http://iptvglobal.site:25461/nany1/nany1/124475
+http://castlempire.site:8080/4201/4201/173622
+
 
 #EXTINF:-1 tvg-id="axn.mx" tvg-name="AXN FHD" tvg-logo="https://i.picasion.com/pic92/ff7e04f714e191ff795392fa777c7f34.gif" group-title="LATIN ENTERTAINMENT (HD)",AXN FHD
 
@@ -513,7 +525,8 @@ http://iptvglobal.site:25461/nany1/nany1/87004
 
 #EXTINF:-1 tvg-id=”paramount.es” tvg-name=”Paramount Network Esñaña” tvg-logo=”http://cpi4u.com:45862/images/da5e8049aecc3505e9304ce140840851.png” group-title=”⭐ ESPAÑA “,Paramount Network España
 
-http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109972 
+http://castlempire.site:8080/4201/4201/173651
+
 
 #EXTINF:-1 tvg-id="tnt.mx" tvg-name="TNT FHD" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="LATIN DUAL AUDIO (FHD)",TNT FHD
 
@@ -555,6 +568,8 @@ http://iptvglobal.site:25461/Moises/Moises/86850
 
 http://tutv.online:2080/Patricio/Patricio/72062
 
+#EXTINF:-1 tvg-id="energy.es" tvg-name="Energy" tvg-logo="http://castlempire.site:8080/images/2084d1464eaf1aa13eb49c24743adb76.png" group-title="ESPAÑA CINE",Energy
+http://castlempire.site:8080/4201/4201/173626
 
 
 #EXTINF:-1 tvg-id=”” tvg-name=”Showtime Beyond HD” tvg-logo=”http://logoiptv.dynns.com/iptv/Showtime.png” group-title=”Pack ShowTime ⭐️”,Showtime Beyond HD
@@ -749,9 +764,6 @@ http://streamgo.vip:8008/jonathan12/jonathan12/168114
 
 http://iptvglobal.site:25461/nany1/nany1/86977
 
-#EXTINF:-1 tvg-id=”” tvg-name=”ENERGY HD” tvg-logo=”http://streamgo.vip:8008/images/5819e8ce65172793665396ddb1f2ec7c.png” group-title=”Tv España ⭐”,ENERGY HD
-
-http://streamgo.vip:8008/jonathan12/jonathan12/168116
 
 #EXTINF:-1 tvg-id=”” tvg-name=”DKISS” tvg-logo=”http://streamgo.vip:8008/images/afccc3195fe20727961833a33a594537.png” group-title=”Tv España ⭐”,DKISS
 
@@ -871,6 +883,8 @@ http://iptvglobal.site:25461/Moises/Moises/86478
 
 http://streamgo.vip:8008/jonathan12/jonathan12/158337
 
+#EXTINF:-1 tvg-id="" tvg-name="Ovacion" tvg-logo="http://51.222.105.31:8080/images/4a36f0a41e31a0d739d5266cd15cabb1.png" group-title="Peru Geo",Ovacion
+http://castlempire.site:8080/4201/4201/99762
 
 #EXTINF:-1 tvg-id="" tvg-name="URUGUAY CANAL 10" tvg-logo="https://i.imgur.com/fuQOkHk.png" group-title="││TV││ URUGUAY ",URUGUAY CANAL 10
 http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/488
