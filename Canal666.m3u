@@ -230,13 +230,28 @@ http://streamgo.vip:8008/jonathan12/jonathan12/168162
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Series" tvg-logo="https://static.epg.best/es/MovistarSeries.es.png" group-title="││TV││ ESPAÑA ",Movistar Series
-http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/1421
+http://castlempire.site:8080/4201/4201/173634
 
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Series 2" tvg-logo="https://static.epg.best/es/CcanalPlusSeriesmania.es.png" group-title="││TV││ ESPAÑA ",Movistar Series 2
-http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/1422
+http://castlempire.site:8080/4201/4201/173635
 
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Acción" tvg-logo="https://static.epg.best/es/MovistarAccion.es.png" group-title="││TV││ ESPAÑA ",Movistar Acción
-http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/1418
+http://castlempire.site:8080/4201/4201/173631
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Comedia" tvg-logo="http://castlempire.site:8080/images/55affa621060decf75fcd4fa73550c2d.png" group-title="ESPAÑA CINE",Movistar Comedia
+http://castlempire.site:8080/4201/4201/173633
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Estrenos" tvg-logo="" group-title="ESPAÑA OP2",Movistar Estrenos
+http://castlempire.site:8080/4201/4201/173745
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Ñ" tvg-logo="" group-title="ESPAÑA OP2",Movistar Ñ
+http://castlempire.site:8080/4201/4201/173746
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Disney" tvg-logo="http://castlempire.site:8080/images/e2b44c8908559da092950702153566ee.png" group-title="ESPAÑA CINE",Movistar Disney
+http://castlempire.site:8080/4201/4201/173653
+
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="Hollywood" tvg-logo="http://castlempire.site:8080/images/d052c3b53c436f6846f409793b478c81.png" group-title="ESPAÑA CINE",Hollywood
+http://castlempire.site:8080/4201/4201/173630
 
 
 #EXTINF:-1 tvg-id="historyhd.mx" tvg-name="History Channel FHD" tvg-logo="https://i.picasion.com/pic92/f80d806e267aa4d6986021e45379aea8.gif" group-title="LATIN DUAL AUDIO (FHD)",History Channel FHD
@@ -270,7 +285,11 @@ http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/1379
 http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/1403
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN Español" tvg-logo="https://static.epg.best/mx/CableNewsNetwork.mx.png" group-title="││TV││ NOTICIAS",CNN Español
-http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/8
+http://castlempire.site:8080/4201/4201/172590
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN Chile" tvg-logo="http://castlempire.site:8080/images/04190dcb9cc9e19e5ef861e6180a8e33.jpg" group-title="Chile",CNN Chile
+http://castlempire.site:8080/4201/4201/170096
+
 
 #EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="⭐️CANALES 4K⭐️",El Gourmet
 http://castlempire.site:8080/4201/4201/238977
@@ -440,6 +459,9 @@ http://iptvglobal.site:25461/Moises/Moises/130353
 #EXTINF:-1 tvg-id=”” tvg-name=”A3S” tvg-logo=”https://i.picasion.com/pic92/1d65e2436007297cf84fa5f027c1056e.gif” group-title=”LATIN ENTERTAINMENT (HD)”,A3S
 
 http://iptvglobal.site:25461/nany1/nany1/88215
+
+#EXTINF:-1 tvg-id="" tvg-name="ATRES SERIES" tvg-logo="" group-title="⭐️CANALES 4K⭐️",ATRES SERIES
+http://castlempire.site:8080/4201/4201/238983
 
 #EXTINF:-1 tvg-id=”antena3.mx” tvg-name=”ANTENA SERIES HD” tvg-logo=”http://iptvglobal.site:25461/images/7161afb1a96e248ee7e33d143625c869.png” group-title=”MEXICO HD (ENCODER)”,ANTENA SERIES HD
 
