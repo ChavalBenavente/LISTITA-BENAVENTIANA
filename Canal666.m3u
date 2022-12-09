@@ -209,13 +209,17 @@ http://castlempire.site:8080/4201/4201/184446
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TUDN USA" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",TUDN USA
-http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/395
+http://visionplay.me:8080/ITZIAHERN/31349/322194
 
 #EXTINF:-1 tvg-id="" tvg-name="TUDN México" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",TUDN México
-http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/397
+http://visionplay.me:8080/ITZIAHERN/31349/322304
+
+#EXTINF:-1 tvg-id="" tvg-name="Zona TUDN" tvg-logo="http://dns.k4livetv.com:8080/images/4d9d690b07eb288707b5154423fe1dcf.jpg" group-title="⚽⚾ - DEPORTES LATINOS ",Zona TUDN
+http://visionplay.me:8080/ITZIAHERN/31349/278957
 
 #EXTINF:-1 tvg-id="" tvg-name="TVC Deportes" tvg-logo="https://static.epg.best/mx/TVC.mx.png" group-title="││TV││ MEXICO",TVC Deportes
-http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/277
+http://visionplay.me:8080/ITZIAHERN/31349/465723
+
 
 
 #EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="Comedy Central HD" tvg-logo="https://i.picasion.com/pic92/30d2e21e2b372eab1b794b1f801b91be.gif" group-title="MEXICO HD(ENCODER)",Comedy Central HD
@@ -278,6 +282,10 @@ http://new-tv.cloud:25461/Antoniohdz22/Z99PfDcXwTnJ/174678
 #EXTINF:-1 tvg-id="natgeo.mx" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/O1znldX.png" group-title="TV | CULTURA Y MUNDO",National Geographic
 http://new-tv.cloud:25461/Antoniohdz22/Z99PfDcXwTnJ/174683
 
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Argentina" tvg-logo="" group-title="⚪ - LATINOS HD",NatGeo Argentina
+http://visionplay.me:8080/ITZIAHERN/31349/466098
+
+
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic España" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png" group-title="││TV││ ESPAÑA ",National Geographic España
 http://visionplay.me:8080/ITZIAHERN/31349/462845
 
@@ -287,6 +295,9 @@ http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/50
 
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo WILD España" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="││TV││ ESPAÑA ",NatGeo WILD España
 http://visionplay.me:8080/ITZIAHERN/31349/462844
+
+#EXTINF:-1 tvg-id="Xconfirmar" tvg-name="NatGeo Mundo" tvg-logo="http://dns.k4livetv.com:8080/images/572a2af557e184c7667b2b1a5e23561a.png" group-title="⚪ - DOCUMENTALES Y CULTURALES ",NatGeo Mundo
+http://visionplay.me:8080/ITZIAHERN/31349/278548
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Odisea" tvg-logo="https://static.epg.best/es/Odisea.es.png" group-title="││TV││ ESPAÑA ",Odisea
