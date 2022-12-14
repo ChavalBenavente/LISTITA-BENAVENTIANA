@@ -103,9 +103,10 @@ http://streamgo.vip:8008/jonathan12/jonathan12/140409
 
 http://iptvglobal.site:25461/Moises/Moises/87149
 
-#EXTINF:-1 tvg-id=”Boing.es” tvg-name=”Boing FHD” tvg-logo=”http://streamgo.vip:8008/images/77a3eb5fb7bd8e418593ed0eb110edd2.png” group-title=”Tv España ⭐”,Boing FHD
+#EXTINF:-1 tvg-id=”Boing.es” tvg-name=”Boing FHD” tvg-logo=”http://nowresurface.eu:2086/images/051bcf39646baa8c329ceeb3db09f32d.png” group-title=”Tv España ⭐”,Boing FHD
 
-http://streamgo.vip:8008/jonathan12/jonathan12/168006 
+http://pofftvmax.com:2086/augusto/123456/478
+ 
 
 #EXTINF:-1 tvg-id=”telefe.ar” tvg-name=”Telefe HD” tvg-logo=”http://tutv.online:2080/images/7aaa339acbc3f286f02236ccb094ad83.png” group-title=”Argentina”,Telefe HD
 
@@ -371,13 +372,14 @@ http://iptvglobal.site:25461/Moises/Moises/86873
 
 http://iptvglobal.site:25461/Moises/Moises/86874
 
-#EXTINF:-1 tvg-id=”DisneyChannel.es” tvg-name=”Disney Channel España” tvg-logo=”http://streamgo.vip:8008/images/cdeeafbf75d0756deafe04c647cb47be.png” group-title=”Tv España ⭐”,Disney Channel España
+#EXTINF:-1 tvg-id=”DisneyChannel.es” tvg-name=”Disney Channel España” tvg-logo=”http://nowresurface.eu:2086/images/faad98defda5a207e361c6fe78ce3f55.png” group-title=”Tv España ⭐”,Disney Channel España
 
-http://streamgo.vip:8008/jonathan12/jonathan12/168000
+http://pofftvmax.com:2086/augusto/123456/482
 
-#EXTINF:-1 tvg-id=”DisneyJr.es” tvg-name=”Disney Jr. España” tvg-logo=”http://streamgo.vip:8008/images/f3b23b22f7d0803b4170d415df30860a.png” group-title=”Tv España ⭐”,Disney Jr. España
+#EXTINF:-1 tvg-id=”DisneyJr.es” tvg-name=”Disney Jr. España” tvg-logo=”http://nowresurface.eu:2086/images/bfaa929c0c7c801d0a72e201e2f19513.png” group-title=”Tv España ⭐”,Disney Jr. España
 
-http://streamgo.vip:8008/jonathan12/jonathan12/167999
+http://pofftvmax.com:2086/augusto/123456/481
+
 
 #EXTINF:-1 tvg-id=”cartoonnetwork.mx” tvg-name=”Cartoon Network FHD” tvg-logo=”https://i.picasion.com/pic92/b1f38c6755faad12fdf555290c877050.gif” group-title=”LATIN DUAL AUDIO (FHD) ”,Cartoon Network FHD
 
@@ -402,17 +404,18 @@ http://visionplay.me:8080/ITZIAHERN/31349/416410
 http://visionplay.me:8080/ITZIAHERN/31349/466071
 
 
-#EXTINF:-1 tvg-id=”” tvg-name=”Nickelodeon España” tvg-logo=”http://streamgo.vip:8008/images/bb8f34562e38dd39fddc3f8900b76350.png” group-title=”Tv España ⭐”,Nickelodeon España
+#EXTINF:-1 tvg-id=”” tvg-name=”Nickelodeon España” tvg-logo=”http://nowresurface.eu:2086/images/b11cc9ad84502b27a63fa7a8d813ef6a.png” group-title=”Tv España ⭐”,Nickelodeon España
 
-http://streamgo.vip:8008/jonathan12/jonathan12/167997
+http://pofftvmax.com:2086/augusto/123456/484
+
 
 #EXTINF:-1 tvg-id=”” tvg-name=”Nick Jr. HD” tvg-logo=”https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif” group-title=”CLARO TV (FHD)”,Nick Jr. HD
 
 http://iptvglobal.site:25461/nany1/nany1/135664
 
-#EXTINF:-1 tvg-id=”” tvg-name=”Nick Jr. España” tvg-logo=”http://streamgo.vip:8008/images/57f6f526c0a95af828613d43dac5cad0.png” group-title=”Tv España ⭐”,Nick Jr. España
+#EXTINF:-1 tvg-id=”” tvg-name=”Nick Jr. España” tvg-logo=”http://nowresurface.eu:2086/images/68f0e063af7ff04b4b7eeb362f50744c.png” group-title=”Tv España ⭐”,Nick Jr. España
 
-http://streamgo.vip:8008/jonathan12/jonathan12/168001
+http://pofftvmax.com:2086/augusto/123456/485
 
 #EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="││TV││ ESPAÑA ",Dreamworks
 http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/1409
@@ -420,6 +423,10 @@ http://restreamus.com:8080/d5c9fYPUY4MH/ZdJ3LSaMLAPL/1409
 
 #EXTINF:-1 tvg-id=”canaln.pe” tvg-name=”CANAL N” tvg-logo=”https://i.ibb.co/ZK6V837/CANAL-N.jpg” group-title=”⭐ PERU”,CANAL N
 http://cpi4u.com:45862/EDSON660/VEjxagzuVK/86946
+
+#EXTINF:-1 tvg-id="Clan" tvg-name="CLAN TVE" tvg-logo="http://nowresurface.eu:2086/images/603c07e2735df19b9a7ce091d7453d2b.png" group-title="INFANTIL",CLAN TVE
+http://pofftvmax.com:2086/augusto/123456/480
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Cine Terror GoogleTV" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="TV | GOOGLE TV",Cine Terror GoogleTV
 http://new-tv.cloud:25461/Antoniohdz22/Z99PfDcXwTnJ/171477
