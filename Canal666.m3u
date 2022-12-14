@@ -351,6 +351,10 @@ http://iptvglobal.site:25461/Moises/Moises/86846
 
 http://iptvglobal.site:25461/nany1/nany1/87033
 
+#EXTINF:-1 tvg-id="MTV España" tvg-name="MTV España" tvg-logo="http://nowresurface.eu:2086/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="ENTRETENIMIENTO",MTV España
+http://pofftvmax.com:2086/augusto/123456/205
+
+
 #EXTINF:-1 tvg-id=”discoveryid.mx” tvg-name=”Discovery ID HD” tvg-logo=”https://cdn.mitvstatic.com/channels/co_discovery-id-hd_m.png” group-title=”VIP FULL-HD (+30 Mbps)⭐️”,Discovery Investigation HD
 
 http://tutv.online:2080/Patricio/Patricio/72067
