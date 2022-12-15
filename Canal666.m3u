@@ -482,8 +482,8 @@ http://iptvglobal.site:25461/Moises/Moises/86848
 
 http://iptvglobal.site:25461/Moises/Moises/129533
 
-#EXTINF:-1 tvg-id="" tvg-name="AMC Crime" tvg-logo="https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_2.png" group-title="││TV││ ESPAÑA ",AMC Crime
-http://visionplay.me:8080/ITZIAHERN/31349/462842
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC Crime" tvg-logo="http://nowresurface.eu:2086/images/82354908d326d6b73c7b723c276ddefe.png" group-title="CINE/SERIES",AMC Crime
+http://pofftvmax.com:2086/augusto/123456/4162
 
 #EXTINF:-1 tvg-id="Canal Cocina" tvg-name="AMC Cocina" tvg-logo="http://nowresurface.eu:2086/images/99281303f6eab9edf2ec9f7ffde1bbaa.png" group-title="ENTRETENIMIENTO",AMC Cocina
 http://pofftvmax.com:2086/augusto/123456/185
@@ -492,7 +492,7 @@ http://pofftvmax.com:2086/augusto/123456/185
 http://pofftvmax.com:2086/augusto/123456/4155
 
 
-#EXTINF:-1 tvg-id="filmandarts.mx" tvg-name="AMC Film & Arts" tvg-logo="https://i.picasion.com/pic92/3570d6d71c4569d8ba8d52d62854d15e.gif" group-title="LATIN DUAL AUDIO (FHD)",AMC Film & Arts
+#EXTINF:-1 tvg-id="filmandarts.mx" tvg-name="Film & Arts" tvg-logo="https://i.picasion.com/pic92/3570d6d71c4569d8ba8d52d62854d15e.gif" group-title="LATIN DUAL AUDIO (FHD)",Film & Arts
 
 http://iptvglobal.site:25461/Moises/Moises/86871
 
@@ -538,9 +538,9 @@ http://iptvglobal.site:25461/Moises/Moises/124491
 
 #EXTINF:-1 tvg-id=”axnwhite.es” tvg-name=”AXN WHITE ESPAÑA” tvg-logo=”http://mirror.streamhubtv.me:8080/images/89892b4830845317fb46634f6ea21665.png” group-title=”⭐ ESPAÑA “,AXN WHITE ESPAÑA
 
-http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109992
+http://pofftvmax.com:2086/augusto/123456/4153
 
-#EXTINF:-1 tvg-id=”fox.es” tvg-name=”FOX ESPAÑA” tvg-logo=”http://castlempire.site:8080/images/1e6dd5dfab2ebc2be769b1f4b6061161.jpg” group-title=”⭐ ESPAÑA “,FOX ESPAÑA
+#EXTINF:-1 tvg-id=”fox.es” tvg-name=”FOX ESPAÑA” tvg-logo=”http://nowresurface.eu:2086/images/1cbdb8043b37c7c9ca83582f9218c8b4.png” group-title=”⭐ ESPAÑA “,FOX ESPAÑA
 
 http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109983
 
