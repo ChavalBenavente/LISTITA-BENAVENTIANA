@@ -579,9 +579,13 @@ http://cpi4u.com:45862/EDSON660/VEjxagzuVK/21248
 
 http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109981
 
-#EXTINF:-1 tvg-id=”darkred.es” tvg-name=”DARK RED SD” tvg-logo=”http://cpi4u.com:45862/images/730fd04c1cd9abb2d52067b8635ee977.png” group-title=”⭐ ESPAÑA “,DARK RED SD
+#EXTINF:-1 tvg-id=”darkred.es” tvg-name=”DARK” tvg-logo=”http://cpi4u.com:45862/images/730fd04c1cd9abb2d52067b8635ee977.png” group-title=”⭐ ESPAÑA “,Dark
 
-http://cpi4u.com:45862/EDSON660/VEjxagzuVK/110005
+http://pofftvmax.com:2086/augusto/123456/192
+
+#EXTINF:-1 tvg-id="DARK" tvg-name="DARK RED" tvg-logo="http://nowresurface.eu:2086/images/a18366b217ebf811ad1886e4f4f865b2.png" group-title="ENTRETENIMIENTO",Dark Red
+http://pofftvmax.com:2086/augusto/123456/193
+
 
 #EXTINF:-1 tvg-id=”cinecanal.mx” tvg-name=”Cinecanal HD” tvg-logo=”https://i.picasion.com/pic92/ee6531277e68167d2660e5f870202c9f.gif” group-title=”MEXICO HD (ENCODER)”,Cinecanal HD
 
