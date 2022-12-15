@@ -482,11 +482,17 @@ http://iptvglobal.site:25461/Moises/Moises/86848
 
 http://iptvglobal.site:25461/Moises/Moises/129533
 
-#EXTINF:-1 tvg-id="" tvg-name="AMC Crime España" tvg-logo="https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_2.png" group-title="││TV││ ESPAÑA ",AMC Crime España
+#EXTINF:-1 tvg-id="" tvg-name="AMC Crime" tvg-logo="https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_2.png" group-title="││TV││ ESPAÑA ",AMC Crime
 http://visionplay.me:8080/ITZIAHERN/31349/462842
 
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="AMC Cocina" tvg-logo="http://nowresurface.eu:2086/images/99281303f6eab9edf2ec9f7ffde1bbaa.png" group-title="ENTRETENIMIENTO",AMC Cocina
+http://pofftvmax.com:2086/augusto/123456/185
 
-#EXTINF:-1 tvg-id="filmandarts.mx" tvg-name="FILM & ARTS" tvg-logo="https://i.picasion.com/pic92/3570d6d71c4569d8ba8d52d62854d15e.gif" group-title="LATIN DUAL AUDIO (FHD)",FILM & ARTS
+#EXTINF:-1 tvg-id="BlazeSpain.es" tvg-name="AMC Break" tvg-logo="http://nowresurface.eu:2086/images/897ee373c9e482f9a323fe188494520b.png" group-title="CINE/SERIES",AMC Break
+http://pofftvmax.com:2086/augusto/123456/4155
+
+
+#EXTINF:-1 tvg-id="filmandarts.mx" tvg-name="AMC Film & Arts" tvg-logo="https://i.picasion.com/pic92/3570d6d71c4569d8ba8d52d62854d15e.gif" group-title="LATIN DUAL AUDIO (FHD)",AMC Film & Arts
 
 http://iptvglobal.site:25461/Moises/Moises/86871
 
