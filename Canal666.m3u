@@ -310,8 +310,15 @@ http://visionplay.me:8080/ITZIAHERN/31349/462838
 #EXTINF:-1 tvg-id="" tvg-name="CNN Español" tvg-logo="https://static.epg.best/mx/CableNewsNetwork.mx.png" group-title="││TV││ NOTICIAS",CNN Español
 http://castlempire.site:8080/4201/4201/172590
 
+#EXTINF:-1 tvg-id="CNNE" tvg-name="CNN Español Samsung" tvg-logo="http://panel.tured.live:80/images/69d4828b91e945cc157270d8a805c761.png" group-title="NOTICIAS",CNN Español Samsung
+http://speedwk.site:80/nicolas12345/nicolas12345/87379.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="CNN Chile" tvg-logo="http://castlempire.site:8080/images/04190dcb9cc9e19e5ef861e6180a8e33.jpg" group-title="Chile",CNN Chile
 http://castlempire.site:8080/4201/4201/170096
+
+#EXTINF:-1 tvg-id="CNNESP" tvg-name="CNN Internacional" tvg-logo="http://panel.tured.live:80/images/2b60fa6c89d75c585bffeaae88a8f745.png" group-title="NOTICIAS",CNN Internacional
+http://speedwk.site:80/nicolas12345/nicolas12345/87380.ts
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="⭐️CANALES 4K⭐️",El Gourmet
