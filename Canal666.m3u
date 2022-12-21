@@ -103,9 +103,8 @@ http://speedwk.site:80/nicolas12345/nicolas12345/93860.ts
 
 http://iptvglobal.site:25461/Moises/Moises/87149
 
-#EXTINF:-1 tvg-id=”Boing.es” tvg-name=”Boing FHD” tvg-logo=”http://nowresurface.eu:2086/images/051bcf39646baa8c329ceeb3db09f32d.png” group-title=”Tv España ⭐”,Boing FHD
-
-http://pofftvmax.com:2086/augusto/123456/478
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="Boing" tvg-logo="http://shacktv.com:8080/logos1/ESBOING.jpg" group-title="SPAIN CHANNELS",Boing
+http://shacktv.com:8080/jvs934/98js24/22045
  
 
 #EXTINF:-1 tvg-id=”telefe.ar” tvg-name=”Telefe HD” tvg-logo=”http://tutv.online:2080/images/7aaa339acbc3f286f02236ccb094ad83.png” group-title=”Argentina”,Telefe HD
