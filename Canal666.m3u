@@ -536,6 +536,10 @@ http://iptvglobal.site:25461/Moises/Moises/86871
 
 http://iptvglobal.site:25461/Moises/Moises/130353
 
+#EXTINF:-1 tvg-id="Star.mx" tvg-name="STAR CHANNEL HD" tvg-logo="http://shacktv.com:8080/logos1/LATINOSTARCHANNELHD.5N_" group-title="LATINO CHANNELS HD",STAR CHANNEL HD
+http://shacktv.com:8080/jvs934/98js24/42
+
+
 #EXTINF:-1 tvg-id=”” tvg-name=”A3S” tvg-logo=”https://i.picasion.com/pic92/1d65e2436007297cf84fa5f027c1056e.gif” group-title=”LATIN ENTERTAINMENT (HD)”,A3S
 
 http://iptvglobal.site:25461/nany1/nany1/88215
