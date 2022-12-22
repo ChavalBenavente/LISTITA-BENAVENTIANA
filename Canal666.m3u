@@ -481,6 +481,9 @@ http://castlempire.site:8080/4201/4201/169912
 http://castlempire.site:8080/4201/4201/181284
 
 
+#EXTINF:-1 tvg-id="" tvg-name="MÚSICA POP & COUNTRY" tvg-logo="http://shacktv.com:8080/logos1/220px-Music_Choice_logo.png" group-title="MUSIC CHANNELS",MÚSICA POP & COUNTRY
+http://shacktv.com:8080/jvs934/98js24/105010
+
 #EXTINF:-1 tvg-id=”lifetime.mx” tvg-name=”Lifetime” tvg-logo=”http://iptvglobal.site:25461/images/98a2245eb8327ea202772dee3062f094.png” group-title=”MEXICO HD (ENCODER)”,Lifetime
 
 http://iptvglobal.site:25461/nany1/nany1/86997
