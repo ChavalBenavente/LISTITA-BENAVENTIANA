@@ -109,9 +109,8 @@ http://shacktv.com:8080/jvs934/98js24/22045
 
 http://tutv.online:2080/Patricio/Patricio/72753
 
-#EXTINF:-1 tvg-id=”” tvg-name=”Canal 5 HD” tvg-logo=”https://i.ibb.co/sW8wQJN/CANAL5.jpg” group-title=”México ⭐”,Canal 5 HD
-
-http://streamgo.vip:8008/jonathan12/jonathan12/140368
+#EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="CANAL 5" tvg-logo="http://shacktv.com:8080/logos1/MEXICOCANAL5MX.jpg" group-title="MEXICO CHANNELS",CANAL 5
+http://shacktv.com:8080/jvs934/98js24/105814
 
 #EXTINF:-1 tvg-id=”espn.ar” tvg-name=”ESPN” tvg-logo=”https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif” group-title=”CLARO TV (FHD)”,ESPN
 
