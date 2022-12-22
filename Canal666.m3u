@@ -450,8 +450,14 @@ http://speedwk.site:80/nicolas12345/nicolas12345/99650.ts
 
 http://speedwk.site:80/nicolas12345/nicolas12345/99765.ts 
 
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINAAMERICATV.jpg" group-title="ARGENTINA CHANNELS",AMERICA TV
+http://shacktv.com:8080/jvs934/98js24/61210
+
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="TELEFE" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINATELEFE.jpg" group-title="ARGENTINA CHANNELS",TELEFE
 http://shacktv.com:8080/jvs934/98js24/61193
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="CRÓNICA" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINACRONICA.jpg" group-title="ARGENTINA CHANNELS",CRÓNICA
+http://shacktv.com:8080/jvs934/98js24/61197
 
 
 #EXTINF:-1 tvg-id="Clan" tvg-name="CLAN TVE" tvg-logo="http://nowresurface.eu:2086/images/603c07e2735df19b9a7ce091d7453d2b.png" group-title="INFANTIL",CLAN TVE
