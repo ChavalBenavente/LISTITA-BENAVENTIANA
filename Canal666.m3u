@@ -107,7 +107,7 @@ http://iptvglobal.site:25461/Moises/Moises/87149
 http://shacktv.com:8080/jvs934/98js24/22045
  
 
-#EXTINF:-1 tvg-id=”telefe.ar” tvg-name=”Telefe HD” tvg-logo=”http://tutv.online:2080/images/7aaa339acbc3f286f02236ccb094ad83.png” group-title=”Argentina”,Telefe HD
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe HD" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINATELEFE.jpg" group-title="ARGENTINA CHANNELS",Telefe HD
 
 http://tutv.online:2080/Patricio/Patricio/72753
 
@@ -449,6 +449,9 @@ http://speedwk.site:80/nicolas12345/nicolas12345/99650.ts
 #EXTINF:-1 tvg-id=”” tvg-name=”TV PÚBLICA“ tvg-logo=”https://i.ibb.co/jw0cxV3/tv-publica.jpg” group-title=”⭐ ARGENTINA “,TV PÚBLICA HD 
 
 http://speedwk.site:80/nicolas12345/nicolas12345/99765.ts 
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="TELEFE" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINATELEFE.jpg" group-title="ARGENTINA CHANNELS",TELEFE
+http://shacktv.com:8080/jvs934/98js24/61193
 
 
 #EXTINF:-1 tvg-id="Clan" tvg-name="CLAN TVE" tvg-logo="http://nowresurface.eu:2086/images/603c07e2735df19b9a7ce091d7453d2b.png" group-title="INFANTIL",CLAN TVE
