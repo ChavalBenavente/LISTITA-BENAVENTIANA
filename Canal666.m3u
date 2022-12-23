@@ -94,7 +94,7 @@ http://visionplay.me:8080/ITZIAHERN/31349/466000
 http://iptvglobal.site:25461/Moises/Moises/131167
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7" tvg-logo="http://shacktv.com:8080/logos1/Azteca7.mx.png" group-title="LATINO SD MOBILES",AZTECA 7
-http://shacktv.com:8080/jvs934/98js24/111219
+http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/3861
  
 
 #EXTINF:-1 tvg-id=”bitme.mx” tvg-name=”BITME HD” tvg-logo=”http://iptvglobal.site:25461/images/8fdcaf15d7cb14bd280e8614a61395de.png”,BITME HD
@@ -448,7 +448,8 @@ http://speedwk.site:80/nicolas12345/nicolas12345/99650.ts
 http://speedwk.site:80/nicolas12345/nicolas12345/99765.ts 
 
 #EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINAAMERICATV.jpg" group-title="ARGENTINA CHANNELS",AMERICA TV
-http://shacktv.com:8080/jvs934/98js24/61210
+http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/1019
+
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="TELEFE" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINATELEFE.jpg" group-title="ARGENTINA CHANNELS",TELEFE
 http://shacktv.com:8080/jvs934/98js24/61193
@@ -460,6 +461,8 @@ http://shacktv.com:8080/jvs934/98js24/61197
 #EXTINF:-1 tvg-id="Clan" tvg-name="CLAN TVE" tvg-logo="http://nowresurface.eu:2086/images/603c07e2735df19b9a7ce091d7453d2b.png" group-title="INFANTIL",CLAN TVE
 http://pofftvmax.com:2086/augusto/123456/480
 
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV HD" tvg-logo="http://s0lc.net:8080/imagenes/3857.jpg" group-title="MUSICA",MTV HD
+http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/3857
 
 #EXTINF:-1 tvg-id="" tvg-name="Cine Terror GoogleTV" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="TV | GOOGLE TV",Cine Terror GoogleTV
 http://new-tv.cloud:25461/Antoniohdz22/Z99PfDcXwTnJ/171477
@@ -539,6 +542,9 @@ http://iptvglobal.site:25461/Moises/Moises/130353
 #EXTINF:-1 tvg-id="Star.mx" tvg-name="STAR CHANNEL HD" tvg-logo="http://shacktv.com:8080/logos1/LATINOSTARCHANNELHD.5N_" group-title="LATINO CHANNELS HD",STAR CHANNEL HD
 http://shacktv.com:8080/jvs934/98js24/42
 
+#EXTINF:-1 tvg-id="Fox.co" tvg-name="STAR CHANNEL ARG" tvg-logo="http://s0lc.net:8080/imagenes/123.jpg" group-title="SERIES",STAR CHANNEL ARG
+http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/123
+
 
 #EXTINF:-1 tvg-id=”” tvg-name=”A3S” tvg-logo=”https://i.picasion.com/pic92/1d65e2436007297cf84fa5f027c1056e.gif” group-title=”LATIN ENTERTAINMENT (HD)”,A3S
 
@@ -562,7 +568,7 @@ http://iptvglobal.site:25461/Moises/Moises/86849
 
 #EXTINF:-1 tvg-id=”syfy.mx” tvg-name=”Syfy HD” tvg-logo=”https://i.picasion.com/pic92/87d87287cb8599c3f4014112af21b2d5.gif” group-title=”MEXICO HD (ENCODER)”,SYFY HD
 
-http://iptvglobal.site:25461/nany1/nany1/87007
+http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/872
 
 #EXTINF:-1 tvg-id="SyFy.es" tvg-name="SyFy España" tvg-logo="http://shacktv.com:8080/logos1/Syfy.mx.png" group-title="SPAIN CHANNELS",SyFy España
 http://shacktv.com:8080/jvs934/98js24/21994
@@ -594,6 +600,10 @@ http://iptvglobal.site:25461/nany1/nany1/87098
 #EXTINF:-1 tvg-id="fx.cr" tvg-name="FX FHD" tvg-logo="https://i.picasion.com/pic92/fadab9b1cc9a337d33df62a95799b4ea.gif" group-title="LATIN DUAL AUDIO (FHD)",FX FHD
 
 http://iptvglobal.site:25461/Moises/Moises/86856
+
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX HD" tvg-logo="http://s0lc.net:8080/imagenes/132.jpg" group-title="SERIES",FX HD
+http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/132
+ 
 
 #EXTINF:-1 tvg-id=”paramount.mx” tvg-name=”Paramount Network” tvg-logo=”https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Paramount_Channel_logo.svg/1200px-Paramount_Channel_logo.svg.png” group-title=”MEXICO HD (ENCODER)”,Paramount Network
 
@@ -990,14 +1000,11 @@ http://gazytv.com:8888/series/NOVELAS/NOVELAS/489202.mp4
 http://gazytv.com:8888/series/NOVELAS/NOVELAS/489203.mp4
 #EXTINF:-1 tvg-id="" tvg-name="FTWD S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j00juJOffNdhkpkIaayQjcgvK2n.jpg" group-title="Series | Ciencia ficción",FTWD S07 E12
 http://gazytv.com:8888/series/NOVELAS/NOVELAS/489204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="FTWD S07 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j00juJOffNdhkpkIaayQjcgvK2n.jpg" group-title="Series | Ciencia ficción",FTWD S07 E13
-http://gazytv.com:8888/series/NOVELAS/NOVELAS/489205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="FTWD S07 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j00juJOffNdhkpkIaayQjcgvK2n.jpg" group-title="Series | Ciencia ficción",FTWD S07 E14
-http://gazytv.com:8888/series/NOVELAS/NOVELAS/489206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="FTWD S07 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j00juJOffNdhkpkIaayQjcgvK2n.jpg" group-title="Series | Ciencia ficción",FTWD S07 E15
-http://gazytv.com:8888/series/NOVELAS/NOVELAS/489207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="FTWD S07 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j00juJOffNdhkpkIaayQjcgvK2n.jpg" group-title="Series | Ciencia ficción",FTWD S07 E16
-http://gazytv.com:8888/series/NOVELAS/NOVELAS/489208.mp4
-#EXTINF:-1 tvg-id="" tvg-name="FTWD: Dead in the Water" tvg-logo="http://51.222.152.107/posters/h8dO6jh65nmmY6GJ1IOd8kNFfx0.jpg" group-title="Series", FTWD: Dead in the Water
-http://gazytv.com:8888/series/NOVELAS/NOVELAS/558472.mp4
-
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S07 E13" tvg-logo="https://image.tmdb.org/t/p/w780/yky9nsirJUijIgJjT52hTscEqGC.jpg" group-title="Series-Terror",Fear the Walking Dead S07 E13
+http://latinchannel.tv:8080/series/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/32230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S07 E14" tvg-logo="https://image.tmdb.org/t/p/w780/6l3j3Hrx3qgsqf3Tb3ToYv0pwOU.jpg" group-title="Series-Terror",Fear the Walking Dead S07 E14
+http://latinchannel.tv:8080/series/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/32362.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S07 E15" tvg-logo="https://image.tmdb.org/t/p/w780/hadZP7lkbVE73YDm9mqcruI2c9p.jpg" group-title="Series-Terror",Fear the Walking Dead S07 E15
+http://latinchannel.tv:8080/series/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/32456.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S07 E16" tvg-logo="https://image.tmdb.org/t/p/w780/9IfB33BvzBCr3RmSgojYpQjzc3l.jpg" group-title="Series-Terror",Fear the Walking Dead S07 E16
+http://latinchannel.tv:8080/series/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/32540.mkv
