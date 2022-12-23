@@ -969,6 +969,12 @@ http://speedwk.site:80/nicolas12345/nicolas12345/211293.ts
 #EXTINF:-1 tvg-id="" tvg-name="RPP TV" tvg-logo="http://panel.tured.live:80/images/e18e735852f9bd9f333d394050e22e0d.png" group-title="PERU",RPP TV
 http://speedwk.site:80/nicolas12345/nicolas12345/99684.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://s0lc.net:8080/imagenes/22083.jpg" group-title="DEPORTES - SPORTS",DAZN 1
+http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/22083
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="http://s0lc.net:8080/imagenes/22084.jpg" group-title="DEPORTES - SPORTS",DAZN 2
+http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/22084
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="http://s0lc.net:8080/imagenes/22085.jpg" group-title="DEPORTES - SPORTS",DAZN 3
+http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/22085
 
 
 #EXTINF:-1 tvg-id=”” tvg-name=”BESTCABLE SPORTS FHD“ tvg-logo=”https://i.ibb.co/jg4d0Xp/BESTCABLE-SOPRTS.jpg” group-title=”⭐ PERU”,BESTCABLE SPORTS FHD 
@@ -983,10 +989,15 @@ http://iptvglobal.site:25461/Moises/Moises/86478
 #EXTINF:-1 tvg-id="" tvg-name="Congreso TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/Congreso_TV_2021.png/revision/latest/scale-to-width-down/250?cb=20210205161714" group-title="PERU",Congreso TV
 http://speedwk.site:80/nicolas12345/nicolas12345/93690.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="EL CANAL DEL FUTBOL" tvg-logo="http://s0lc.net:8080/imagenes/19288.jpg" group-title="DEPORTES - SPORTS",EL CANAL DEL FUTBOL
+http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/19288
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports Ñ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ZugiZ7Zl_nlXvDL2Ad-5KNOqYTn3GEHJbg&usqp=CAU" group-title="EURO SPORTS",Bein Sports Ñ
-http://speedwk.site:80/nicolas12345/nicolas12345/220778.ts
+http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/405
 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Xtra Ñ" tvg-logo="http://s0lc.net:8080/imagenes/23517.jpg" group-title="DEPORTES - SPORTS",Bein Sports Xtra Ñ
+http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/23517
+ 
 #EXTINF:-1 tvg-id="" tvg-name="Ovacion" tvg-logo="http://51.222.105.31:8080/images/4a36f0a41e31a0d739d5266cd15cabb1.png" group-title="Peru Geo",Ovacion
 http://castlempire.site:8080/4201/4201/99762
 
