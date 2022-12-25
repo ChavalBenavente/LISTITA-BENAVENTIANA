@@ -265,7 +265,7 @@ http://castlempire.site:8080/4201/4201/173630
 
 http://iptvglobal.site:25461/Moises/Moises/86844
 
-#EXTINF:-1 tvg-id=”history.es” tvg-name=”Historia HD” tvg-logo=”” group-title=”⭐ ESPAÑA “,Historia HD
+#EXTINF:-1 tvg-id=”history.es” tvg-name=”Historia” tvg-logo=”” group-title=”⭐ ESPAÑA “,Historia HD
 
 http://cpi4u.com:45862/EDSON660/VEjxagzuVK/114935
 
@@ -338,15 +338,15 @@ http://castlempire.site:8080/4201/4201/238973
 
 http://cpi4u.com:45862/EDSON660/VEjxagzuVK/110026
 
-#EXTINF:-1 tvg-id=”” tvg-name=”Animal Planet HD” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_HD.svg/761px-Animal_Planet_HD.svg.png” group-title=”VIP FULL-HD (+30 Mbps)⭐️”,Animal Planet HD
+#EXTINF:-1 tvg-id=”” tvg-name=”Animal Planet” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_HD.svg/761px-Animal_Planet_HD.svg.png” group-title=”VIP FULL-HD (+30 Mbps)⭐️”,Animal Planet HD
 
 http://tutv.online:2080/Patricio/Patricio/72061
 
-#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="Discover H&H FHD"tvg-logo="https://i.picasion.com/pic92/faf10db51834b400896db671f832e689.gif" group-title="LATIN DUAL AUDIO (FHD)", Discovery H&H FHD
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="Discover H&H"tvg-logo="https://i.picasion.com/pic92/faf10db51834b400896db671f832e689.gif" group-title="LATIN DUAL AUDIO (FHD)", Discovery H&H FHD
 
 http://iptvglobal.site:25461/Moises/Moises/86845
 
-#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="Discovery Theater FHD" tvg-logo="https://i.picasion.com/pic92/75e37e438d6803fe9b58acec81ba18ce.gif" group-title="LATIN DUAL AUDIO (FHD)",Discovery Theater FHD
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="Discovery Theater" tvg-logo="https://i.picasion.com/pic92/75e37e438d6803fe9b58acec81ba18ce.gif" group-title="LATIN DUAL AUDIO (FHD)",Discovery Theater FHD
 
 http://iptvglobal.site:25461/Moises/Moises/86846
 
@@ -364,11 +364,11 @@ http://gazytv.com:8888/live/NOVELAS/NOVELAS/395892.ts
 http://pofftvmax.com:2086/augusto/123456/205
 
 
-#EXTINF:-1 tvg-id=”discoveryid.mx” tvg-name=”Discovery ID HD” tvg-logo=”https://cdn.mitvstatic.com/channels/co_discovery-id-hd_m.png” group-title=”VIP FULL-HD (+30 Mbps)⭐️”,Discovery Investigation HD
+#EXTINF:-1 tvg-id=”discoveryid.mx” tvg-name=”Discovery ID” tvg-logo=”https://cdn.mitvstatic.com/channels/co_discovery-id-hd_m.png” group-title=”VIP FULL-HD (+30 Mbps)⭐️”,Discovery Investigation HD
 
 http://tutv.online:2080/Patricio/Patricio/72067
 
-#EXTINF:-1 tvg-id=”DiscoveryKids.mx” tvg-name=”Discovery Kids HD” tvg-logo=”DiscoveryKids.jpg” group-title=”VIP FULL-HD (+30 Mbps)⭐️”,Discovery Kids HD
+#EXTINF:-1 tvg-id=”DiscoveryKids.mx” tvg-name=”Discovery Kids” tvg-logo=”DiscoveryKids.jpg” group-title=”VIP FULL-HD (+30 Mbps)⭐️”,Discovery Kids HD
 
 http://tutv.online:2080/Patricio/Patricio/72068
 
@@ -376,7 +376,7 @@ http://tutv.online:2080/Patricio/Patricio/72068
 
 http://iptvglobal.site:25461/Moises/Moises/86873
 
-#EXTINF:-1 tvg-id=”disneychannel.mx” tvg-name=”Disney Channel FHD” tvg-logo=”https://i.picasion.com/pic92/009881f71fe3a89fc0046b2cbdfaf437.gif” group-title=”LATIN DUAL AUDIO (FHD)”,Disney Channel FHD
+#EXTINF:-1 tvg-id=”disneychannel.mx” tvg-name=”Disney Channel HD” tvg-logo=”https://i.picasion.com/pic92/009881f71fe3a89fc0046b2cbdfaf437.gif” group-title=”LATIN DUAL AUDIO (FHD)”,Disney Channel FHD
 
 http://iptvglobal.site:25461/Moises/Moises/86874
 
@@ -414,11 +414,11 @@ http://visionplay.me:8080/ITZIAHERN/31349/416410
 #EXTINF:-1 tvg-id="NickelodeonLatinAmereica.pa" tvg-name="Nickelodeon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxOzZX65wsH2BMR5YaqMf9imEzLO6q9BGaiQ&usqp=CAU" group-title="INFANTIL HD",Nickelodeon
 http://speedwk.site:80/nicolas12345/nicolas12345/223676.ts
 
-#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="Nickelodeon HD" tvg-logo="http://panel.tured.live:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqLJdDaKHh3zV9Q7QIvXECGf7h4m7os8_vf9enmUlvRazd8Iz7533K4owK2YAgl1zK8.png" group-title="INFANTIL HD",Nickelodeon HD
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="Nickelodeon FHD" tvg-logo="http://panel.tured.live:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqLJdDaKHh3zV9Q7QIvXECGf7h4m7os8_vf9enmUlvRazd8Iz7533K4owK2YAgl1zK8.png" group-title="INFANTIL HD",Nickelodeon HD
 http://pofftvmax.com:2086/augusto/123456/484
 
 
-#EXTINF:-1 tvg-id=”” tvg-name=”Nickelodeon España” tvg-logo=”http://nowresurface.eu:2086/images/b11cc9ad84502b27a63fa7a8d813ef6a.png” group-title=”Tv España ⭐”,Nickelodeon España
+#EXTINF:-1 tvg-id=”” tvg-name=”Nickelodeon HD” tvg-logo=”http://nowresurface.eu:2086/images/b11cc9ad84502b27a63fa7a8d813ef6a.png” group-title=”Tv España ⭐”,Nickelodeon España
 
 http://pofftvmax.com:2086/augusto/123456/484
 
