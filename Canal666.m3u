@@ -109,8 +109,15 @@ http://shacktv.com:8080/jvs934/98js24/22045
 
 http://tutv.online:2080/Patricio/Patricio/72753
 
+#EXTINF:-1 tvg-id="etctv.cl" tvg-name="ETC TV " tvg-logo="http://panel.tured.live:80/images/qw9Sd5JnDX2uSQDrGmMcuukBwIiHsuLkNZJ3E1PQCjNwiomfMS3IuDe1vNTyF8NM.png" group-title="CHILE",ETC TV
+http://panel.tured.live:80/mauri2022/mauri2022/107413.ts
+
+
 #EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="CANAL 5" tvg-logo="http://shacktv.com:8080/logos1/MEXICOCANAL5MX.jpg" group-title="MEXICO CHANNELS",CANAL 5
 http://shacktv.com:8080/jvs934/98js24/105814
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Fear the Walking Dead" tvg-logo="http://panel.tured.live:80/images/8da1d7a7fde22f0878beadad7d996047.jpg" group-title="24/7",24/7 Fear the Walking Dead
+http://panel.tured.live:80/mauri2022/mauri2022/265695.ts
 
 #EXTINF:-1 tvg-id=”espn.ar” tvg-name=”ESPN” tvg-logo=”https://i.picasion.com/pic92/55ff04c571b6819b385dcaffa2193c5a.gif” group-title=”CLARO TV (FHD)”,ESPN
 
@@ -148,15 +155,6 @@ http://iptvglobal.site:25461/Moises/Moises/86600
 
 http://iptvglobal.site:25461/Moises/Moises/86601
 
-
-
-#EXTINF:-1 tvg-id=”” tvg-name=”TBS HD” tvg-logo=”” group-title=”MEXICO HD (ENCODER)”,TBS HD
-
-http://iptvglobal.site:25461/nany1/nany1/87008
-
-#EXTINF:-1 tvg-id="" tvg-name="Vevo" tvg-logo="https://i.picasion.com/pic92/262ff4afeb4bfa5584905a6e5f2d5533.gif" group-title="TV | AREA VIX HD*",Vevo
-
-http://iptvglobal.site:25461/nany1/nany1/144351
 
 #EXTINF:-1 tvg-id=”” tvg-name=”Win Sports” tvg-logo=”http://127.0.0.1/” group-title=”LATINO (USA) (SD)”,Win Sports
 
@@ -313,7 +311,7 @@ http://speedwk.site:80/nicolas12345/nicolas12345/87379.ts
 http://castlempire.site:8080/4201/4201/170096
 
 #EXTINF:-1 tvg-id="CNNESP" tvg-name="CNN Internacional" tvg-logo="http://panel.tured.live:80/images/2b60fa6c89d75c585bffeaae88a8f745.png" group-title="NOTICIAS",CNN Internacional
-http://speedwk.site:80/nicolas12345/nicolas12345/87380.ts
+http://panel.tured.live:80/mauri2022/mauri2022/87380.ts
 
 
 
@@ -353,7 +351,7 @@ http://iptvglobal.site:25461/Moises/Moises/86845
 http://iptvglobal.site:25461/Moises/Moises/86846
 
 #EXTINF:-1 tvg-id="TLCARHA" tvg-name="TLC" tvg-logo="http://panel.tured.live:80/images/618158e46cf9a2b67ec2ca37b99e600f.png" group-title="CULTURALES FULL HD",TLC
-http://gazytv.com:8888/live/NOVELAS/NOVELAS/729.ts
+http://panel.tured.live:80/mauri2022/mauri2022/247701.ts
 
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/LfuA6Q5.png" group-title="Live Cultura",TLC HD
 http://gazytv.com:8888/live/NOVELAS/NOVELAS/393395.ts
@@ -442,11 +440,12 @@ http://streamingtv.vip:8080/puntex22kh/farmex22tx/135815
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal N HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Canal_N_2022.svg/revision/latest/scale-to-width-down/150?cb=20220505150309" group-title="PERU",Canal N HD
-http://speedwk.site:80/nicolas12345/nicolas12345/99650.ts
+http://panel.tured.live:80/mauri2022/mauri2022/99650.ts
 
-#EXTINF:-1 tvg-id=”” tvg-name=”TV PÚBLICA“ tvg-logo=”https://i.ibb.co/jw0cxV3/tv-publica.jpg” group-title=”⭐ ARGENTINA “,TV PÚBLICA HD 
 
-http://speedwk.site:80/nicolas12345/nicolas12345/99765.ts 
+#EXTINF:-1 tvg-id="" tvg-name="TV Pública" tvg-logo="http://panel.tured.live:80/images/7rrEG-F0t8RQQWrko5sqSihbYM4ajZ-6Xg2TWIL5xGcTBcTT4FLSwfej4XxnT6QO8u1dFpHHM1PkNCocD8AlLFWNaXIeMDvQesvl0782Wcc.png" group-title="ARGENTINA",TV Pública
+http://panel.tured.live:80/mauri2022/mauri2022/99765.ts
+ 
 
 #EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINAAMERICATV.jpg" group-title="ARGENTINA CHANNELS",AMERICA TV
 http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/1019
@@ -935,6 +934,14 @@ http://streamgo.vip:8008/jonathan12/jonathan12/158985
 http://streamgo.vip:8008/jonathan12/jonathan12/159012
 
 
+#EXTINF:-1 tvg-id=”” tvg-name=”TBS HD” tvg-logo=”” group-title=”MEXICO HD (ENCODER)”,TBS HD
+
+http://iptvglobal.site:25461/nany1/nany1/87008
+
+#EXTINF:-1 tvg-id="" tvg-name="Vevo" tvg-logo="https://i.picasion.com/pic92/262ff4afeb4bfa5584905a6e5f2d5533.gif" group-title="TV | AREA VIX HD*",Vevo
+
+http://iptvglobal.site:25461/nany1/nany1/144351 
+
 #EXTINF:-1 tvg-id=”la1.es” tvg-name=”LA 1 FHD” tvg-logo=”http://nowresurface.eu:2086/images/1594d1f74719c1c1ef67ddac7907ccbe.png” group-title=”ESPANA”,LA 1 FHD
 
 http://iptvglobal.site:25461/Moises/Moises/152297
@@ -964,11 +971,12 @@ http://iptvglobal.site:25461/Moises/Moises/152311
 http://iptvglobal.site:25461/Moises/Moises/152312
 
 #EXTINF:-1 tvg-id="PMAGIC" tvg-name="Perú Mágico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Peru_Magico_2016.png/revision/latest/scale-to-width-down/200?cb=20161023181843" group-title="PERU",Perú Mágico
-http://speedwk.site:80/nicolas12345/nicolas12345/99683.ts
+http://panel.tured.live:80/mauri2022/mauri2022/99683.ts
 #EXTINF:-1 tvg-id="" tvg-name="PBO TV" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_bfL9Gy3lzFG-mDrrXm5umWttjGpnXri8TvQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="PERU",PBO TV
 http://speedwk.site:80/nicolas12345/nicolas12345/211293.ts
 #EXTINF:-1 tvg-id="" tvg-name="RPP TV" tvg-logo="http://panel.tured.live:80/images/e18e735852f9bd9f333d394050e22e0d.png" group-title="PERU",RPP TV
-http://speedwk.site:80/nicolas12345/nicolas12345/99684.ts
+http://panel.tured.live:80/mauri2022/mauri2022/99684.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://s0lc.net:8080/imagenes/22083.jpg" group-title="DEPORTES - SPORTS",DAZN 1
 http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/22083
@@ -988,7 +996,7 @@ http://iptvglobal.site:25461/Moises/Moises/86478
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Congreso TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/Congreso_TV_2021.png/revision/latest/scale-to-width-down/250?cb=20210205161714" group-title="PERU",Congreso TV
-http://speedwk.site:80/nicolas12345/nicolas12345/93690.ts
+http://panel.tured.live:80/mauri2022/mauri2022/93690.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="EL CANAL DEL FUTBOL" tvg-logo="http://s0lc.net:8080/imagenes/19288.jpg" group-title="DEPORTES - SPORTS",EL CANAL DEL FUTBOL
 http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/19288
@@ -1004,7 +1012,7 @@ http://castlempire.site:8080/4201/4201/99762
 
 #EXTINF:-1 tvg-id="" tvg-name="URUGUAY CANAL 10" tvg-logo="https://i.imgur.com/fuQOkHk.png" group-title="││TV││ URUGUAY ",URUGUAY CANAL 10
 
-http://speedwk.site:80/nicolas12345/nicolas12345/215384.ts
+http://panel.tured.live:80/mauri2022/mauri2022/215384.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="FTWD S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j00juJOffNdhkpkIaayQjcgvK2n.jpg" group-title="Series | Ciencia ficción",FTWD S07 E10
 http://gazytv.com:8888/series/NOVELAS/NOVELAS/489202.mp4
