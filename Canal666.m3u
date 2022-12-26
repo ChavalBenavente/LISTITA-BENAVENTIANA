@@ -350,7 +350,7 @@ http://iptvglobal.site:25461/Moises/Moises/86845
 
 http://iptvglobal.site:25461/Moises/Moises/86846
 
-#EXTINF:-1 tvg-id="TLCARHA" tvg-name="TLC" tvg-logo="http://panel.tured.live:80/images/618158e46cf9a2b67ec2ca37b99e600f.png" group-title="CULTURALES FULL HD",TLC
+#EXTINF:-1 tvg-id="TLC Mexico" tvg-name="TLC" tvg-logo="http://panel.tured.live:80/images/618158e46cf9a2b67ec2ca37b99e600f.png" group-title="CULTURALES FULL HD",TLC
 http://panel.tured.live:80/mauri2022/mauri2022/247701.ts
 
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/LfuA6Q5.png" group-title="Live Cultura",TLC HD
@@ -614,11 +614,11 @@ http://iptvglobal.site:25461/nany1/nany1/87004
 http://castlempire.site:8080/4201/4201/173651
 
 
-#EXTINF:-1 tvg-id="tnt.mx" tvg-name="TNT FHD" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="LATIN DUAL AUDIO (FHD)",TNT FHD
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="TNT" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="LATIN DUAL AUDIO (FHD)",TNT FHD
 
 http://iptvglobal.site:25461/Moises/Moises/86866
 
-#EXTINF:-1 tvg-id=”tnt.es” tvg-name=”TNT ESPAÑA” tvg-logo=”http://cpi4u.com:45862/images/35eba2825874ecd2dcd252efdcfba8e3.png” group-title=”⭐ ESPAÑA “,TNT ESPAÑA
+#EXTINF:-1 tvg-id=”tnt.es” tvg-name=”TNT FHD” tvg-logo=”http://cpi4u.com:45862/images/35eba2825874ecd2dcd252efdcfba8e3.png” group-title=”⭐ ESPAÑA “,TNT ESPAÑA
 
 http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109998
 
@@ -800,7 +800,7 @@ http://streamgo.vip:8008/jonathan12/jonathan12/147327
 
 http://iptvglobal.site:25461/Moises/Moises/90175 
 
-#EXTINF:-1 tvg-id=”” tvg-name=”TRUTV HD” tvg-logo=”http://iptvglobal.site:25461/images/580af8efe7a11b4eadef44837260a3c6.png” group-title=”MEXICO HD (ENCODER)”,TRUTV HD
+#EXTINF:-1 tvg-id=”” tvg-name=”TRU TV” tvg-logo=”http://iptvglobal.site:25461/images/580af8efe7a11b4eadef44837260a3c6.png” group-title=”MEXICO HD (ENCODER)”,TRUTV HD
 
 http://iptvglobal.site:25461/Moises/Moises/124494
 
@@ -810,7 +810,7 @@ http://iptvglobal.site:25461/Moises/Moises/124494
 
 http://iptvglobal.site:25461/nany1/nany1/86995
  
-#EXTINF:-1 tvg-id=”canal13.cl” tvg-name=”13” tvg-logo=”http://streamgo.vip:8008/images/a67edae422309f893a73707b38e9ca09.png” group-title=”Chile ⭐”,13 HD
+#EXTINF:-1 tvg-id=”canal13.cl” tvg-name=”Canal 13” tvg-logo=”http://streamgo.vip:8008/images/a67edae422309f893a73707b38e9ca09.png” group-title=”Chile ⭐”,13 HD
 
 http://streamgo.vip:8008/jonathan12/jonathan12/28219
 
@@ -822,19 +822,7 @@ http://streamgo.vip:8008/jonathan12/jonathan12/28233
 
 http://streamgo.vip:8008/jonathan12/jonathan12/28250
 
-#EXTINF:-1 tvg-id=”” tvg-name=”13 Entretencion” tvg-logo=”http://streamgo.vip:8008/images/0b5879426e89dec80c851083f6a6b7d8.png” group-title=”Chile ⭐”,13 Entretencion
-
-http://streamgo.vip:8008/jonathan12/jonathan12/131472
-
-#EXTINF:-1 tvg-id=”” tvg-name=”13 Prime” tvg-logo=”http://streamgo.vip:8008/images/9b1dd26d1375fb5db2b6158c55e0a523.png” group-title=”Chile ⭐”,13 Prime
-
-http://streamgo.vip:8008/jonathan12/jonathan12/131473
-
-#EXTINF:-1 tvg-id=”” tvg-name=”13 Teleseries” tvg-logo=”http://streamgo.vip:8008/images/337e9d841d5d16a255204ef83a53d9da.png” group-title=”Chile ⭐”,13 Teleseries
-
-http://streamgo.vip:8008/jonathan12/jonathan12/131474
-
- #EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="Studio Universal" tvg-logo="https://i.picasion.com/pic92/c95b572dc3ef1b0e464273ec25bd7523.gif" group-title="LATIN DUAL AUDIO (FHD)",Studio Universal
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="Studio Universal" tvg-logo="https://i.picasion.com/pic92/c95b572dc3ef1b0e464273ec25bd7523.gif" group-title="LATIN DUAL AUDIO (FHD)",Studio Universal
 
 #EXTINF:-1 tvg-id=”mega.es” tvg-name=”MEGA” tvg-logo=”http://51.222.43.170:36995/images/bcc2706ee2a40a8028cdfdfc9d7140ed.jpg” group-title=”ESPANA”,MEGA
 
@@ -848,7 +836,7 @@ http://iptvglobal.site:25461/nany1/nany1/124490
 
 http://streamgo.vip:8008/jonathan12/jonathan12/168114
 
-#EXTINF:-1 tvg-id=”” tvg-name=”E! ENTERTAINMENT” tvg-logo=”” group-title=”MEXICO HD (ENCODER)”,E! ENTERTAINMENT
+#EXTINF:-1 tvg-id=”” tvg-name=”E!” tvg-logo=”” group-title=”MEXICO HD (ENCODER)”,E! ENTERTAINMENT
 
 http://iptvglobal.site:25461/nany1/nany1/86977
 
@@ -869,7 +857,7 @@ http://streamgo.vip:8008/jonathan12/jonathan12/168117
 
 http://iptvglobal.site:25461/Moises/Moises/136523
 
-#EXTINF:-1 tvg-id=”sundance.es” tvg-name=”SUNDANCE España” tvg-logo=”http://cpi4u.com:45862/images/c0eb5e1af4939d0fc1df3f17396e0ac4.png” group-title=”⭐ ESPAÑA “,SUNDANCE ESPAÑA
+#EXTINF:-1 tvg-id=”sundance.es” tvg-name=”SUNDANCE TV” tvg-logo=”http://cpi4u.com:45862/images/c0eb5e1af4939d0fc1df3f17396e0ac4.png” group-title=”⭐ ESPAÑA “,SUNDANCE ESPAÑA
 
 http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109970
 
@@ -919,7 +907,7 @@ http://iptvglobal.site:25461/nany1/nany1/86996
 
 http://streamgo.vip:8008/jonathan12/jonathan12/140400
 
-#EXTINF:-1 tvg-id=”tlnovelas.mx” tvg-name=”TL NOVELAS” tvg-logo=”http://streamgo.vip:8008/images/c1dd441128f2b1a40d8cda05f48df0d1.jpg” group-title=”México ⭐”,TL NOVELAS HD
+#EXTINF:-1 tvg-id=”tlnovelas.mx” tvg-name=”TLNOVELAS” tvg-logo=”http://streamgo.vip:8008/images/c1dd441128f2b1a40d8cda05f48df0d1.jpg” group-title=”México ⭐”,TL NOVELAS HD
 
 http://streamgo.vip:8008/jonathan12/jonathan12/140397
 
