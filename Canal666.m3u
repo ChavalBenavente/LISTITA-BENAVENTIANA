@@ -350,7 +350,7 @@ http://iptvglobal.site:25461/Moises/Moises/86845
 
 http://iptvglobal.site:25461/Moises/Moises/86846
 
-#EXTINF:-1 tvg-id="TLC Mexico" tvg-name="TLC" tvg-logo="http://panel.tured.live:80/images/618158e46cf9a2b67ec2ca37b99e600f.png" group-title="CULTURALES FULL HD",TLC
+#EXTINF:-1 tvg-id="TLC Latin America" tvg-name="TLC" tvg-logo="http://panel.tured.live:80/images/618158e46cf9a2b67ec2ca37b99e600f.png" group-title="CULTURALES FULL HD",TLC
 http://panel.tured.live:80/mauri2022/mauri2022/247701.ts
 
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/LfuA6Q5.png" group-title="Live Cultura",TLC HD
