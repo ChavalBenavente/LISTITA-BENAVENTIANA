@@ -307,7 +307,7 @@ http://castlempire.site:8080/4201/4201/172590
 #EXTINF:-1 tvg-id="CNNE" tvg-name="CNN Español Samsung" tvg-logo="http://panel.tured.live:80/images/69d4828b91e945cc157270d8a805c761.png" group-title="NOTICIAS",CNN Español Samsung
 http://speedwk.site:80/nicolas12345/nicolas12345/87379.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CNN Chile" tvg-logo="http://castlempire.site:8080/images/04190dcb9cc9e19e5ef861e6180a8e33.jpg" group-title="Chile",CNN Chile
+#EXTINF:-1 tvg-id="CNN Chile" tvg-name="CNN Chile" tvg-logo="http://castlempire.site:8080/images/04190dcb9cc9e19e5ef861e6180a8e33.jpg" group-title="Chile",CNN Chile
 http://castlempire.site:8080/4201/4201/170096
 
 #EXTINF:-1 tvg-id="CNNESP" tvg-name="CNN Internacional" tvg-logo="http://panel.tured.live:80/images/2b60fa6c89d75c585bffeaae88a8f745.png" group-title="NOTICIAS",CNN Internacional
@@ -614,11 +614,11 @@ http://iptvglobal.site:25461/nany1/nany1/87004
 http://castlempire.site:8080/4201/4201/173651
 
 
-#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="LATIN DUAL AUDIO (FHD)",TNT FHD
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="TNT" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="LATIN DUAL AUDIO (FHD)",TNT FHD
 
 http://iptvglobal.site:25461/Moises/Moises/86866
 
-#EXTINF:-1 tvg-id=”tnt.mx” tvg-name=”TNT FHD” tvg-logo=”http://cpi4u.com:45862/images/35eba2825874ecd2dcd252efdcfba8e3.png” group-title=”⭐ ESPAÑA “,TNT ESPAÑA
+#EXTINF:-1 tvg-id=”tnt.es” tvg-name=”TNT FHD” tvg-logo=”http://cpi4u.com:45862/images/35eba2825874ecd2dcd252efdcfba8e3.png” group-title=”⭐ ESPAÑA “,TNT ESPAÑA
 
 http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109998
 
@@ -628,7 +628,7 @@ http://iptvglobal.site:25461/Moises/Moises/86867
 
 
 
-#EXTINF:-1 tvg-id=”calle13.es” tvg-name=”CALLE 13 España” tvg-logo=”http://mirror.streamhubtv.me:8080/images/d74048ddca74cad8ff0c4da0a711358b.png” group-title=”⭐ ESPAÑA “,CALLE 13 ESPAÑA
+#EXTINF:-1 tvg-id=”calle13.es” tvg-name=”CALLE 13” tvg-logo=”http://mirror.streamhubtv.me:8080/images/d74048ddca74cad8ff0c4da0a711358b.png” group-title=”⭐ ESPAÑA “,CALLE 13 ESPAÑA
 
 http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109981
 
