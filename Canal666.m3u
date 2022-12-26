@@ -527,7 +527,7 @@ http://pofftvmax.com:2086/augusto/123456/4162
 http://pofftvmax.com:2086/augusto/123456/185
 
 #EXTINF:-1 tvg-id="BlazeSpain.es" tvg-name="AMC Break" tvg-logo="http://nowresurface.eu:2086/images/897ee373c9e482f9a323fe188494520b.png" group-title="CINE/SERIES",AMC Break
-http://pofftvmax.com:2086/augusto/123456/4155
+http://listamy.com:8080/adolfo/adolfo/532062
 
 
 #EXTINF:-1 tvg-id="filmandarts.mx" tvg-name="Film & Arts" tvg-logo="https://i.picasion.com/pic92/3570d6d71c4569d8ba8d52d62854d15e.gif" group-title="LATIN DUAL AUDIO (FHD)",Film & Arts
@@ -587,7 +587,7 @@ http://shacktv.com:8080/jvs934/98js24/22052
 
 #EXTINF:-1 tvg-id=”fox.es” tvg-name=”FOX” tvg-logo=”http://nowresurface.eu:2086/images/1cbdb8043b37c7c9ca83582f9218c8b4.png” group-title=”⭐ ESPAÑA “,FOX ESPAÑA
 
-http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109983
+http://listamy.com:8080/adolfo/adolfo/93218
 
 #EXTINF:-1 tvg-id=”fx.mx” tvg-name=”FX HD” tvg-logo=”https://i.picasion.com/pic92/de3e71cad2c796c62b5456f5fce7432f.gif” group-title=”LATIN CINEMA (HD)”,FX HD
 
@@ -628,13 +628,13 @@ http://iptvglobal.site:25461/Moises/Moises/86867
 
 
 
-#EXTINF:-1 tvg-id=”calle13.es” tvg-name=”CALLE 13” tvg-logo=”http://mirror.streamhubtv.me:8080/images/d74048ddca74cad8ff0c4da0a711358b.png” group-title=”⭐ ESPAÑA “,CALLE 13 ESPAÑA
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="M+ CALLE 13 FHD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/calle13-44x36.jpg" group-title="M+  SERIES",CALLE 13
+http://listamy.com:8080/adolfo/adolfo/93216
 
-http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109981
 
 #EXTINF:-1 tvg-id=”darkred.es” tvg-name=”DARK” tvg-logo=”http://cpi4u.com:45862/images/730fd04c1cd9abb2d52067b8635ee977.png” group-title=”⭐ ESPAÑA “,Dark
 
-http://pofftvmax.com:2086/augusto/123456/192
+http://listamy.com:8080/adolfo/adolfo/511697
 
 #EXTINF:-1 tvg-id="DARK" tvg-name="DARK RED" tvg-logo="http://nowresurface.eu:2086/images/a18366b217ebf811ad1886e4f4f865b2.png" group-title="ENTRETENIMIENTO",Dark Red
 http://pofftvmax.com:2086/augusto/123456/193
@@ -658,6 +658,9 @@ http://tutv.online:2080/Patricio/Patricio/72062
 
 #EXTINF:-1 tvg-id="energy.es" tvg-name="Energy" tvg-logo="http://castlempire.site:8080/images/2084d1464eaf1aa13eb49c24743adb76.png" group-title="ESPAÑA CINE",Energy
 http://castlempire.site:8080/4201/4201/173626
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ La Resistencia" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2022/01/La-Resistencia-por-M_Blanco_RGB-scaled.jpg" group-title="M+  CINE ",M+ La Resistencia
+http://listamy.com:8080/adolfo/adolfo/507250
 
 
 #EXTINF:-1 tvg-id=”” tvg-name=”Showtime Beyond HD” tvg-logo=”http://logoiptv.dynns.com/iptv/Showtime.png” group-title=”Pack ShowTime ⭐️”,Showtime Beyond HD
