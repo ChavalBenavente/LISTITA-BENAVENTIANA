@@ -242,6 +242,10 @@ http://castlempire.site:8080/4201/4201/173635
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Acción" tvg-logo="https://static.epg.best/es/MovistarAccion.es.png" group-title="││TV││ ESPAÑA ",Movistar Acción
 http://castlempire.site:8080/4201/4201/173631
 
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="Movistar Drama" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2022/01/Drama-por-M_Blanco_RGB.jpg" group-title="M+  CINE ",Movistar Drama
+http://listamy.com:8080/adolfo/adolfo/93192
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Comedia" tvg-logo="http://castlempire.site:8080/images/55affa621060decf75fcd4fa73550c2d.png" group-title="ESPAÑA CINE",Movistar Comedia
 http://castlempire.site:8080/4201/4201/173633
 
@@ -251,7 +255,7 @@ http://castlempire.site:8080/4201/4201/173745
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Estrenos 2" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+series+xtra-01.png" group-title="ESPAÑA CINE",Movistar Estrenos 2
 http://castlempire.site:8080/4201/4201/173652
 
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Ñ" tvg-logo="" group-title="ESPAÑA OP2",Movistar Ñ
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Dcine Ñ" tvg-logo="" group-title="ESPAÑA OP2",Movistar Ñ
 http://castlempire.site:8080/4201/4201/173746
 
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Disney" tvg-logo="http://castlempire.site:8080/images/e2b44c8908559da092950702153566ee.png" group-title="ESPAÑA CINE",Movistar Disney
