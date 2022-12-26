@@ -49,7 +49,7 @@ http://tvfullprime.site:8080/s4pq793s/8s46csb9/238902
 
 http://streamingtv.vip:8080/puntex22kh/farmex22tx/135808
 
-#EXTINF:-1 tvg-id="" tvg-name="Gol Perú" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="││TV││⛹️ DEPORTE PERU ⛹️",Gol Perú 
+#EXTINF:-1 tvg-id="GOLPERU" tvg-name="Gol Perú" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="││TV││⛹️ DEPORTE PERU ⛹️",Gol Perú 
 http://speedwk.site:80/nicolas12345/nicolas12345/215077.ts
 
 
@@ -97,7 +97,7 @@ http://iptvglobal.site:25461/Moises/Moises/131167
 http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/3861
  
 
-#EXTINF:-1 tvg-id=”bitme.mx” tvg-name=”BitMe” tvg-logo=”http://iptvglobal.site:25461/images/8fdcaf15d7cb14bd280e8614a61395de.png”,BITME HD
+#EXTINF:-1 tvg-id=”bitme” tvg-name=”BitMe” tvg-logo=”http://iptvglobal.site:25461/images/8fdcaf15d7cb14bd280e8614a61395de.png”,BITME HD
 
 http://iptvglobal.site:25461/Moises/Moises/87149
 
@@ -350,10 +350,10 @@ http://iptvglobal.site:25461/Moises/Moises/86845
 
 http://iptvglobal.site:25461/Moises/Moises/86846
 
-#EXTINF:-1 tvg-id="TLC Latin America" tvg-name="TLC" tvg-logo="http://panel.tured.live:80/images/618158e46cf9a2b67ec2ca37b99e600f.png" group-title="CULTURALES FULL HD",TLC
+#EXTINF:-1 tvg-id="TLC México" tvg-name="TLC" tvg-logo="http://panel.tured.live:80/images/618158e46cf9a2b67ec2ca37b99e600f.png" group-title="CULTURALES FULL HD",TLC
 http://panel.tured.live:80/mauri2022/mauri2022/247701.ts
 
-#EXTINF:-1 tvg-id="tlc" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/LfuA6Q5.png" group-title="Live Cultura",TLC HD
+#EXTINF:-1 tvg-id="TLC Latin America" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/LfuA6Q5.png" group-title="Live Cultura",TLC HD
 http://gazytv.com:8888/live/NOVELAS/NOVELAS/393395.ts
  
 
@@ -614,11 +614,11 @@ http://iptvglobal.site:25461/nany1/nany1/87004
 http://castlempire.site:8080/4201/4201/173651
 
 
-#EXTINF:-1 tvg-id="tnt.mx" tvg-name="TNT" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="LATIN DUAL AUDIO (FHD)",TNT FHD
+#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="LATIN DUAL AUDIO (FHD)",TNT FHD
 
 http://iptvglobal.site:25461/Moises/Moises/86866
 
-#EXTINF:-1 tvg-id=”tnt.es” tvg-name=”TNT FHD” tvg-logo=”http://cpi4u.com:45862/images/35eba2825874ecd2dcd252efdcfba8e3.png” group-title=”⭐ ESPAÑA “,TNT ESPAÑA
+#EXTINF:-1 tvg-id=”tnt.mx” tvg-name=”TNT FHD” tvg-logo=”http://cpi4u.com:45862/images/35eba2825874ecd2dcd252efdcfba8e3.png” group-title=”⭐ ESPAÑA “,TNT ESPAÑA
 
 http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109998
 
@@ -800,7 +800,7 @@ http://streamgo.vip:8008/jonathan12/jonathan12/147327
 
 http://iptvglobal.site:25461/Moises/Moises/90175 
 
-#EXTINF:-1 tvg-id=”” tvg-name=”TRU TV” tvg-logo=”http://iptvglobal.site:25461/images/580af8efe7a11b4eadef44837260a3c6.png” group-title=”MEXICO HD (ENCODER)”,TRUTV HD
+#EXTINF:-1 tvg-id=”trutv” tvg-name=”TRU TV” tvg-logo=”http://iptvglobal.site:25461/images/580af8efe7a11b4eadef44837260a3c6.png” group-title=”MEXICO HD (ENCODER)”,TRUTV HD
 
 http://iptvglobal.site:25461/Moises/Moises/124494
 
