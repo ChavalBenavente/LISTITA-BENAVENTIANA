@@ -207,7 +207,7 @@ http://castlempire.site:8080/4201/4201/184446
 #EXTINF:-1 tvg-id="" tvg-name="TUDN USA" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",TUDN USA
 http://visionplay.me:8080/ITZIAHERN/31349/322194
 
-#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",TUDN México
+#EXTINF:-1 tvg-id="TUDN Mexico" tvg-name="TUDN" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",TUDN México
 http://visionplay.me:8080/ITZIAHERN/31349/322304
 
 #EXTINF:-1 tvg-id="" tvg-name="Zona TUDN" tvg-logo="http://dns.k4livetv.com:8080/images/4d9d690b07eb288707b5154423fe1dcf.jpg" group-title="⚽⚾ - DEPORTES LATINOS ",Zona TUDN
@@ -828,7 +828,7 @@ http://streamgo.vip:8008/jonathan12/jonathan12/28250
 
 http://iptvglobal.site:25461/Moises/Moises/129525
 
-#EXTINF:-1 tvg-id=”” tvg-name=”BANDAMAX” tvg-logo=”http://iptvglobal.site:25461/images/a2d4b314096c4986c95cab9bafbcafc6.png” group-title=”MEXICO HD (ENCODER)”,MX |* BANDAMAX FHD
+#EXTINF:-1 tvg-id=”BANDAMAX” tvg-name=”BANDAMAX” tvg-logo=”http://iptvglobal.site:25461/images/a2d4b314096c4986c95cab9bafbcafc6.png” group-title=”MEXICO HD (ENCODER)”,MX |* BANDAMAX FHD
 
 http://iptvglobal.site:25461/nany1/nany1/124490
 
@@ -869,7 +869,7 @@ http://iptvglobal.site:25461/Moises/Moises/129534
 
 http://iptvglobal.site:25461/Moises/Moises/152292
 
-#EXTINF:-1 tvg-id=”” tvg-name=”TVE INTERNACIONAL” tvg-logo=”http://iptvglobal.site:25461/images/c5268844c32fdbf39389dfd7ca423a8c.png” group-title=”ESPANA”,TVE INTERNACIONAL
+#EXTINF:-1 tvg-id=”TVE INTERNACIONAL” tvg-name=”TVE INTERNACIONAL” tvg-logo=”http://iptvglobal.site:25461/images/c5268844c32fdbf39389dfd7ca423a8c.png” group-title=”ESPANA”,TVE INTERNACIONAL
 
 http://iptvglobal.site:25461/Moises/Moises/152295
 
@@ -907,7 +907,7 @@ http://iptvglobal.site:25461/nany1/nany1/86996
 
 http://streamgo.vip:8008/jonathan12/jonathan12/140400
 
-#EXTINF:-1 tvg-id=”tlnovelas.mx” tvg-name=”TLNOVELAS” tvg-logo=”http://streamgo.vip:8008/images/c1dd441128f2b1a40d8cda05f48df0d1.jpg” group-title=”México ⭐”,TL NOVELAS HD
+#EXTINF:-1 tvg-id=”Tlnovelas Mexico” tvg-name=”TLNOVELAS” tvg-logo=”http://streamgo.vip:8008/images/c1dd441128f2b1a40d8cda05f48df0d1.jpg” group-title=”México ⭐”,TL NOVELAS HD
 
 http://streamgo.vip:8008/jonathan12/jonathan12/140397
 
