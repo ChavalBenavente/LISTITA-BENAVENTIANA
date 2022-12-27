@@ -97,7 +97,7 @@ http://iptvglobal.site:25461/Moises/Moises/131167
 http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/3861
  
 
-#EXTINF:-1 tvg-id=”BitMe” tvg-name=”BitMe” tvg-logo=”http://iptvglobal.site:25461/images/8fdcaf15d7cb14bd280e8614a61395de.png”,BITME HD
+#EXTINF:-1 tvg-id=”BitMe” tvg-name=”BitMe Mexico” tvg-logo=”http://iptvglobal.site:25461/images/8fdcaf15d7cb14bd280e8614a61395de.png”,BITME HD
 
 http://iptvglobal.site:25461/Moises/Moises/87149
 
@@ -204,7 +204,7 @@ http://iptvglobal.site:25461/nany1/nany1/87053
 http://castlempire.site:8080/4201/4201/184446
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TUDN USA" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",TUDN USA
+#EXTINF:-1 tvg-id="TUDN USA" tvg-name="TUDN USA" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",TUDN USA
 http://visionplay.me:8080/ITZIAHERN/31349/322194
 
 #EXTINF:-1 tvg-id="TUDN Mexico" tvg-name="TUDN" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",TUDN México
@@ -218,7 +218,7 @@ http://visionplay.me:8080/ITZIAHERN/31349/465723
 
 
 
-#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="Comedy Central" tvg-logo="https://i.picasion.com/pic92/30d2e21e2b372eab1b794b1f801b91be.gif" group-title="MEXICO HD(ENCODER)",Comedy Central HD
+#EXTINF:-1 tvg-id="Comedy Central Mexico" tvg-name="Comedy Central Mexico" tvg-logo="https://i.picasion.com/pic92/30d2e21e2b372eab1b794b1f801b91be.gif" group-title="MEXICO HD(ENCODER)",Comedy Central HD
 
 http://iptvglobal.site:25461/Moises/Moises/87071
 
