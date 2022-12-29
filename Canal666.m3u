@@ -28,6 +28,9 @@ http://iptvglobal.site:25461/Moises/Moises/128627
 
 http://iptvglobal.site:25461/Moises/Moises/128621
 
+#EXTINF:-1 tvg-id="ESPN Extra South" tvg-name="ESPN Extra" tvg-logo="https://i.imgur.com/4VrK2WA.jpg" group-title="Deportes",ESPN Extra
+http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/81684
+
 #EXTINF:-1 tvg-id="" tvg-name="Gol Mundial" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7864_41a_1_c00000_0_0_0.png" group-title="││TV││⛹️ DEPORTE ESPAÑA OPC2 ⛹️",Gol Mundial
 http://tvfullprime.site:8080/s4pq793s/8s46csb9/238902
 
@@ -36,7 +39,7 @@ http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1194929
 
 
 
-#EXTINF:-1 tvg-id=”gol peru” tvg-name=”Gol Perú FHD” tvg-logo=”http://streamgo.vip:8008/images/7418ab7b1d5e79d1050f53f7ffcb0317.png” group-title=”Sports” “Perú”,Gol Perú FHD
+#EXTINF:-1 tvg-id=”GOL PERU” tvg-name=”Gol Perú FHD” tvg-logo=”http://streamgo.vip:8008/images/7418ab7b1d5e79d1050f53f7ffcb0317.png” group-title=”Sports” “Perú”,Gol Perú FHD
 
 http://streamingtv.vip:8080/puntex22kh/farmex22tx/135808
 
@@ -44,11 +47,11 @@ http://streamingtv.vip:8080/puntex22kh/farmex22tx/135808
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1152848
 
 
-#EXTINF:-1 tvg-id=”gol peru” tvg-name=”GOLPERU HD (GOLPERU HD)” tvg-country=”PE” tvg-logo=”https://i.postimg.cc/0rRZZm1v/Picsart-22-11-22-02-12-07-238.jpg” group-title=”Sports”, Gol Perú HD
+#EXTINF:-1 tvg-id=”GOL PERU” tvg-name=”GOLPERU HD (GOLPERU HD)” tvg-country=”PE” tvg-logo=”https://i.postimg.cc/0rRZZm1v/Picsart-22-11-22-02-12-07-238.jpg” group-title=”Sports”, Gol Perú HD
 
 http://iptvglobal.site:25461/Moises/Moises/86485
 
-#EXTINF:-1 tvg-id=”movistar deportes peru” tvg-name=”Movistar Deportes Peru” tvg-logo=”https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.Y_aHNvRJD4.jpg” group-title=”Sports”,Movistar Deportes HD
+#EXTINF:-1 tvg-id=”MOVISTAR DESPORTES PERU” tvg-name=”Movistar Deportes Perú” tvg-logo=”https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.Y_aHNvRJD4.jpg” group-title=”Sports”,Movistar Deportes HD
 
 http://tutv.online:2080/Patricio/Patricio/71797
 
@@ -62,6 +65,9 @@ http://iptvglobal.site:25461/Moises/Moises/129879
 
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-name="EUROSPORT 1 ES" tvg-logo="https://i.imgur.com/IGaAXkE.png" group-title="Sports",EUROSPORT 1
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/14485
+
+#EXTINF:-1 tvg-id="Gol TV Latin America" tvg-name="Gol TV Ecuador" tvg-logo="https://cdn.mitvstatic.com/channels/6b340093-ac48-4be8-ac96-69d63ad09c26_m.jpg" group-title="Ecuador",Gol TV Ecuador
+http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/46843
 
 
 #EXTINF:-1 tvg-id=”” tvg-name=”TyC Sports” tvg-logo=”http://127.0.0.1/” group-title=”LATINO (USA) (SD)”,TyC Sports
