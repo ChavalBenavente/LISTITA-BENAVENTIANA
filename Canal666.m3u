@@ -26,19 +26,7 @@ http://iptvglobal.site:25461/Moises/Moises/128627
 
 #EXTINF:-1 tvg-id=”espn.ar” tvg-name=”ESPN 2” tvg-logo=”http://iptvglobal.site:25461/images/3a60836f4120ffaa1201d3853c983f19.jpg” group-title=”Sports”,ESPN 2
 
-http://iptvglobal.site:25461/Moises/Moises/128621
-
-#EXTINF:-1 tvg-id=”” tvg-name=”ESPN 3” tvg-logo=”http://streamgo.vip:8008/images/65b140dd9ebf0ec2b2a8c1565fa90080.png” group-title=”Sports”,ESPN 3
-
-http://streamgo.vip:8008/jonathan12/jonathan12/167725
-
-#EXTINF:-1 tvg-id=”” tvg-name=”ESPN 4” tvg-logo=”http://streamgo.vip:8008/images/9c83acb71e6f939bae03936d2c827d7c.png” group-title=”Sports”,ESPN 4
-
-http://streamgo.vip:8008/jonathan12/jonathan12/167726
-
-#EXTINF:-1 tvg-id=”” tvg-name=”ESPN Extra” tvg-logo=”http://streamgo.vip:8008/images/cb88103bd31fe7d6cf58e9a7c023b120.png” group-title=”Sports”,ESPN Extra
-
-http://streamgo.vip:8008/jonathan12/jonathan12/167727
+http://iptvglobal.site:25461/Moises/Moises/12862
 
 #EXTINF:-1 tvg-id="" tvg-name="Gol Mundial" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7864_41a_1_c00000_0_0_0.png" group-title="││TV││⛹️ DEPORTE ESPAÑA OPC2 ⛹️",Gol Mundial
 http://tvfullprime.site:8080/s4pq793s/8s46csb9/238902
@@ -436,14 +424,15 @@ http://listamy.com:8080/adolfo/adolfo/396882
 
 
 #EXTINF:-1 tvg-id="canaln.pe" tvg-name="Canal N" tvg-logo="http://daleplay.club:8080/images/a80dbeabd0f501da52dcf0a8e631f039.png" group-title="TV | PERU",Canal N
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/135815
+http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1194933
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal N HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Canal_N_2022.svg/revision/latest/scale-to-width-down/150?cb=20220505150309" group-title="PERU",Canal N HD
+
+#EXTINF:-1 tvg-id="canaln.pe" tvg-name="Canal N" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Canal_N_2022.svg/revision/latest/scale-to-width-down/150?cb=20220505150309" group-title="PERU",Canal N HD
 http://panel.tured.live:80/mauri2022/mauri2022/99650.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Televisión Pública" tvg-logo="http://panel.tured.live:80/images/7rrEG-F0t8RQQWrko5sqSihbYM4ajZ-6Xg2TWIL5xGcTBcTT4FLSwfej4XxnT6QO8u1dFpHHM1PkNCocD8AlLFWNaXIeMDvQesvl0782Wcc.png" group-title="ARGENTINA",TV Pública
+#EXTINF:-1 tvg-id="tvpublica.ar" tvg-name="Televisión Pública" tvg-logo="http://panel.tured.live:80/images/7rrEG-F0t8RQQWrko5sqSihbYM4ajZ-6Xg2TWIL5xGcTBcTT4FLSwfej4XxnT6QO8u1dFpHHM1PkNCocD8AlLFWNaXIeMDvQesvl0782Wcc.png" group-title="ARGENTINA",TV Pública
 http://panel.tured.live:80/mauri2022/mauri2022/99765.ts
  
 
