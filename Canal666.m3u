@@ -31,16 +31,17 @@ http://iptvglobal.site:25461/Moises/Moises/128621
 #EXTINF:-1 tvg-id="" tvg-name="Gol Mundial" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7864_41a_1_c00000_0_0_0.png" group-title="││TV││⛹️ DEPORTE ESPAÑA OPC2 ⛹️",Gol Mundial
 http://tvfullprime.site:8080/s4pq793s/8s46csb9/238902
 
-#EXTINF:-1 tvg-id="americatv.pe" tvg-name="América Televisión" tvg-logo="https://i.imgur.com/vaVu9ow.jpg" group-title="Peru UHD",América Televisión
-http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1194928
+#EXTINF:-1 tvg-id="america television" tvg-name="América Televisión" tvg-logo="https://i.imgur.com/vaVu9ow.jpg" group-title="Peru UHD",América Televisión
+http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1194929
+
 
 
 #EXTINF:-1 tvg-id=”golperu.pe” tvg-name=”Gol Perú FHD” tvg-logo=”http://streamgo.vip:8008/images/7418ab7b1d5e79d1050f53f7ffcb0317.png” group-title=”Sports” “Perú”,Gol Perú FHD
 
 http://streamingtv.vip:8080/puntex22kh/farmex22tx/135808
 
-#EXTINF:-1 tvg-id="GOLPERU" tvg-name="Gol Perú" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="││TV││⛹️ DEPORTE PERU ⛹️",Gol Perú 
-http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1194945
+#EXTINF:-1 tvg-id="GOL PERU" tvg-name="Gol Perú" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="││TV││⛹️ DEPORTE PERU ⛹️",Gol Perú 
+http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1152848
 
 
 #EXTINF:-1 tvg-id=”golperu.pe” tvg-name=”GOLPERU HD (GOLPERU HD)” tvg-country=”PE” tvg-logo=”https://i.postimg.cc/0rRZZm1v/Picsart-22-11-22-02-12-07-238.jpg” group-title=”Sports”, Gol Perú HD
@@ -59,10 +60,9 @@ http://cpi4u.com:45862/EDSON660/VEjxagzuVK/86951
 
 http://iptvglobal.site:25461/Moises/Moises/129879
 
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="EUROSPORT 1 ES" tvg-logo="https://i.imgur.com/IGaAXkE.png" group-title="Sports",EUROSPORT 1
+http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/14485
 
-#EXTINF:-1 tvg-id=”” tvg-name=”TyC Sports Internacional“ tvg-logo=”https://i.ibb.co/JrpvfmG/T-C-SPORTS.jpg” group-title=”⭐ ARGENTINA “,TyC Sports Internacional
-
-http://visionplay.me:8080/ITZIAHERN/31349/466000
 
 #EXTINF:-1 tvg-id=”” tvg-name=”TyC Sports” tvg-logo=”http://127.0.0.1/” group-title=”LATINO (USA) (SD)”,TyC Sports
 
@@ -72,7 +72,7 @@ http://iptvglobal.site:25461/Moises/Moises/131167
 http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/3861
  
 
-#EXTINF:-1 tvg-id=”BitMe Mexico” tvg-name=”Bitme” tvg-logo=”http://iptvglobal.site:25461/images/8fdcaf15d7cb14bd280e8614a61395de.png”,BITME HD
+#EXTINF:-1 tvg-id=”BitMe Mexico” tvg-name=”Bitme Latin America” tvg-logo=”http://iptvglobal.site:25461/images/8fdcaf15d7cb14bd280e8614a61395de.png”,BITME HD
 
 http://iptvglobal.site:25461/Moises/Moises/87149
 
@@ -124,27 +124,24 @@ http://iptvglobal.site:25461/Moises/Moises/131168
 
 http://tutv.online:2080/Patricio/Patricio/71863
 
-#EXTINF:-1 tvg-id=”espn.mx” tvg-name=”ESPN México” tvg-logo=”https://i.picasion.com/pic92/5dc351b9ee68f3b27d6da53c92bc2458.gif” group-title=”DEPORTES LATINOS (FHD)”,ESPN México
+#EXTINF:-1 tvg-id=”espn.mx” tvg-name=”ESPN Mx” tvg-logo=”https://i.picasion.com/pic92/5dc351b9ee68f3b27d6da53c92bc2458.gif” group-title=”DEPORTES LATINOS (FHD)”,ESPN México
 
 http://iptvglobal.site:25461/nany1/nany1/86254
 
-#EXTINF:-1 tvg-id=”espn2.mx” tvg-name=”ESPN 2 México” tvg-logo=”https://i.picasion.com/pic92/487f45a9b2d9452efff17de9e6c141b7.gif” group-title=”DEPORTES LATINOS (FHD)”,ESPN 2 México
+#EXTINF:-1 tvg-id=”espn2.mx” tvg-name=”ESPN 2 Mx” tvg-logo=”https://i.picasion.com/pic92/487f45a9b2d9452efff17de9e6c141b7.gif” group-title=”DEPORTES LATINOS (FHD)”,ESPN 2 México
 
 http://iptvglobal.site:25461/nany1/nany1/86255
 
-#EXTINF:-1 tvg-id=”espn3.mx” tvg-name=”ESPN 3 México” tvg-logo=”https://i.picasion.com/pic92/b363a44564fce565843db3971ab14157.gif” group-title=”DEPORTES LATINOS (FHD)”,ESPN 3 México
+#EXTINF:-1 tvg-id=”espn3.mx” tvg-name=”ESPN 3 Mx” tvg-logo=”https://i.picasion.com/pic92/b363a44564fce565843db3971ab14157.gif” group-title=”DEPORTES LATINOS (FHD)”,ESPN 3 México
 
 http://iptvglobal.site:25461/nany1/nany1/86256
 
-#EXTINF:-1 tvg-id=”espnxtra.mx” tvg-name=”ESPN Extra México” tvg-logo=”https://i.picasion.com/pic92/2f4a274348c8a3d349dea14c2a8170a9.gif” group-title=”DEPORTES LATINOS (FHD)”,ESPN Extra México
+#EXTINF:-1 tvg-id=”espnxtra.mx” tvg-name=”ESPN Extra Mx” tvg-logo=”https://i.picasion.com/pic92/2f4a274348c8a3d349dea14c2a8170a9.gif” group-title=”DEPORTES LATINOS (FHD)”,ESPN Extra México
 
 http://iptvglobal.site:25461/nany1/nany1/86253
 
-#EXTINF:-1 tvg-id=”goltv.ec” tvg-name=”GolTV HD” tvg-logo=”https://i.picasion.com/pic92/74ed7d9f4315365f4bef7023d7535314.gif” group-title=”DEPORTES LATINOS (FHD)”,GolTV HD
 
-http://iptvglobal.site:25461/Moises/Moises/86245
-
-#EXTINF:-1 tvg-id=”goltv.ec” tvg-name=”Gol TV” tvg-logo=”http://castlempire.site:8080/images/d21cf3f28df92aef3e6585042635d72b.jpg” group-title=”DEPORTES HD ⚽”,Gol TV
+#EXTINF:-1 tvg-id=”gol españa” tvg-name=”Gol TV” tvg-logo=”http://castlempire.site:8080/images/d21cf3f28df92aef3e6585042635d72b.jpg” group-title=”DEPORTES HD ⚽”,Gol España
 
 http://tutv.online:2080/Patricio/Patricio/71814
 
@@ -178,7 +175,7 @@ http://visionplay.me:8080/ITZIAHERN/31349/465723
 
 
 
-#EXTINF:-1 tvg-id="Comedy Central Mexico" tvg-name="Comedy Central Mexico" tvg-logo="https://i.picasion.com/pic92/30d2e21e2b372eab1b794b1f801b91be.gif" group-title="MEXICO HD(ENCODER)",Comedy Central HD
+#EXTINF:-1 tvg-id="Comedy Central Latin America" tvg-name="Comedy Central Mexico" tvg-logo="https://i.picasion.com/pic92/30d2e21e2b372eab1b794b1f801b91be.gif" group-title="MEXICO HD(ENCODER)",Comedy Central HD
 
 http://iptvglobal.site:25461/Moises/Moises/87071
 
@@ -215,7 +212,7 @@ http://castlempire.site:8080/4201/4201/173745
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Estrenos 2" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+series+xtra-01.png" group-title="ESPAÑA CINE",Movistar Estrenos 2
 http://castlempire.site:8080/4201/4201/173652
 
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Dcine Ñ" tvg-logo="" group-title="ESPAÑA OP2",Movistar Ñ
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Dcine" tvg-logo="" group-title="ESPAÑA OP2",Movistar Ñ
 http://castlempire.site:8080/4201/4201/173746
 
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Disney" tvg-logo="http://castlempire.site:8080/images/e2b44c8908559da092950702153566ee.png" group-title="ESPAÑA CINE",Movistar Disney
