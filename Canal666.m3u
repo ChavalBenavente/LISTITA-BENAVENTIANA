@@ -323,11 +323,12 @@ http://iptvglobal.site:25461/Moises/Moises/86845
 
 http://iptvglobal.site:25461/Moises/Moises/86846
 
-#EXTINF:-1 tvg-id="TLC México" tvg-name="TLC" tvg-logo="http://panel.tured.live:80/images/618158e46cf9a2b67ec2ca37b99e600f.png" group-title="CULTURALES FULL HD",TLC
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://panel.tured.live:80/images/618158e46cf9a2b67ec2ca37b99e600f.png" group-title="CULTURALES FULL HD",TLC
 http://panel.tured.live:80/mauri2022/mauri2022/247701.ts
 
 #EXTINF:-1 tvg-id="TLC Latin America" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/LfuA6Q5.png" group-title="Live Cultura",TLC HD
-http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1125102
+http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1324902
+
  
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Familia" tvg-logo="https://i0.wp.com/fontlot.com/wp-content/uploads/2020/03/Discovery-Family-Logo-Font.jpg?fit=801%2C401&ssl=1" group-title="CULTURALES FULL HD",Discovery Familia
