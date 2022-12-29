@@ -31,6 +31,8 @@ http://iptvglobal.site:25461/Moises/Moises/128621
 #EXTINF:-1 tvg-id="" tvg-name="Gol Mundial" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7864_41a_1_c00000_0_0_0.png" group-title="││TV││⛹️ DEPORTE ESPAÑA OPC2 ⛹️",Gol Mundial
 http://tvfullprime.site:8080/s4pq793s/8s46csb9/238902
 
+#EXTINF:-1 tvg-id="americatv.pe" tvg-name="América Televisión" tvg-logo="https://i.imgur.com/vaVu9ow.jpg" group-title="Peru UHD",América Televisión
+http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1194928
 
 
 #EXTINF:-1 tvg-id=”golperu.pe” tvg-name=”Gol Perú FHD” tvg-logo=”http://streamgo.vip:8008/images/7418ab7b1d5e79d1050f53f7ffcb0317.png” group-title=”Sports” “Perú”,Gol Perú FHD
@@ -38,14 +40,14 @@ http://tvfullprime.site:8080/s4pq793s/8s46csb9/238902
 http://streamingtv.vip:8080/puntex22kh/farmex22tx/135808
 
 #EXTINF:-1 tvg-id="GOLPERU" tvg-name="Gol Perú" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="││TV││⛹️ DEPORTE PERU ⛹️",Gol Perú 
-http://speedwk.site:80/nicolas12345/nicolas12345/215077.ts
+http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1194945
 
 
 #EXTINF:-1 tvg-id=”golperu.pe” tvg-name=”GOLPERU HD (GOLPERU HD)” tvg-country=”PE” tvg-logo=”https://i.postimg.cc/0rRZZm1v/Picsart-22-11-22-02-12-07-238.jpg” group-title=”Sports”, Gol Perú HD
 
 http://iptvglobal.site:25461/Moises/Moises/86485
 
-#EXTINF:-1 tvg-id=”mdeportes.pe” tvg-name=”Movistar Deportes HD” tvg-logo=”https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.Y_aHNvRJD4.jpg” group-title=”Sports”,Movistar Deportes HD
+#EXTINF:-1 tvg-id=”movistar deportes peru” tvg-name=”Movistar Deportes HD” tvg-logo=”https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.Y_aHNvRJD4.jpg” group-title=”Sports”,Movistar Deportes HD
 
 http://tutv.online:2080/Patricio/Patricio/71797
 
@@ -57,21 +59,6 @@ http://cpi4u.com:45862/EDSON660/VEjxagzuVK/86951
 
 http://iptvglobal.site:25461/Moises/Moises/129879
 
-#EXTINF:-1 tvg-id=”” tvg-name=”Fox Sports Perú HD “ tvg-logo=”https://i.ibb.co/5R7KFzs/PERU.jpg” group-title=“Sports”,Fox Sports Perú HD 
-
-http://cpi4u.com:45862/EDSON660/VEjxagzuVK/81626
-
-#EXTINF:-1 tvg-id=”” tvg-name=”Fox Sports 2 HD” tvg-logo=”https://i.ibb.co/WFmK07M/ARGENTINA-2.jpg” group-title=”Sports“,Fox Sports 2 HD
-
-http://cpi4u.com:45862/EDSON660/VEjxagzuVK/1520
-
-#EXTINF:-1 tvg-id=”” tvg-name=”Fox Sports 3 HD” tvg-logo=”https://i.ibb.co/WWVFgX9/ARGENTINA-3.jpg” group-title=”Sports”,Fox Sports 3 HD
-
-http://cpi4u.com:45862/EDSON660/VEjxagzuVK/1521
-
-#EXTINF:-1 tvg-id=”” tvg-name=”Fox Sports Premium HD” tvg-logo=”https://i.ibb.co/yhRmfZm/ARGENTINA-PREMIUM.jpg” group-title=”⭐ DEPORTES PREMIUM ⚽️ “,Fox Sports Premium HD
-
-http://cpi4u.com:45862/EDSON660/VEjxagzuVK/1522
 
 #EXTINF:-1 tvg-id=”” tvg-name=”TyC Sports Internacional“ tvg-logo=”https://i.ibb.co/JrpvfmG/T-C-SPORTS.jpg” group-title=”⭐ ARGENTINA “,TyC Sports Internacional
 
@@ -85,7 +72,7 @@ http://iptvglobal.site:25461/Moises/Moises/131167
 http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/3861
  
 
-#EXTINF:-1 tvg-id=”BitMe” tvg-name=”BitMe Mexico” tvg-logo=”http://iptvglobal.site:25461/images/8fdcaf15d7cb14bd280e8614a61395de.png”,BITME HD
+#EXTINF:-1 tvg-id=”BitMe Mexico” tvg-name=”Bitme” tvg-logo=”http://iptvglobal.site:25461/images/8fdcaf15d7cb14bd280e8614a61395de.png”,BITME HD
 
 http://iptvglobal.site:25461/Moises/Moises/87149
 
@@ -112,7 +99,7 @@ http://panel.tured.live:80/mauri2022/mauri2022/265695.ts
 
 http://cpi4u.com:45862/EDSON660/VEjxagzuVK/1229
 
-#EXTINF:-1 tvg-id=”tntsports.ar” tvg-name=”TNT Sports Argentina HD” tvg-logo=”http://iptvglobal.site:25461/images/a2f2c27bb0215f5d47d15f6c066e558a.png” group-title=”M Liga de Campeones HD”,TNT Sports Argentina HD
+#EXTINF:-1 tvg-id=”tntsports.ar” tvg-name=”TNT Sports Argentina” tvg-logo=”http://iptvglobal.site:25461/images/a2f2c27bb0215f5d47d15f6c066e558a.png” group-title=”M Liga de Campeones HD”,TNT Sports Argentina HD
 
 http://iptvglobal.site:25461/Moises/Moises/129701
 
@@ -133,7 +120,7 @@ http://iptvglobal.site:25461/Moises/Moises/86601
 
 http://iptvglobal.site:25461/Moises/Moises/131168
 
-#EXTINF:-1 tvg-id=”” tvg-name=”Win Sports +” tvg-logo=”http://castlempire.site:8080/images/0490c7d6ebd8f068e449b87271212be4.jpg” group-title=”DEPORTES HD ⚽”,Win Sports +
+#EXTINF:-1 tvg-id=”win sports plus” tvg-name=”Win Sports +” tvg-logo=”http://castlempire.site:8080/images/0490c7d6ebd8f068e449b87271212be4.jpg” group-title=”DEPORTES HD ⚽”,Win Sports +
 
 http://tutv.online:2080/Patricio/Patricio/71863
 
