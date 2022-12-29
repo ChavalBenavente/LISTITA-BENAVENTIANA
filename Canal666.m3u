@@ -47,7 +47,7 @@ http://streamingtv.vip:8080/puntex22kh/farmex22tx/135808
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1152848
 
 
-#EXTINF:-1 tvg-id=”GOL PERU” tvg-name=”GOLPERU HD (GOLPERU HD)” tvg-country=”PE” tvg-logo=”https://i.postimg.cc/0rRZZm1v/Picsart-22-11-22-02-12-07-238.jpg” group-title=”Sports”, Gol Perú HD
+#EXTINF:-1 tvg-id=”GOL PERU” tvg-name=”GOLPERU HD” tvg-country=”PE” tvg-logo=”https://i.postimg.cc/0rRZZm1v/Picsart-22-11-22-02-12-07-238.jpg” group-title=”Sports”, Gol Perú HD
 
 http://iptvglobal.site:25461/Moises/Moises/86485
 
@@ -147,7 +147,7 @@ http://iptvglobal.site:25461/nany1/nany1/86256
 http://iptvglobal.site:25461/nany1/nany1/86253
 
 
-#EXTINF:-1 tvg-id=”gol españa” tvg-name=”Gol TV” tvg-logo=”http://castlempire.site:8080/images/d21cf3f28df92aef3e6585042635d72b.jpg” group-title=”DEPORTES HD ⚽”,Gol España
+#EXTINF:-1 tvg-id=”Gol” tvg-name=”Gol” tvg-logo=”http://castlempire.site:8080/images/d21cf3f28df92aef3e6585042635d72b.jpg” group-title=”DEPORTES HD ⚽”,Gol España
 
 http://tutv.online:2080/Patricio/Patricio/71814
 
@@ -218,7 +218,7 @@ http://castlempire.site:8080/4201/4201/173745
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Estrenos 2" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+series+xtra-01.png" group-title="ESPAÑA CINE",Movistar Estrenos 2
 http://castlempire.site:8080/4201/4201/173652
 
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Dcine" tvg-logo="" group-title="ESPAÑA OP2",Movistar Ñ
+#EXTINF:-1 tvg-id="Movistar Cine Español" tvg-name="Movistar Cine Español" tvg-logo="" group-title="ESPAÑA OP2",Movistar Ñ
 http://castlempire.site:8080/4201/4201/173746
 
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Disney" tvg-logo="http://castlempire.site:8080/images/e2b44c8908559da092950702153566ee.png" group-title="ESPAÑA CINE",Movistar Disney
@@ -253,7 +253,7 @@ http://visionplay.me:8080/ITZIAHERN/31349/466098
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic España" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png" group-title="││TV││ ESPAÑA ",National Geographic España
 http://visionplay.me:8080/ITZIAHERN/31349/462845
 
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo WILD España" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="││TV││ ESPAÑA ",NatGeo WILD España
+#EXTINF:-1 tvg-id="National Geographic Wild España" tvg-name="National Geographic Wild España" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="││TV││ ESPAÑA ",NatGeo WILD España
 http://visionplay.me:8080/ITZIAHERN/31349/462844
 
 #EXTINF:-1 tvg-id="Xconfirmar" tvg-name="NatGeo Mundo" tvg-logo="http://dns.k4livetv.com:8080/images/572a2af557e184c7667b2b1a5e23561a.png" group-title="⚪ - DOCUMENTALES Y CULTURALES ",NatGeo Mundo
