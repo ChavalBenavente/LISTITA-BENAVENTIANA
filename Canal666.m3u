@@ -319,7 +319,9 @@ http://panel.tured.live:80/mauri2022/mauri2022/247701.ts
 #EXTINF:-1 tvg-id="TLC Latin America" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/LfuA6Q5.png" group-title="Live Cultura",TLC HD
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1324902
 
- 
+#EXTINF:-1 tvg-id="TLC Latinoamérica" tvg-name="TLC Latinoamérica" tvg-logo="https://static.epg.best/mx/TLC.mx.png" group-title="CANALES SD",TLC SD
+http://1on2.xyz:25461/Luis2022/Luis2022/75404
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Familia" tvg-logo="https://i0.wp.com/fontlot.com/wp-content/uploads/2020/03/Discovery-Family-Logo-Font.jpg?fit=801%2C401&ssl=1" group-title="CULTURALES FULL HD",Discovery Familia
 http://gazytv.com:8888/live/NOVELAS/NOVELAS/395892.ts
