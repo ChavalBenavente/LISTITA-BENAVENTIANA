@@ -51,7 +51,7 @@ http://cpi4u.com:45862/EDSON660/VEjxagzuVK/86951
 
 #EXTINF:-1 tvg-id=”movistarplus.pe”tvg-name=”Movistar Plus” tvg-logo=”https://i.postimg.cc/GtMXBKjM/19894871-1750510471633586-2821184914832360189-n.png” group-title=”Sports”,Movistar Plus
 
-http://iptvglobal.site:25461/Moises/Moises/129879
+http://nmstreaming.live:25461/UzielLCH/123456789/192424
 
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-name="EUROSPORT 1 ES" tvg-logo="https://i.imgur.com/IGaAXkE.png" group-title="Sports",EUROSPORT 1
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/14485
@@ -86,6 +86,14 @@ http://panel.tured.live:80/mauri2022/mauri2022/107413.ts
 
 #EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="CANAL 5" tvg-logo="http://shacktv.com:8080/logos1/MEXICOCANAL5MX.jpg" group-title="MEXICO CHANNELS",CANAL 5
 http://shacktv.com:8080/jvs934/98js24/105814
+
+#EXTINF:-1 tvg-id=”fox.es” tvg-name=”FOX” tvg-logo=”http://nowresurface.eu:2086/images/1cbdb8043b37c7c9ca83582f9218c8b4.png” group-title=”⭐ ESPAÑA “,FOX ESPAÑA
+
+http://nmstreaming.live:25461/UzielLCH/123456789/2100654 
+
+#EXTINF:-1 tvg-id=”amc.es” tvg-name=”AMC España” tvg-logo=”http://iptvglobal.site:25461/images/a615120e6d3bbfe8ca0b5a38509b4cf7.png” group-title=”ESPANA”,AMC España
+
+http://iptvglobal.site:25461/Moises/Moises/129533
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Fear the Walking Dead" tvg-logo="http://panel.tured.live:80/images/8da1d7a7fde22f0878beadad7d996047.jpg" group-title="24/7",24/7 Fear the Walking Dead
 http://panel.tured.live:80/mauri2022/mauri2022/265695.ts
@@ -177,7 +185,7 @@ http://iptvglobal.site:25461/Moises/Moises/87071
 
 #EXTINF:-1 tvg-id=”comedycentral.es” tvg-name=”Comedy Central España” tvg-logo=”http://cpi4u.com:45862/images/5daae38532c46bb29b2f71930b4f2d82.png” group-title=”⭐ ESPAÑA “,Comedy Central España
 
-http://cpi4u.com:45862/EDSON660/VEjxagzuVK/110012
+http://nmstreaming.live:25461/UzielLCH/123456789/2100590
 
 #EXTINF:-1 tvg-id=”comedy” tvg-name=”Comedy Central España” tvg-logo=”http://streamgo.vip:8008/images/17ad467ec489133da03c6b3cb03f5d07.jpg” group-title=”Tv España ⭐”,Comedy Central España 2
 
@@ -269,7 +277,7 @@ http://panel.tured.live:80/mauri2022/mauri2022/87380.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="⭐️CANALES 4K⭐️",El Gourmet
-http://castlempire.site:8080/4201/4201/238977
+http://nmstreaming.live:25461/UzielLCH/123456789/148709
 
 #EXTINF:-1 tvg-id="" tvg-name="El Gourmet Argentina" tvg-logo="http://castlempire.site:8080/images/503b6c92c900bf81b8079256b805397e.png" group-title="*CULTURA*",El Gourmet Argentina
 http://castlempire.site:8080/4201/4201/171013
@@ -289,7 +297,7 @@ http://castlempire.site:8080/4201/4201/238973
 
 #EXTINF:-1 tvg-id=”discoverychannel.sp” tvg-name=”Discovery Channel España” tvg-logo=”http://mirror.streamhubtv.me:8080/images/be34fe9fbde58cdeb95658967017059f.png” group-title=”⭐ ESPAÑA “,Discovery Channel España
 
-http://cpi4u.com:45862/EDSON660/VEjxagzuVK/110026
+http://nmstreaming.live:25461/UzielLCH/123456789/2100604
 
 #EXTINF:-1 tvg-id=”” tvg-name=”Animal Planet” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_HD.svg/761px-Animal_Planet_HD.svg.png” group-title=”VIP FULL-HD (+30 Mbps)⭐️”,Animal Planet HD
 
@@ -314,7 +322,7 @@ http://1on2.xyz:25461/Luis2022/Luis2022/75404
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Familia" tvg-logo="https://i0.wp.com/fontlot.com/wp-content/uploads/2020/03/Discovery-Family-Logo-Font.jpg?fit=801%2C401&ssl=1" group-title="CULTURALES FULL HD",Discovery Familia
-http://gazytv.com:8888/live/NOVELAS/NOVELAS/395892.ts
+http://nmstreaming.live:25461/UzielLCH/123456789/183440
 
 #EXTINF:-1 tvg-id="MTV España" tvg-name="MTV España" tvg-logo="http://nowresurface.eu:2086/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="ENTRETENIMIENTO",MTV España
 http://pofftvmax.com:2086/augusto/123456/205
@@ -323,6 +331,10 @@ http://pofftvmax.com:2086/augusto/123456/205
 #EXTINF:-1 tvg-id=”discoveryid.mx” tvg-name=”Discovery ID” tvg-logo=”https://cdn.mitvstatic.com/channels/co_discovery-id-hd_m.png” group-title=”VIP FULL-HD (+30 Mbps)⭐️”,Discovery Investigation HD
 
 http://tutv.online:2080/Patricio/Patricio/72067
+
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="Discovery Investigation" tvg-logo="http://l3d.us:25461/images/5a6898640e865b337ed19248dd0cafde.png" group-title="TV | Cultura",Discovery Investigation
+http://nmstreaming.live:25461/UzielLCH/123456789/148705
+
 
 #EXTINF:-1 tvg-id=”DiscoveryKids.mx” tvg-name=”Discovery Kids” tvg-logo=”DiscoveryKids.jpg” group-title=”VIP FULL-HD (+30 Mbps)⭐️”,Discovery Kids HD
 
@@ -338,7 +350,7 @@ http://iptvglobal.site:25461/Moises/Moises/86874
 
 #EXTINF:-1 tvg-id=”DisneyChannel.es” tvg-name=”Disney Channel España” tvg-logo=”http://nowresurface.eu:2086/images/faad98defda5a207e361c6fe78ce3f55.png” group-title=”Tv España ⭐”,Disney Channel España
 
-http://pofftvmax.com:2086/augusto/123456/482
+http://nmstreaming.live:25461/UzielLCH/123456789/2100720
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Jr." tvg-logo="http://panel.tured.live:80/images/vvt2zbl8W4F67YLGOHl5c6knzd26QWryb_VTP8xAaVK4zB6Jh9QAKyFmWuaRi5dLHzssqGfaf_33tq7vpjDiMqQTlN_z9Sz387xmV85Dt18.png" group-title="BRASIL",Disney Jr.
 http://speedwk.site:80/nicolas12345/nicolas12345/229110.ts
@@ -473,9 +485,6 @@ http://iptvglobal.site:25461/Moises/Moises/90170
 
 http://iptvglobal.site:25461/Moises/Moises/86848
 
-#EXTINF:-1 tvg-id=”amc.es” tvg-name=”AMC España” tvg-logo=”http://iptvglobal.site:25461/images/a615120e6d3bbfe8ca0b5a38509b4cf7.png” group-title=”ESPANA”,AMC España
-
-http://iptvglobal.site:25461/Moises/Moises/129533
 
 #EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC Crime" tvg-logo="http://nowresurface.eu:2086/images/82354908d326d6b73c7b723c276ddefe.png" group-title="CINE/SERIES",AMC Crime
 http://pofftvmax.com:2086/augusto/123456/4162
@@ -542,9 +551,6 @@ http://iptvglobal.site:25461/Moises/Moises/124491
 
 http://shacktv.com:8080/jvs934/98js24/22052
 
-#EXTINF:-1 tvg-id=”fox.es” tvg-name=”FOX” tvg-logo=”http://nowresurface.eu:2086/images/1cbdb8043b37c7c9ca83582f9218c8b4.png” group-title=”⭐ ESPAÑA “,FOX ESPAÑA
-
-http://listamy.com:8080/adolfo/adolfo/93218
 
 #EXTINF:-1 tvg-id=”fx.mx” tvg-name=”FX HD” tvg-logo=”https://i.picasion.com/pic92/de3e71cad2c796c62b5456f5fce7432f.gif” group-title=”LATIN CINEMA (HD)”,FX HD
 
@@ -938,7 +944,7 @@ http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/22085
 
 #EXTINF:-1 tvg-id=”” tvg-name=”BESTCABLE SPORTS“ tvg-logo=”https://i.ibb.co/jg4d0Xp/BESTCABLE-SOPRTS.jpg” group-title=”⭐ PERU”,BESTCABLE SPORTS FHD 
 
-http://cpi4u.com:45862/EDSON660/VEjxagzuVK/104294
+http://nmstreaming.live:25461/UzielLCH/123456789/207962
 
 #EXTINF:-1 tvg-id=”panamericanatv.pe” tvg-name=”PANAMERICANA TELEVISIÓN” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/512px-Panamericana-tv.svg.png”,PANAMERICANA HD
 
@@ -951,18 +957,23 @@ http://panel.tured.live:80/mauri2022/mauri2022/93690.ts
 #EXTINF:-1 tvg-id="" tvg-name="ECDF" tvg-logo="http://s0lc.net:8080/imagenes/19288.jpg" group-title="DEPORTES - SPORTS",EL CANAL DEL FUTBOL
 http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/19288
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Ñ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ZugiZ7Zl_nlXvDL2Ad-5KNOqYTn3GEHJbg&usqp=CAU" group-title="EURO SPORTS",Bein Sports Ñ
-http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/405
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Ñ" tvg-logo="https://encrypted-tbn0.gstahttp://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/405tic.com/images?q=tbn:ANd9GcT6ZugiZ7Zl_nlXvDL2Ad-5KNOqYTn3GEHJbg&usqp=CAU" group-title="EURO SPORTS",Bein Sports Ñ
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports Xtra Ñ" tvg-logo="http://s0lc.net:8080/imagenes/23517.jpg" group-title="DEPORTES - SPORTS",Bein Sports Xtra Ñ
 http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/23517
  
 #EXTINF:-1 tvg-id="" tvg-name="Ovación TV" tvg-logo="http://51.222.105.31:8080/images/4a36f0a41e31a0d739d5266cd15cabb1.png" group-title="Peru Geo",Ovacion
-http://castlempire.site:8080/4201/4201/99762
+http://castlempire.site:8080/4201/4201/997 
+
+#EXTINF:-1 tvg-id="" tvg-name="VTV Plus" tvg-logo="http://l3d.us:25461/images/010d8f295c9651ebb0f2c7f1f3c0b715.png" group-title="TV | Uruguay",VTV Plus
+http://nmstreaming.live:25461/UzielLCH/123456789/2121769
+
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 10" tvg-logo="https://i.imgur.com/fuQOkHk.png" group-title="││TV││ URUGUAY ",URUGUAY CANAL 10
 
 http://panel.tured.live:80/mauri2022/mauri2022/215384.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="FTWD S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j00juJOffNdhkpkIaayQjcgvK2n.jpg" group-title="Series | Ciencia ficción",FTWD S07 E10
 http://gazytv.com:8888/series/NOVELAS/NOVELAS/489202.mp4
