@@ -95,6 +95,9 @@ http://nmstreaming.live:25461/UzielLCH/123456789/2100654
 
 http://iptvglobal.site:25461/Moises/Moises/129533
 
+#EXTINF:-1 tvg-id="DKiss.es" tvg-name="DKISS" tvg-logo="http://nowresurface.eu:2086/images/b4c1cec4cfd375074a743a03e241e5ce.png" group-title="TDT ESPAÑA",DKISS
+http://pofftvmax.com:2086/augusto/123456/548
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Fear the Walking Dead" tvg-logo="http://panel.tured.live:80/images/8da1d7a7fde22f0878beadad7d996047.jpg" group-title="24/7",24/7 Fear the Walking Dead
 http://panel.tured.live:80/mauri2022/mauri2022/265695.ts
 
