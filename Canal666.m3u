@@ -27,7 +27,9 @@ http://1on2.xyz:25461/Luis2022/Luis2022/52693
 #EXTINF:-1 tvg-id="america television" tvg-name="América Televisión" tvg-logo="https://i.imgur.com/vaVu9ow.jpg" group-title="Peru UHD",América Televisión
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1194929
 
+#EXTINF:-1 tvg-id=”bestsports.pe” tvg-name=”BESTCABLE SPORTS“ tvg-logo=”https://i.ibb.co/jg4d0Xp/BESTCABLE-SOPRTS.jpg” group-title=”⭐ PERU”,BESTCABLE SPORTS FHD
 
+http://nmstreaming.live:25461/UzielLCH/123456789/207962 
 
 #EXTINF:-1 tvg-id=”GOL PERU” tvg-name=”Gol Perú FHD” tvg-logo=”http://streamgo.vip:8008/images/7418ab7b1d5e79d1050f53f7ffcb0317.png” group-title=”Sports” “Perú”,Gol Perú FHD
 
@@ -113,11 +115,11 @@ http://cpi4u.com:45862/EDSON660/VEjxagzuVK/1229
 
 http://iptvglobal.site:25461/Moises/Moises/129701
 
-#EXTINF:-1 tvg-id=”tntsports2.cl” tvg-name=”TNT Sports 2 HD” tvg-logo=”http://iptvglobal.site:25461/images/c62074f50d17a61094dfc41685d7b766.png” group-title=”CHILE”,TNT Sports 2 HD
+#EXTINF:-1 tvg-id=”tntsports.cl” tvg-name=”TNT Sports 2 HD” tvg-logo=”http://iptvglobal.site:25461/images/c62074f50d17a61094dfc41685d7b766.png” group-title=”CHILE”,TNT Sports 2 HD
 
 http://iptvglobal.site:25461/Moises/Moises/86599
 
-#EXTINF:-1 tvg-id=”tntsports3.cl” tvg-name=”TNT Sports 3 HD” tvg-logo=”http://iptvglobal.site:25461/images/c62074f50d17a61094dfc41685d7b766.png” group-title=”CHILE”,TNT Sports 3 HD
+#EXTINF:-1 tvg-id=”tntsports.cl” tvg-name=”TNT Sports 3 HD” tvg-logo=”http://iptvglobal.site:25461/images/c62074f50d17a61094dfc41685d7b766.png” group-title=”CHILE”,TNT Sports 3 HD
 
 http://iptvglobal.site:25461/Moises/Moises/86600
 
@@ -130,7 +132,7 @@ http://iptvglobal.site:25461/Moises/Moises/86601
 
 http://iptvglobal.site:25461/Moises/Moises/131168
 
-#EXTINF:-1 tvg-id=”win sports plus” tvg-name=”Win Sports +” tvg-logo=”http://castlempire.site:8080/images/0490c7d6ebd8f068e449b87271212be4.jpg” group-title=”DEPORTES HD ⚽”,Win Sports +
+#EXTINF:-1 tvg-id=”winsportsplus.co” tvg-name=”Win Sports +” tvg-logo=”http://castlempire.site:8080/images/0490c7d6ebd8f068e449b87271212be4.jpg” group-title=”DEPORTES HD ⚽”,Win Sports +
 
 http://tutv.online:2080/Patricio/Patricio/71863
 
@@ -151,7 +153,7 @@ http://iptvglobal.site:25461/nany1/nany1/86256
 http://iptvglobal.site:25461/nany1/nany1/86253
 
 
-#EXTINF:-1 tvg-id=”Gol” tvg-name=”Gol” tvg-logo=”http://castlempire.site:8080/images/d21cf3f28df92aef3e6585042635d72b.jpg” group-title=”DEPORTES HD ⚽”,Gol España
+#EXTINF:-1 tvg-id=”Gol.es” tvg-name=”Gol” tvg-logo=”http://castlempire.site:8080/images/d21cf3f28df92aef3e6585042635d72b.jpg” group-title=”DEPORTES HD ⚽”,Gol España
 
 http://tutv.online:2080/Patricio/Patricio/71814
 
@@ -193,7 +195,7 @@ http://iptvglobal.site:25461/Moises/Moises/87071
 
 http://nmstreaming.live:25461/UzielLCH/123456789/2100590
 
-#EXTINF:-1 tvg-id=”comedy” tvg-name=”Comedy Central España” tvg-logo=”http://streamgo.vip:8008/images/17ad467ec489133da03c6b3cb03f5d07.jpg” group-title=”Tv España ⭐”,Comedy Central España 2
+#EXTINF:-1 tvg-id=”comedycentral.es” tvg-name=”Comedy Central España” tvg-logo=”http://streamgo.vip:8008/images/17ad467ec489133da03c6b3cb03f5d07.jpg” group-title=”Tv España ⭐”,Comedy Central España 2
 
 http://pofftvmax.com:2086/augusto/123456/4158
 
@@ -950,10 +952,6 @@ http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/22084
 http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/22085
 
 
-#EXTINF:-1 tvg-id=”” tvg-name=”BESTCABLE SPORTS“ tvg-logo=”https://i.ibb.co/jg4d0Xp/BESTCABLE-SOPRTS.jpg” group-title=”⭐ PERU”,BESTCABLE SPORTS FHD 
-
-http://nmstreaming.live:25461/UzielLCH/123456789/207962
-
 #EXTINF:-1 tvg-id=”panamericanatv.pe” tvg-name=”PANAMERICANA TELEVISIÓN” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/512px-Panamericana-tv.svg.png”,PANAMERICANA HD
 
 http://iptvglobal.site:25461/Moises/Moises/86478
@@ -974,55 +972,13 @@ http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/23517
 #EXTINF:-1 tvg-id="" tvg-name="Ovación TV" tvg-logo="http://51.222.105.31:8080/images/4a36f0a41e31a0d739d5266cd15cabb1.png" group-title="Peru Geo",Ovacion
 http://castlempire.site:8080/4201/4201/99762
 
-#EXTINF:-1 tvg-id="" tvg-name="VTV Plus" tvg-logo="http://l3d.us:25461/images/010d8f295c9651ebb0f2c7f1f3c0b715.png" group-title="TV | Uruguay",VTV Plus
+#EXTINF:-1 xui-id="412" tvg-id="telefe.ar" tvg-name="TELEFE" tvg-logo="http://play.flamaplus.tv:80/images/36fc29ca318f1ddda42373a95176723a.png" group-title="NACIONALES ARGENTINA",TELEFE
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJhYZznKAarjrsPcTPeXIPn0/ts
+
+#EXTINF:-1 tvg-id="vtvplus.uy" tvg-name="VTV Plus" tvg-logo="http://l3d.us:25461/images/010d8f295c9651ebb0f2c7f1f3c0b715.png" group-title="TV | Uruguay",VTV Plus
 http://nmstreaming.live:25461/UzielLCH/123456789/2121769
 
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 10" tvg-logo="https://i.imgur.com/fuQOkHk.png" group-title="││TV││ URUGUAY ",URUGUAY CANAL 10
 
 http://panel.tured.live:80/mauri2022/mauri2022/215384.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="FTWD S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j00juJOffNdhkpkIaayQjcgvK2n.jpg" group-title="Series | Ciencia ficción",FTWD S07 E10
-http://gazytv.com:8888/series/NOVELAS/NOVELAS/489202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="FTWD S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j00juJOffNdhkpkIaayQjcgvK2n.jpg" group-title="Series | Ciencia ficción",FTWD S07 E11
-http://gazytv.com:8888/series/NOVELAS/NOVELAS/489203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="FTWD S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j00juJOffNdhkpkIaayQjcgvK2n.jpg" group-title="Series | Ciencia ficción",FTWD S07 E12
-http://gazytv.com:8888/series/NOVELAS/NOVELAS/489204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S07 E13" tvg-logo="https://image.tmdb.org/t/p/w780/yky9nsirJUijIgJjT52hTscEqGC.jpg" group-title="Series-Terror",Fear the Walking Dead S07 E13
-http://latinchannel.tv:8080/series/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/32230.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S07 E14" tvg-logo="https://image.tmdb.org/t/p/w780/6l3j3Hrx3qgsqf3Tb3ToYv0pwOU.jpg" group-title="Series-Terror",Fear the Walking Dead S07 E14
-http://latinchannel.tv:8080/series/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/32362.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S07 E15" tvg-logo="https://image.tmdb.org/t/p/w780/hadZP7lkbVE73YDm9mqcruI2c9p.jpg" group-title="Series-Terror",Fear the Walking Dead S07 E15
-http://latinchannel.tv:8080/series/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/32456.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S07 E16" tvg-logo="https://image.tmdb.org/t/p/w780/9IfB33BvzBCr3RmSgojYpQjzc3l.jpg" group-title="Series-Terror",Fear the Walking Dead S07 E16
-http://latinchannel.tv:8080/series/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/32540.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/v3HEcjUdssVLEG4JmozN3BJu5Pf.jpg" group-title="SERIES DE NETFLIX",Love Alarm S01 E01
-http://streamingtv.vip:8080/series/puntex22kh/farmex22tx/64205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/gVG3ZIa4YZ4G83y7e3Hk6Fm4TfJ.jpg" group-title="SERIES DE NETFLIX",Love Alarm S01 E02
-http://streamingtv.vip:8080/series/puntex22kh/farmex22tx/64206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/8tEV7lWf938uHLW52YoGHUaEOdi.jpg" group-title="SERIES DE NETFLIX",Love Alarm S01 E03
-http://streamingtv.vip:8080/series/puntex22kh/farmex22tx/64207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/is10w1JBS22WQer4ESd5q4dVWbo.jpg" group-title="SERIES DE NETFLIX",Love Alarm S01 E04
-http://streamingtv.vip:8080/series/puntex22kh/farmex22tx/64208.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/yrmkGrvJpkL1FPh4vPyi28nB1kt.jpg" group-title="SERIES DE NETFLIX",Love Alarm S01 E05
-http://streamingtv.vip:8080/series/puntex22kh/farmex22tx/64209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/uLSmeqPGPAifUTZkHbA2DRC5Z3V.jpg" group-title="SERIES DE NETFLIX",Love Alarm S01 E06
-http://streamingtv.vip:8080/series/puntex22kh/farmex22tx/64210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/yY8nV4t6oQw6nxLIXW7ar9L2egD.jpg" group-title="SERIES DE NETFLIX",Love Alarm S01 E07
-http://streamingtv.vip:8080/series/puntex22kh/farmex22tx/64211.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/smXQEwBGWYILzSTSnvFMjxkMVii.jpg" group-title="SERIES DE NETFLIX",Love Alarm S01 E08
-http://streamingtv.vip:8080/series/puntex22kh/farmex22tx/64212.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/spwPQV8v1vWMBi49s2Gbx2qXXFj.jpg" group-title="SERIES DE NETFLIX",Love Alarm S02 E01
-http://streamingtv.vip:8080/series/puntex22kh/farmex22tx/64213.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/stLzMO5kwfXPpAnQI2tHCXRQbZF.jpg" group-title="SERIES DE NETFLIX",Love Alarm S02 E02
-http://streamingtv.vip:8080/series/puntex22kh/farmex22tx/64214.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/45A9ZiVjhLNbieZ6wCYAsDcbwQy.jpg" group-title="SERIES DE NETFLIX",Love Alarm S02 E03
-http://streamingtv.vip:8080/series/puntex22kh/farmex22tx/64215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/c2XdmbGSHSvbBKO4OiMO1lBjTAg.jpg" group-title="SERIES DE NETFLIX",Love Alarm S02 E04
-http://streamingtv.vip:8080/series/puntex22kh/farmex22tx/64216.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/zWDEFg8LIjWxfHO7jwc4omJgxFV.jpg" group-title="SERIES DE NETFLIX",Love Alarm S02 E05
-http://streamingtv.vip:8080/series/puntex22kh/farmex22tx/64217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/zSJGQymCl9rI1p2kLAhMA29ucfZ.jpg" group-title="SERIES DE NETFLIX",Love Alarm S02 E06
-http://streamingtv.vip:8080/series/puntex22kh/farmex22tx/64218.mp4
