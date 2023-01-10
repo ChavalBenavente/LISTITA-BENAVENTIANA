@@ -201,11 +201,6 @@ http://iptvglobal.site:25461/Moises/Moises/87071
 
 http://nmstreaming.live:25461/UzielLCH/123456789/2100590
 
-#EXTINF:-1 tvg-id=”comedycentral.es” tvg-name=”Comedy Central España” tvg-logo=”http://streamgo.vip:8008/images/17ad467ec489133da03c6b3cb03f5d07.jpg” group-title=”Tv España ⭐”,Comedy Central España 2
-
-http://pofftvmax.com:2086/augusto/123456/4158
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Series" tvg-logo="https://static.epg.best/es/MovistarSeries.es.png" group-title="││TV││ ESPAÑA ",Movistar Series
@@ -260,9 +255,6 @@ http://new-tv.cloud:25461/Antoniohdz22/Z99PfDcXwTnJ/174678
 #EXTINF:-1 tvg-id="natgeo.mx" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/O1znldX.png" group-title="TV | CULTURA Y MUNDO",National Geographic
 http://new-tv.cloud:25461/Antoniohdz22/Z99PfDcXwTnJ/174683
 
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Argentina" tvg-logo="" group-title="⚪ - LATINOS HD",NatGeo Argentina
-http://visionplay.me:8080/ITZIAHERN/31349/466098
-
 
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic España" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png" group-title="││TV││ ESPAÑA ",National Geographic España
 http://visionplay.me:8080/ITZIAHERN/31349/462845
@@ -297,11 +289,6 @@ http://nmstreaming.live:25461/UzielLCH/123456789/148709
 
 #EXTINF:-1 tvg-id="" tvg-name="El Gourmet Argentina" tvg-logo="http://castlempire.site:8080/images/503b6c92c900bf81b8079256b805397e.png" group-title="*CULTURA*",El Gourmet Argentina
 http://castlempire.site:8080/4201/4201/171013
-
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Super" tvg-logo="http://tutv.online:36995/images/c05ebe927a3c3a098010bc80e86dee0c.jpg" group-title="24/7 Kids",24/7 | Dragon Ball Super
-
-http://tutv.online:2080/Patricio/Patricio/18058
 
 #EXTINF:-1 tvg-id=”” tvg-name=”Discovery Channel” tvg-logo=”https://selectra.mx/sites/default/files/styles/_default/public/images/logos/discovery-channel-logo-350x183.png?itok=e6NzDgq0” group-title=”VIP FULL-HD (+30 Mbps)⭐️”,Discovery Channel
 
