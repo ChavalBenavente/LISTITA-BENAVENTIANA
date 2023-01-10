@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports" tvg-logo="https://i.imgur.com/OeAwpCW.png" group-title="TV | DEPORTES",Directv Sports Perú
 http://new-tv.cloud:25461/Antoniohdz22/Z99PfDcXwTnJ/175717
 
-#EXTINF:-1 tvg-id="Dsports2.ar" tvg-name="Directv Sports 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/640px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES HD",Directv Sports 2 ARG
+#EXTINF:-1 tvg-id="Dsports2.ar" tvg-name="Directv Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/640px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES HD",Directv Sports 2 ARG
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/2067.ts
 
 #EXTINF:-1 tvg-id=”espn.ar” tvg-name=”ESPN Latinoamérica” tvg-logo=”http://iptvglobal.site:25461/images/b5c360145f54e5f3da03169753c4a828.png” group-title=”Sports”,ESPN
@@ -18,8 +18,6 @@ http://iptvglobal.site:25461/Moises/Moises/128621
 #EXTINF:-1 tvg-id="ESPN Extra South" tvg-name="ESPN Extra South" tvg-logo="https://i.imgur.com/4VrK2WA.jpg" group-title="Deportes",ESPN Extra
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/81684
 
-#EXTINF:-1 tvg-id="" tvg-name="Gol Mundial" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7864_41a_1_c00000_0_0_0.png" group-title="││TV││⛹️ DEPORTE ESPAÑA OPC2 ⛹️",Gol Mundial
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/238902
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisión_logo.svg/480px-Caracol_Televisión_logo.svg.png" group-title="COLOMBIA",Caracol TV
 http://1on2.xyz:25461/Luis2022/Luis2022/52693
@@ -33,7 +31,7 @@ http://nmstreaming.live:25461/UzielLCH/123456789/207962
 
 #EXTINF:-1 tvg-id=”GOL PERU” tvg-name=”Gol Perú FHD” tvg-logo=”http://streamgo.vip:8008/images/7418ab7b1d5e79d1050f53f7ffcb0317.png” group-title=”Sports” “Perú”,Gol Perú FHD
 
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/135808
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/390877.ts
 
 #EXTINF:-1 tvg-id="GOL PERU" tvg-name="Gol Perú" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="││TV││⛹️ DEPORTE PERU ⛹️",Gol Perú 
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1152848
@@ -43,9 +41,9 @@ http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1152848
 
 http://iptvglobal.site:25461/Moises/Moises/86485
 
-#EXTINF:-1 tvg-id=”MOVISTAR DESPORTES PERU” tvg-name=”Movistar Deportes Perú” tvg-logo=”https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.Y_aHNvRJD4.jpg” group-title=”Sports”,Movistar Deportes HD
+#EXTINF:-1 tvg-id=”movistardeportes” tvg-name=”Movistar Deportes Perú” tvg-logo=”https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.Y_aHNvRJD4.jpg” group-title=”Sports”,Movistar Deportes HD
 
-http://tutv.online:2080/Patricio/Patricio/71797
+http://nmstreaming.live:25461/UzielLCH/123456789/192424
 
 #EXTINF:-1 tvg-id=”movistardeportes.pe” tvg-name=”Movistar Deportes” tvg-country=”PE” tvg-logo=”https://i.ibb.co/ZBVtnK2/MOVISTAR-DEPORTES-PERU.jpg” group-title=”Sports”,Movistar Deportes
 
@@ -53,7 +51,7 @@ http://cpi4u.com:45862/EDSON660/VEjxagzuVK/86951
 
 #EXTINF:-1 tvg-id=”movistarplus.pe”tvg-name=”Movistar Plus” tvg-logo=”https://i.postimg.cc/GtMXBKjM/19894871-1750510471633586-2821184914832360189-n.png” group-title=”Sports”,Movistar Plus
 
-http://nmstreaming.live:25461/UzielLCH/123456789/192424
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/390882.ts
 
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-name="EUROSPORT 1 ES" tvg-logo="https://i.imgur.com/IGaAXkE.png" group-title="Sports",EUROSPORT 1
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/14485
