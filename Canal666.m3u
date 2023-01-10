@@ -5,7 +5,7 @@
 http://new-tv.cloud:25461/Antoniohdz22/Z99PfDcXwTnJ/175717
 
 #EXTINF:-1 tvg-id="Dsports2.ar" tvg-name="Directv Sports 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/640px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES HD",Directv Sports 2 ARG
-http://1on2.xyz:25461/Luis2022/Luis2022/51289
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/2067.ts
 
 #EXTINF:-1 tvg-id=”espn.ar” tvg-name=”ESPN Latinoamérica” tvg-logo=”http://iptvglobal.site:25461/images/b5c360145f54e5f3da03169753c4a828.png” group-title=”Sports”,ESPN
 
@@ -81,6 +81,10 @@ http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/42449.ts
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe HD" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINATELEFE.jpg" group-title="ARGENTINA CHANNELS",Telefe HD
 
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/5167.ts
+
+#EXTINF:-1 tvg-id="el13.ar" tvg-name="El Trece" tvg-logo="https://i.imgur.com/aC4qzqe.png" group-title="Live Argentina",El Trece
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/5159.ts
+
 
 #EXTINF:-1 tvg-id="etc.cl" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/uyiPgGW.png" group-title="CHILE",ETC TV
 http://panel.tured.live:80/mauri2022/mauri2022/107413.ts
