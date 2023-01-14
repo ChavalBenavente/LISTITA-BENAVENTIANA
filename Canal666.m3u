@@ -969,6 +969,9 @@ http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/23517
 #EXTINF:-1 tvg-id="" tvg-name="Ovación TV" tvg-logo="http://51.222.105.31:8080/images/4a36f0a41e31a0d739d5266cd15cabb1.png" group-title="Peru Geo",Ovacion
 http://castlempire.site:8080/4201/4201/99762
 
+#EXTINF:-1 tvg-id="etc.cl" tvg-name="ETC TV" tvg-logo="http://streamgo.vip:8008/images/53cce5c404153affac857ada5ce7bc12.png" group-title="Chile",ETC TV
+http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/28237
+
 #EXTINF:-1 xui-id="412" tvg-id="telefe.ar" tvg-name="TELEFE" tvg-logo="http://play.flamaplus.tv:80/images/36fc29ca318f1ddda42373a95176723a.png" group-title="NACIONALES ARGENTINA",TELEFE
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJhYZznKAarjrsPcTPeXIPn0/ts
 
