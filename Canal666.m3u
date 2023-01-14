@@ -981,5 +981,13 @@ http://nmstreaming.live:25461/UzielLCH/123456789/2121769
 http://panel.tured.live:80/mauri2022/mauri2022/215384.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-chno="613" tvg-name="Directv Sports +" tvg-logo="https://i.imgur.com/okhqFFc.png" group-title="Live Deportes Premium",Directv Sports +
+#EXTINF:-1 tvg-id="Directv Sports + FHD (CL)" tvg-chno="613" tvg-name="Directv Sports +" tvg-logo="https://i.imgur.com/okhqFFc.png" group-title="Live Deportes Premium",Directv Sports + Chile
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/637326.ts
+
+
+#EXTINF:-1 tvg-id="Directv Sports + FHD (ARG)" tvg-chno="613" tvg-name="Directv Sports +" tvg-logo="https://i.imgur.com/okhqFFc.png" group-title="Live Deportes Premium",Directv Sports + Argentina
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6
+
+
+#EXTINF:-1 tvg-id="" tvg-chno="613" tvg-name="Directv Sports +" tvg-logo="https://i.imgur.com/okhqFFc.png" group-title="Live Deportes Premium",Directv Sports + Peru
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6
