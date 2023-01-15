@@ -975,6 +975,10 @@ http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/28237
 #EXTINF:-1 xui-id="1850" tvg-id="" tvg-name="ELEMUNDO INTERNACIONAL" tvg-logo="https://static.epg.best/pa/TelemundoLatinAmerica.pa.png" group-title="CULTURALES HD",TELEMUNDO INTERNACIONAL
 http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4iPFYhlq1-GUBv2t8Y6Boc/ts
 
+#EXTINF:-1 tvg-id="telemundowsns.us" tvg-name="Telemundo Internacional" tvg-logo="https://i.imgur.com/xM3bf2u.png" group-title="Live USA Latinos",Telemundo Chicago
+
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/467.ts
+
 
 #EXTINF:-1 xui-id="412" tvg-id="telefe.ar" tvg-name="TELEFE" tvg-logo="http://play.flamaplus.tv:80/images/36fc29ca318f1ddda42373a95176723a.png" group-title="NACIONALES ARGENTINA",TELEFE
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJhYZznKAarjrsPcTPeXIPn0/ts
