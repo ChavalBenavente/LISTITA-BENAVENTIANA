@@ -7,15 +7,15 @@ http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5531L
 #EXTINF:-1 tvg-id="Dsports2.ar" tvg-name="Directv Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/640px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES HD",Directv Sports 2 ARG
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/2067.ts
 
-#EXTINF:-1 tvg-id=”espn.ar” tvg-name=”ESPN Latinoamérica” tvg-logo=”http://iptvglobal.site:25461/images/b5c360145f54e5f3da03169753c4a828.png” group-title=”Sports”,ESPN
+#EXTINF:-1 tvg-id=”ESPNArgentina.ar” tvg-name=”ESPN Argentina”,ESPN Argentina
 
 http://iptvglobal.site:25461/Moises/Moises/128627
 
-#EXTINF:-1 tvg-id=”espn2peru.pe” tvg-name=”ESPN 2 Latinoamérica” tvg-logo=”http://iptvglobal.site:25461/images/3a60836f4120ffaa1201d3853c983f19.jpg” group-title=”Sports”,ESPN 2
+#EXTINF:-1 tvg-id=”espn2peru.pe” tvg-name=”ESPN 2 Perú” tvg-logo=”http://iptvglobal.site:25461/images/3a60836f4120ffaa1201d3853c983f19.jpg” group-title=”Sports”,ESPN 2 Perú
 
 http://iptvglobal.site:25461/Moises/Moises/128621
 
-#EXTINF:-1 tvg-id="ESPN Extra South" tvg-name="ESPN Extra South" tvg-logo="https://i.imgur.com/4VrK2WA.jpg" group-title="Deportes",ESPN Extra
+#EXTINF:-1 tvg-id="ESPNExtraSouth.us" tvg-name="ESPN Extra South" tvg-logo="https://i.imgur.com/4VrK2WA.jpg" group-title="Deportes",ESPN Extra South
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/81684
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name"ATV", ATV
@@ -124,6 +124,17 @@ http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/393381.ts
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV",Panamericana TV
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/584548.ts
+
+
+
+
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-name="DirecTV Sports Argentina",Directv Sports Argentina
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/389731.ts
+
+#EXTINF:-1 tvg-id="DirecTVSportsPlus.us" tvg-name="Directv Sports+",DirecTV Sports+
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/389725.ts
+
+
 
 
 
