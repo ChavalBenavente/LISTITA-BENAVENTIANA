@@ -11,7 +11,7 @@ http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/2067.ts
 
 http://iptvglobal.site:25461/Moises/Moises/128627
 
-#EXTINF:-1 tvg-id=”espn2.pe” tvg-name=”ESPN 2 Latinoamérica” tvg-logo=”http://iptvglobal.site:25461/images/3a60836f4120ffaa1201d3853c983f19.jpg” group-title=”Sports”,ESPN 2
+#EXTINF:-1 tvg-id=”espn2peru.pe” tvg-name=”ESPN 2 Latinoamérica” tvg-logo=”http://iptvglobal.site:25461/images/3a60836f4120ffaa1201d3853c983f19.jpg” group-title=”Sports”,ESPN 2
 
 http://iptvglobal.site:25461/Moises/Moises/128621
 
@@ -25,11 +25,11 @@ http://1on2.xyz:25461/Luis2022/Luis2022/52693
 #EXTINF:-1 tvg-id="america television" tvg-name="América Televisión" tvg-logo="https://i.imgur.com/vaVu9ow.jpg" group-title="Peru UHD",América Televisión
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1194929
 
-#EXTINF:-1 tvg-id=”bestsports.pe” tvg-name=”BESTCABLE SPORTS“ tvg-logo=”https://i.ibb.co/jg4d0Xp/BESTCABLE-SOPRTS.jpg” group-title=”⭐ PERU”,BESTCABLE SPORTS FHD
+#EXTINF:-1 tvg-id=”bescablesportsperu.pe” tvg-name=”BESTCABLE SPORTS“ tvg-logo=”https://i.ibb.co/jg4d0Xp/BESTCABLE-SOPRTS.jpg” group-title=”⭐ PERU”,BESTCABLE SPORTS FHD
 
 http://nmstreaming.live:25461/UzielLCH/123456789/207962 
 
-#EXTINF:-1 tvg-id=”GOL PERU” tvg-name=”Gol Perú FHD” tvg-logo=”http://streamgo.vip:8008/images/7418ab7b1d5e79d1050f53f7ffcb0317.png” group-title=”Sports” “Perú”,Gol Perú FHD
+#EXTINF:-1 tvg-id=”GolPeru.pe” tvg-name=”Gol Perú FHD” tvg-logo=”http://streamgo.vip:8008/images/7418ab7b1d5e79d1050f53f7ffcb0317.png” group-title=”Sports” “Perú”,Gol Perú FHD
 
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/390877.ts
 
@@ -37,7 +37,7 @@ http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/390877.ts
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1152848
 
 
-#EXTINF:-1 tvg-id=”GOL PERU” tvg-name=”GOLPERU HD” tvg-country=”PE” tvg-logo=”https://i.postimg.cc/0rRZZm1v/Picsart-22-11-22-02-12-07-238.jpg” group-title=”Sports”, Gol Perú HD
+#EXTINF:-1 tvg-id=”GolPeru.pe” tvg-name=”GOLPERU HD” tvg-country=”PE” tvg-logo=”https://i.postimg.cc/0rRZZm1v/Picsart-22-11-22-02-12-07-238.jpg” group-title=”Sports”, Gol Perú HD
 
 http://iptvglobal.site:25461/Moises/Moises/86485
 
