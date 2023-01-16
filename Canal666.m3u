@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="DirecTVSportsPeru.pe" tvg-name="DirecTV Sports Peru" tvg-logo="https://i.imgur.com/OeAwpCW.png" group-title="TV | DEPORTES",DirecTV Sports Perú
+#EXTINF:-1 tvg-id="DirecTVSportsPeru.pe" tvg-name="DirecTV Sports Peru" tvg-logo="https://i.imgur.com/OeAwpCW.png",DirecTV Sports Perú
 http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5531LNRBiI4Ji3uEsgrGt2/ts
 
 #EXTINF:-1 tvg-id="Dsports2.ar" tvg-name="Directv Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/640px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES HD",Directv Sports 2 ARG
@@ -26,6 +26,10 @@ http://1on2.xyz:25461/Luis2022/Luis2022/52693
 
 #EXTINF:-1 tvg-id="america television" tvg-name="América Televisión" tvg-logo="https://i.imgur.com/vaVu9ow.jpg" group-title="Peru UHD",América Televisión
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1194929
+
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina", Latina
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/140659.ts
+
 
 #EXTINF:-1 tvg-id=”bescablesportsperu.pe” tvg-name=”BESTCABLE SPORTS“ tvg-logo=”https://i.ibb.co/jg4d0Xp/BESTCABLE-SOPRTS.jpg” group-title=”⭐ PERU”,BESTCABLE SPORTS FHD
 
