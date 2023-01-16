@@ -27,8 +27,11 @@ http://1on2.xyz:25461/Luis2022/Luis2022/52693
 #EXTINF:-1 tvg-id="america television" tvg-name="América Televisión" tvg-logo="https://i.imgur.com/vaVu9ow.jpg" group-title="Peru UHD",América Televisión
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1194929
 
-#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina", Latina
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina",Latina
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/140659.ts
+
+#EXTINF:-1 tvg-id="TvChile.cl" tvg-name="TV Chile",TV Chile
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/410494.ts
 
 
 #EXTINF:-1 tvg-id=”bescablesportsperu.pe” tvg-name=”BESTCABLE SPORTS“ tvg-logo=”https://i.ibb.co/jg4d0Xp/BESTCABLE-SOPRTS.jpg” group-title=”⭐ PERU”,BESTCABLE SPORTS FHD
