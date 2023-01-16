@@ -100,6 +100,26 @@ http://panel.tured.live:80/mauri2022/mauri2022/107413.ts
 #EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="CANAL 5" tvg-logo="http://shacktv.com:8080/logos1/MEXICOCANAL5MX.jpg" group-title="MEXICO CHANNELS",CANAL 5
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/635.ts
 
+
+#EXTINF:-1 tvg-id="UCL.uy" tvg-name="UCL",UCL
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/565922.ts
+
+#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="Willax TV",Willax TV
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/567538.ts
+
+#EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="AZ Cinema",AZ Cinema
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/395715.ts
+
+#EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N",Canal N
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/623726.ts
+
+#EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-name="Pasiones Latin America",Pasiones Latin America
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/727.ts
+
+#EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-name="TV Peru Noticias",TV Peru Noticias
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/400653.ts
+
+
 #EXTINF:-1 tvg-id=”fox.es” tvg-name=”FOX” tvg-logo=”http://nowresurface.eu:2086/images/1cbdb8043b37c7c9ca83582f9218c8b4.png” group-title=”⭐ ESPAÑA “,FOX ESPAÑA
 
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/564126.ts
