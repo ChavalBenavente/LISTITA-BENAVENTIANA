@@ -123,8 +123,10 @@ http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/393381.ts
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/584548.ts
 
 
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisión_logo.svg/480px-Caracol_Televisión_logo.svg.png" group-title="COLOMBIA",Caracol TV
-http://1on2.xyz:25461/Luis2022/Luis2022/52693
+#EXTINF:-1 tvg-id="CaracolInternacional" tvg-name="Caracol Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisión_logo.svg/480px-Caracol_Televisión_logo.svg.png" group-title="COLOMBIA",Caracol Internacional
+http://teamnextlevel.xyz:25461/Cortez/Cortez/220477
+#EXTINF:-1 tvg-id="CaracolTV" tvg-name="Caracol TV",Caracol TV
+http://teamnextlevel.xyz:25461/Cortez/Cortez/220474
 
 
 
