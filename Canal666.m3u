@@ -133,6 +133,10 @@ http://teamnextlevel.xyz:25461/Cortez/Cortez/220474
 #EXTINF:-1 tvg-id="Americatv.ar" tvg-name="America Tv",America Tv
 http://teamnextlevel.xyz:25461/Cortez/Cortez/241116
 
+#EXTINF:-1 tvg-id="TNNoticias.ar" tvg-name="TN Noticias",TN Noticias
+http://teamnextlevel.xyz:25461/Cortez/Cortez/205242
+
+
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-name="DirecTV Sports Argentina",Directv Sports Argentina
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/389731.ts
 
@@ -490,10 +494,11 @@ http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/1019
 
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="TELEFE" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINATELEFE.jpg" group-title="ARGENTINA CHANNELS",TELEFE
-http://shacktv.com:8080/jvs934/98js24/61193
+http://teamnextlevel.xyz:25461/Cortez/Cortez/205232
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="CRÓNICA" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINACRONICA.jpg" group-title="ARGENTINA CHANNELS",CRÓNICA
-http://shacktv.com:8080/jvs934/98js24/61197
+http://teamnextlevel.xyz:25461/Cortez/Cortez/205243
+
 
 
 #EXTINF:-1 tvg-id="Clan" tvg-name="CLAN TVE" tvg-logo="http://nowresurface.eu:2086/images/603c07e2735df19b9a7ce091d7453d2b.png" group-title="INFANTIL",CLAN TVE
