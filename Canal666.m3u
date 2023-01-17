@@ -130,6 +130,8 @@ http://teamnextlevel.xyz:25461/Cortez/Cortez/220474
 
 
 
+#EXTINF:-1 tvg-id="Americatv.ar" tvg-name="America Tv",America Tv
+http://teamnextlevel.xyz:25461/Cortez/Cortez/241116
 
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-name="DirecTV Sports Argentina",Directv Sports Argentina
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/389731.ts
