@@ -141,8 +141,6 @@ http://teamnextlevel.xyz:25461/Cortez/Cortez/220474
 #EXTINF:-1 tvg-id="Americatv.ar" tvg-name="America Tv",America Tv
 http://teamnextlevel.xyz:25461/Cortez/Cortez/241116
 
-#EXTINF:-1 tvg-id="TNNoticias.ar" tvg-name="TN Noticias",TN Noticias
-http://teamnextlevel.xyz:25461/Cortez/Cortez/205242
 
 
 
@@ -206,11 +204,11 @@ http://cpi4u.com:45862/EDSON660/VEjxagzuVK/1229
 
 http://iptvglobal.site:25461/Moises/Moises/129701
 
-#EXTINF:-1 tvg-id=”tntsports.cl” tvg-name=”TNT Sports 2 HD” tvg-logo=”http://iptvglobal.site:25461/images/c62074f50d17a61094dfc41685d7b766.png” group-title=”CHILE”,TNT Sports 2 HD
+#EXTINF:-1 tvg-id=”tntsports2chile.cl” tvg-name=”TNT Sports 2 HD” tvg-logo=”http://iptvglobal.site:25461/images/c62074f50d17a61094dfc41685d7b766.png” group-title=”CHILE”,TNT Sports 2 HD
 
 http://iptvglobal.site:25461/Moises/Moises/86599
 
-#EXTINF:-1 tvg-id=”tntsports.cl” tvg-name=”TNT Sports 3 HD” tvg-logo=”http://iptvglobal.site:25461/images/c62074f50d17a61094dfc41685d7b766.png” group-title=”CHILE”,TNT Sports 3 HD
+#EXTINF:-1 tvg-id=”tntsports3chile.cl” tvg-name=”TNT Sports 3 HD” tvg-logo=”http://iptvglobal.site:25461/images/c62074f50d17a61094dfc41685d7b766.png” group-title=”CHILE”,TNT Sports 3 HD
 
 http://iptvglobal.site:25461/Moises/Moises/86600
 
@@ -264,10 +262,10 @@ http://iptvglobal.site:25461/nany1/nany1/87053
 http://castlempire.site:8080/4201/4201/184446
 
 
-#EXTINF:-1 tvg-id="TUDN USA" tvg-name="TUDN USA" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",TUDN USA
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN USA" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",TUDN USA
 http://visionplay.me:8080/ITZIAHERN/31349/322194
 
-#EXTINF:-1 tvg-id="TUDN Mexico" tvg-name="TUDN" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",TUDN México
+#EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-name="TUDN" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",TUDN México
 http://visionplay.me:8080/ITZIAHERN/31349/322304
 
 #EXTINF:-1 tvg-id="" tvg-name="Zona TUDN" tvg-logo="http://dns.k4livetv.com:8080/images/4d9d690b07eb288707b5154423fe1dcf.jpg" group-title="⚽⚾ - DEPORTES LATINOS ",Zona TUDN
@@ -419,6 +417,9 @@ http://tutv.online:2080/Patricio/Patricio/72067
 
 #EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="Discovery Investigation" tvg-logo="http://l3d.us:25461/images/5a6898640e865b337ed19248dd0cafde.png" group-title="TV | Cultura",Discovery Investigation
 http://nmstreaming.live:25461/UzielLCH/123456789/148705
+
+#EXTINF:-1 tvg-id="TNNoticias.ar" tvg-name="TN Noticias",TN Noticias
+http://teamnextlevel.xyz:25461/Cortez/Cortez/205242
 
 
 #EXTINF:-1 tvg-id=”DiscoveryKids.mx” tvg-name=”Discovery Kids” tvg-logo=”DiscoveryKids.jpg” group-title=”VIP FULL-HD (+30 Mbps)⭐️”,Discovery Kids HD
