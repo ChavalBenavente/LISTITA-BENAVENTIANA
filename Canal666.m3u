@@ -144,6 +144,11 @@ http://teamnextlevel.xyz:25461/Cortez/Cortez/241116
 #EXTINF:-1 tvg-id="TNNoticias.ar" tvg-name="TN Noticias",TN Noticias
 http://teamnextlevel.xyz:25461/Cortez/Cortez/205242
 
+#EXTINF:-1 tvg-id="CDN.do" tvg-name="CDN",CDN
+http://teamnextlevel.xyz:25461/Cortez/Cortez/243433
+#EXTINF:-1 tvg-id="CDNDeportes.do" tvg-name="CDN Deportes",CDN Deportes
+http://teamnextlevel.xyz:25461/Cortez/Cortez/243434
+
 
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-name="DirecTV Sports Argentina",Directv Sports Argentina
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/389731.ts
