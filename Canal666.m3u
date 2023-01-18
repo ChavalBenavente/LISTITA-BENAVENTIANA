@@ -164,6 +164,18 @@ http://teamnextlevel.xyz:25461/Cortez/Cortez/241179
 #EXTINF:-1 tvg-id="HBOPlusMexico.mx" tvg-name="HBO+ México" tvg-logo="http://teamnextlevel.xyz:25461/images/a375ff401ff44d136c234a1f17d391e6.png" group-title="CLARO TV",HBO+ Mexico
 http://teamnextlevel.xyz:25461/Cortez/Cortez/218192
 
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO Pop Latin America",HBO Pop Latin America
+http://teamnextlevel.xyz:25461/Cortez/Cortez/241113
+
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America",HBO 2 Latin America 
+http://teamnextlevel.xyz:25461/Cortez/Cortez/241112
+
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family Latin America",HBO Family Latin America
+http://teamnextlevel.xyz:25461/Cortez/Cortez/241176
+
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America",HBO Xtreme Latin America
+http://teamnextlevel.xyz:25461/Cortez/Cortez/241181
+
 
 #EXTINF:-1 tvg-id="AEPanregional" tvg-name="A&E",A&E
 http://teamnextlevel.xyz:25461/Cortez/Cortez/201447
