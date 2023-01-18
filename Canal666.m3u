@@ -97,7 +97,18 @@ http://panel.tured.live:80/mauri2022/mauri2022/107413.ts
 #EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="CANAL 5" tvg-logo="http://shacktv.com:8080/logos1/MEXICOCANAL5MX.jpg" group-title="MEXICO CHANNELS",CANAL 5
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/635.ts
 
+#EXTINF:-1 tvg-id="Nativa.pe" tvg-name="Nativa",Nativa
+https://servilive.com:3449/live/mlecaroslive.m3u8
 
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-name="Ovación TV",Ovación TV
+http://castlempire.site:8080/4201/4201/99762
+
+#EXTINF:-1 tvg-id="PMAGIC" tvg-name="Perú Mágico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Peru_Magico_2016.png/revision/latest/scale-to-width-down/200?cb=20161023181843" group-title="PERU",Perú Mágico
+http://panel.tured.live:80/mauri2022/mauri2022/99683.ts
+#EXTINF:-1 tvg-id="" tvg-name="PBO TV" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_bfL9Gy3lzFG-mDrrXm5umWttjGpnXri8TvQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="PERU",PBO TV
+http://speedwk.site:80/nicolas12345/nicolas12345/211293.ts
+#EXTINF:-1 tvg-id="" tvg-name="RPP TV" tvg-logo="http://panel.tured.live:80/images/e18e735852f9bd9f333d394050e22e0d.png" group-title="PERU",RPP TV
+http://panel.tured.live:80/mauri2022/mauri2022/99684.ts 
 #EXTINF:-1 tvg-id="UCL.uy" tvg-name="UCL",UCL
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/565922.ts
 
@@ -211,6 +222,9 @@ http://listamy.com:8080/adolfo/adolfo/93238
 
 #EXTINF:-1 tvg-id="Cosmo HD" tvg-name="COSMO" tvg-logo="http://nowresurface.eu:2086/images/0c437e9ba6ca7948362d4624b7bdc303.png" group-title="CINE/SERIES",COSMO
 http://listamy.com:8080/adolfo/adolfo/109742
+
+#EXTINF:-1 tvg-id="" tvg-name="Congreso TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/Congreso_TV_2021.png/revision/latest/scale-to-width-down/250?cb=20210205161714" group-title="PERU",Congreso TV
+http://panel.tured.live:80/mauri2022/mauri2022/93690.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Fear the Walking Dead" tvg-logo="http://panel.tured.live:80/images/8da1d7a7fde22f0878beadad7d996047.jpg" group-title="24/7",24/7 Fear the Walking Dead
 http://panel.tured.live:80/mauri2022/mauri2022/265695.ts
@@ -1038,12 +1052,7 @@ http://iptvglobal.site:25461/Moises/Moises/152311
 
 http://iptvglobal.site:25461/Moises/Moises/152312
 
-#EXTINF:-1 tvg-id="PMAGIC" tvg-name="Perú Mágico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Peru_Magico_2016.png/revision/latest/scale-to-width-down/200?cb=20161023181843" group-title="PERU",Perú Mágico
-http://panel.tured.live:80/mauri2022/mauri2022/99683.ts
-#EXTINF:-1 tvg-id="" tvg-name="PBO TV" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_bfL9Gy3lzFG-mDrrXm5umWttjGpnXri8TvQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="PERU",PBO TV
-http://speedwk.site:80/nicolas12345/nicolas12345/211293.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPP TV" tvg-logo="http://panel.tured.live:80/images/e18e735852f9bd9f333d394050e22e0d.png" group-title="PERU",RPP TV
-http://panel.tured.live:80/mauri2022/mauri2022/99684.ts
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://s0lc.net:8080/imagenes/22083.jpg" group-title="DEPORTES - SPORTS",DAZN 1
@@ -1059,8 +1068,7 @@ http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/22085
 http://iptvglobal.site:25461/Moises/Moises/86478
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Congreso TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/Congreso_TV_2021.png/revision/latest/scale-to-width-down/250?cb=20210205161714" group-title="PERU",Congreso TV
-http://panel.tured.live:80/mauri2022/mauri2022/93690.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ECDF" tvg-logo="http://s0lc.net:8080/imagenes/19288.jpg" group-title="DEPORTES - SPORTS",EL CANAL DEL FUTBOL
 http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/19288
@@ -1078,8 +1086,6 @@ http://new-tv.cloud:25461/papa/papa/195812
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports Xtra Ñ" tvg-logo="http://s0lc.net:8080/imagenes/23517.jpg" group-title="DEPORTES - SPORTS",Bein Sports Xtra Ñ
 http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/23517
  
-#EXTINF:-1 tvg-id="" tvg-name="Ovación TV" tvg-logo="http://51.222.105.31:8080/images/4a36f0a41e31a0d739d5266cd15cabb1.png" group-title="Peru Geo",Ovacion
-http://castlempire.site:8080/4201/4201/99762
 
 #EXTINF:-1 tvg-id="etc.cl" tvg-name="ETC TV" tvg-logo="http://streamgo.vip:8008/images/53cce5c404153affac857ada5ce7bc12.png" group-title="Chile",ETC TV
 http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/28237
