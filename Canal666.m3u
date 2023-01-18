@@ -144,10 +144,7 @@ http://teamnextlevel.xyz:25461/Cortez/Cortez/241116
 #EXTINF:-1 tvg-id="TNNoticias.ar" tvg-name="TN Noticias",TN Noticias
 http://teamnextlevel.xyz:25461/Cortez/Cortez/205242
 
-#EXTINF:-1 tvg-id="CDN.do" tvg-name="CDN",CDN
-http://teamnextlevel.xyz:25461/Cortez/Cortez/243433
-#EXTINF:-1 tvg-id="CDNDeportes.do" tvg-name="CDN Deportes",CDN Deportes
-http://teamnextlevel.xyz:25461/Cortez/Cortez/243434
+
 
 
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-name="DirecTV Sports Argentina",Directv Sports Argentina
@@ -615,6 +612,11 @@ http://shacktv.com:8080/jvs934/98js24/115815
 #EXTINF:-1 tvg-id=”antena3.mx” tvg-name=”A3S ESPAÑA” tvg-logo=”http://iptvglobal.site:25461/images/7161afb1a96e248ee7e33d143625c869.png” group-title=”MEXICO HD (ENCODER)”,A3S España
 
 http://castlempire.site:8080/4201/4201/173622
+
+#EXTINF:-1 tvg-id="CDN.do" tvg-name="CDN",CDN
+http://teamnextlevel.xyz:25461/Cortez/Cortez/243433
+#EXTINF:-1 tvg-id="CDNDeportes.do" tvg-name="CDN Deportes",CDN Deportes
+http://teamnextlevel.xyz:25461/Cortez/Cortez/243434
 
 
 #EXTINF:-1 tvg-id="axn.mx" tvg-name="AXN FHD" tvg-logo="https://i.picasion.com/pic92/ff7e04f714e191ff795392fa777c7f34.gif" group-title="LATIN ENTERTAINMENT (HD)",AXN FHD
