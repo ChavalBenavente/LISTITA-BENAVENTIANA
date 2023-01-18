@@ -153,11 +153,15 @@ http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/389725.ts
 
 
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="HBO Latin America",HBO Latin America
+http://teamnextlevel.xyz:25461/Cortez/Cortez/241177
+#EXTINF:-1 tvg-id="HBOMexico.mx" tvg-name="HBO Mexico" tvg-logo="http://teamnextlevel.xyz:25461/images/c2d0658828f0fc8d0386622fd59ddba5.png" group-title="CLARO TV",HBO México
 http://teamnextlevel.xyz:25461/Cortez/Cortez/218136
+
+
 #EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO+ Latin America",HBO+ Latin America
 http://teamnextlevel.xyz:25461/Cortez/Cortez/241179
 
-#EXTINF:-1 tvg-id="HBOMexico.mx" tvg-name="HBO+ México" tvg-logo="http://teamnextlevel.xyz:25461/images/a375ff401ff44d136c234a1f17d391e6.png" group-title="CLARO TV",HBO+ Mexico
+#EXTINF:-1 tvg-id="HBOPlusMexico.mx" tvg-name="HBO+ México" tvg-logo="http://teamnextlevel.xyz:25461/images/a375ff401ff44d136c234a1f17d391e6.png" group-title="CLARO TV",HBO+ Mexico
 http://teamnextlevel.xyz:25461/Cortez/Cortez/218192
 
 
