@@ -123,6 +123,9 @@ http://speedwk.site:80/nicolas12345/nicolas12345/211293.ts
 #EXTINF:-1 tvg-id="RPPTV.pe" tvg-name="RPP TV" tvg-logo="http://panel.tured.live:80/images/e18e735852f9bd9f333d394050e22e0d.png" group-title="PERU",RPP TV
 http://panel.tured.live:80/mauri2022/mauri2022/99684.ts 
 
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="ChileVision", ChileVision
+http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/28233
+
 #EXTINF:-1 tvg-id="UCL.uy" tvg-name="UCL",UCL
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/565922.ts
 
