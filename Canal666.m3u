@@ -103,6 +103,10 @@ https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-id="TCMSpain.es" tvg-name="TCM Spain", TCM Spain
 http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/168018
 
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13",Canal 13
+http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/28219
+
+
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-name="Ovación TV",Ovación TV
 http://castlempire.site:8080/4201/4201/99762
 
