@@ -154,6 +154,15 @@ http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6iien
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N",Canal N
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/623726.ts
 
+#EXTINF:-1 tvg-id="ESPNChile.cl" tvg-name="ESPN Chile", ESPN Chile
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5i-S-QyVgw5GTxJYR8f7kJ/ts
+
+#EXTINF:-1 tvg-id="ESPN2Chile.cl" tvg-name="ESPN 2 Chile", ESPN 2 Chile
+http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/167964
+
+
+
+
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-name="Pasiones Latin America",Pasiones Latin America
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/727.ts
 
