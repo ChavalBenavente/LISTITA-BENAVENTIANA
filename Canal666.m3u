@@ -141,6 +141,8 @@ http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/395715.ts
 #EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-name="Cartoon Network México",Cartoon Network México
 http://teamnextlevel.xyz:25461/Cortez/Cortez/218195
 
+#EXTINF:-1 tvg-id="TLCMexico.mx" tvg-name="TLC Mexico", TLC Mexico
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6iienOD25XVph3iIPkgrFX/ts
 
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N",Canal N
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/623726.ts
