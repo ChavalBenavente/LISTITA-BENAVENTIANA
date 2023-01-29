@@ -871,10 +871,6 @@ http://iptvglobal.site:25461/nany1/nany1/88243
 
 http://iptvglobal.site:25461/nany1/nany1/87228
 
-#EXTINF:-1 tvg-id=”space.mx” tvg-name=”Space HD” tvg-logo=”https://i.picasion.com/pic92/538eab0aa4a1fcc9978674b4c8ef6ab5.gif” group-title=”LATIN DUAL AUDIO (FHD)”,Space FHD
-
-http://iptvglobal.site:25461/Moises/Moises/86870
-
 #EXTINF:-1 tvg-id="" tvg-name="Universal Reality" tvg-logo="https://i.imgur.com/sYQKMfP.png" group-title="TV | CINEMA PREMIUM",Universal Reality
 http://new-tv.cloud:25461/Antoniohdz22/Z99PfDcXwTnJ/174194
 #EXTINF:-1 tvg-id="" tvg-name="Universal Comedia" tvg-logo="https://i.imgur.com/Z8QtoFp.png" group-title="TV | CINEMA PREMIUM",Universal Comedia
@@ -947,14 +943,7 @@ http://iptvglobal.site:25461/Moises/Moises/124494
 #EXTINF:-1 tvg-id=”imagentv.mx” tvg-name=”Imagen TV” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png” group-title=”MEXICO HD (ENCODER)”,Imagen TV
 
 http://iptvglobal.site:25461/nany1/nany1/86995
- 
-#EXTINF:-1 tvg-id=”canal13.cl” tvg-name=”Canal 13” tvg-logo=”http://streamgo.vip:8008/images/a67edae422309f893a73707b38e9ca09.png” group-title=”Chile ⭐”,13 HD
 
-http://streamgo.vip:8008/jonathan12/jonathan12/28219
-
-#EXTINF:-1 tvg-id=”chilevision.cl” tvg-name=”Chilevision” tvg-logo=”http://streamgo.vip:8008/images/06074edd7f572f827c08c4ef64c49049.png” group-title=”Chile ⭐”,Chilevision HD
-
-http://streamgo.vip:8008/jonathan12/jonathan12/28233
 
 #EXTINF:-1 tvg-id="tvnchile.cl" tvg-name="TVN Chile" tvg-logo="http://streamgo.vip:8008/images/69e49ff199bfc129952b6602b5ed7aba.png" group-title="Chile ⭐",TVN HD
 
