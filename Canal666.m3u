@@ -1062,29 +1062,29 @@ http://iptvglobal.site:25461/nany1/nany1/87008
 
 http://iptvglobal.site:25461/nany1/nany1/144351 
 
-#EXTINF:-1 tvg-id=”la1.es” tvg-name=”LA 1” tvg-logo=”http://nowresurface.eu:2086/images/1594d1f74719c1c1ef67ddac7907ccbe.png” group-title=”ESPANA”,LA 1
+#EXTINF:-1 tvg-chno="1.5" tvg-id=”la1.es” tvg-name=”LA 1” tvg-logo=”http://nowresurface.eu:2086/images/1594d1f74719c1c1ef67ddac7907ccbe.png” group-title=”ESPANA”,LA 1
 
-http://iptvglobal.site:25461/Moises/Moises/152297
+http://panel.tured.live:80/Hector123/Hector123/229008.ts
 
-#EXTINF:-1 tvg-id=”” tvg-name=”La 2” tvg-logo=”http://nowresurface.eu:2086/images/151a43ebad08472f764cca527fbf0fc9.png” group-title=”ESPANA”,La 2
+#EXTINF:-1 tvg-chno="2.5" tvg-id=”la2.es” tvg-name=”La 2” tvg-logo=”http://nowresurface.eu:2086/images/151a43ebad08472f764cca527fbf0fc9.png” group-title=”ESPANA”,La 2
 
-http://iptvglobal.site:25461/Moises/Moises/152299
+http://panel.tured.live:80/Hector123/Hector123/229013.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3" tvg-logo="http://iptvglobal.site:25461/images/5a57821055007ef407f4991556a89482.png" group-title="ESPANA",ANTENA 3 HD
+#EXTINF:-1 tvg-chno="3.5" tvg-id="" tvg-name="ANTENA 3" tvg-logo="http://iptvglobal.site:25461/images/5a57821055007ef407f4991556a89482.png" group-title="ESPANA",ANTENA 3 HD
 
-http://iptvglobal.site:25461/nany1/nany1/152302
+http://panel.tured.live:80/Hector123/Hector123/229017.ts
 
-#EXTINF:-1 tvg-id=”” tvg-name=”CUATRO” tvg-logo=”http://iptvglobal.site:25461/images/64e2895fe535c3dbbb675717ce67e852.png” group-title=”ESPANA”,CUATRO FHD
+#EXTINF:-1 tvg-chno="4.5" tvg-id=”” tvg-name=”CUATRO” tvg-logo=”http://iptvglobal.site:25461/images/64e2895fe535c3dbbb675717ce67e852.png” group-title=”ESPANA”,CUATRO FHD
 
-http://iptvglobal.site:25461/Moises/Moises/152305
+http://panel.tured.live:80/Hector123/Hector123/93692.ts
 
-#EXTINF:-1 tvg-id=”” tvg-name=”TELECINCO” tvg-logo=”http://iptvglobal.site:25461/images/5ad332383ce0872e8c04a92ee6d19810.png” group-title=”ESPANA”,TELECINCO FHD
+#EXTINF:-1 tvg-chno="5.5" tvg-id=”” tvg-name=”TELECINCO” tvg-logo=”http://iptvglobal.site:25461/images/5ad332383ce0872e8c04a92ee6d19810.png” group-title=”ESPANA”,TELECINCO FHD
 
-http://iptvglobal.site:25461/Moises/Moises/152308
+http://panel.tured.live:80/Hector123/Hector123/229023.ts
 
-#EXTINF:-1 tvg-id=”” tvg-name=”LA SEXTA” tvg-logo=”http://iptvglobal.site:25461/images/913f42e41823ebcbc17b6f7ca14a6207.png” group-title=”ESPANA”,LA SEXTA FHD
+#EXTINF:-1 tvg-chno="6.5" tvg-id=”” tvg-name=”LA SEXTA” tvg-logo=”http://iptvglobal.site:25461/images/913f42e41823ebcbc17b6f7ca14a6207.png” group-title=”ESPANA”,LA SEXTA FHD
 
-http://iptvglobal.site:25461/Moises/Moises/152311
+http://panel.tured.live:80/Hector123/Hector123/93704.ts
 
 #EXTINF:-1 tvg-id=”” tvg-name=”MEGA” tvg-logo=”http://iptvglobal.site:25461/images/b8e7e9a54566707d8cdeac1fc441c8fe.png” group-title=”ESPANA”,MEGA
 
