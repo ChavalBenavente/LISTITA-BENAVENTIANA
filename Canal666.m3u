@@ -185,6 +185,9 @@ http://teamnextlevel.xyz:25461/Cortez/Cortez/220477
 http://teamnextlevel.xyz:25461/Cortez/Cortez/220474
 
 
+#EXTINF:-1 tvg-id="GlobalTV.pe" tvg-chno="13" tvg-name="Global TV", Global TV
+http://panel.tured.live:80/Hector123/Hector123/173213.ts
+
 
 #EXTINF:-1 tvg-id="Americatv.ar" tvg-name="America Tv",America Tv
 http://teamnextlevel.xyz:25461/Cortez/Cortez/241116
