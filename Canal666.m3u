@@ -82,11 +82,11 @@ http://iptvglobal.site:25461/Moises/Moises/87149
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/42449.ts
  
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe HD" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINATELEFE.jpg" group-title="ARGENTINA CHANNELS",Telefe HD
+#EXTINF:-1 tvg-chno="11" tvg-id="Telefe.ar" tvg-name="Telefe HD" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINATELEFE.jpg" group-title="ARGENTINA CHANNELS",Telefe HD
 
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/5167.ts
 
-#EXTINF:-1 tvg-id="el13.ar" tvg-name="El Trece" tvg-logo="https://i.imgur.com/aC4qzqe.png" group-title="Live Argentina",El Trece
+#EXTINF:-1 tvg-chno="13.1" tvg-id="el13.ar" tvg-name="El Trece" tvg-logo="https://i.imgur.com/aC4qzqe.png" group-title="Live Argentina",El Trece
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/5159.ts
 
 
