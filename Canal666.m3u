@@ -35,15 +35,15 @@ http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/410494.ts
 
 http://nmstreaming.live:25461/UzielLCH/123456789/207962 
 
-#EXTINF:-1 tvg-chno="10.1"tvg-id=”GolPeru.pe” tvg-name=”Gol Perú FHD” tvg-logo=”http://streamgo.vip:8008/images/7418ab7b1d5e79d1050f53f7ffcb0317.png” group-title=”Sports” “Perú”,Gol Perú FHD
+#EXTINF:-1 tvg-chno="14.1" tvg-id=”GolPeru.pe” tvg-name=”Gol Perú” tvg-logo=”http://streamgo.vip:8008/images/7418ab7b1d5e79d1050f53f7ffcb0317.png” group-title=”Sports” “Perú”,Gol Perú FHD
 
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/390877.ts
 
-#EXTINF:-1 tvg="10" tvg-id="GOL PERU" tvg-name="Gol Perú" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="││TV││⛹️ DEPORTE PERU ⛹️",Gol Perú 
+#EXTINF:-1 tvg-chno="14" tvg-id="GOL PERU" tvg-name="Gol Perú" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="││TV││⛹️ DEPORTE PERU ⛹️",Gol Perú 
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1152848
 
 
-#EXTINF:-1 tvg-chno="10.2" tvg-id=”GolPeru.pe” tvg-name=”GOLPERU HD” tvg-country=”PE” tvg-logo=”https://i.postimg.cc/0rRZZm1v/Picsart-22-11-22-02-12-07-238.jpg” group-title=”Sports”, Gol Perú HD
+#EXTINF:-1 tvg-chno="14.2" tvg-id=”GolPeru.pe” tvg-name=”GOL PERÚ” tvg-country=”PE” tvg-logo=”https://i.postimg.cc/0rRZZm1v/Picsart-22-11-22-02-12-07-238.jpg” group-title=”Sports”, Gol Perú HD
 
 http://iptvglobal.site:25461/Moises/Moises/86485
 
@@ -120,7 +120,7 @@ http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 http://panel.tured.live:80/mauri2022/mauri2022/99683.ts
 #EXTINF:-1 tvg-id="PBO.pe" tvg-name="PBO" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_bfL9Gy3lzFG-mDrrXm5umWttjGpnXri8TvQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="PERU",PBO
 http://speedwk.site:80/nicolas12345/nicolas12345/211293.ts
-#EXTINF:-1 tvg-chno="8" tvg-id="RPPTV.pe" tvg-name="RPP TV" tvg-logo="http://panel.tured.live:80/images/e18e735852f9bd9f333d394050e22e0d.png" group-title="PERU",RPP TV
+#EXTINF:-1 tvg-chno="10" tvg-id="RPPTV.pe" tvg-name="RPP TV" tvg-logo="http://panel.tured.live:80/images/e18e735852f9bd9f333d394050e22e0d.png" group-title="PERU",RPP TV
 http://panel.tured.live:80/mauri2022/mauri2022/99684.ts 
 
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="ChileVision", ChileVision
@@ -151,7 +151,7 @@ http://teamnextlevel.xyz:25461/Cortez/Cortez/218195
 #EXTINF:-1 tvg-id="TLCMexico.mx" tvg-name="TLC Mexico", TLC Mexico
 http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6iienOD25XVph3iIPkgrFX/ts
 
-#EXTINF:-1 tvg-chno="4.1" tvg-id="CanalN.pe" tvg-name="Canal N",Canal N
+#EXTINF:-1 tvg-chno="8" tvg-id="CanalN.pe" tvg-name="Canal N",Canal N
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/623726.ts
 
 #EXTINF:-1 tvg-id="ESPNChile.cl" tvg-name="ESPN Chile", ESPN Chile
@@ -189,7 +189,7 @@ http://teamnextlevel.xyz:25461/Cortez/Cortez/220474
 #EXTINF:-1 tvg-id="Americatv.ar" tvg-name="America Tv",America Tv
 http://teamnextlevel.xyz:25461/Cortez/Cortez/241116
 
-#EXTINF:-1 tvg-chno="17" tvg-id="SpacePanregional.us" tvg-name="Space Panregional", Space Panregional
+#EXTINF:-1 tvg-chno="" tvg-id="SpacePanregional.us" tvg-name="Space Panregional", Space Panregional
 http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/147308
 
 #EXTINF:-1 tvg-id="StudioUniversalPanregional.us" tvg-name="Studio Universal Panregional", Studio Universal Panregional
@@ -294,7 +294,7 @@ http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/120427
 http://iptvglobal.site:25461/Moises/Moises/86601
 
 
-#EXTINF:-1 tvg-chno="17" tvg-id="TCMPanregional.us" tvg-name="TCM Panregional", TCM Panregional
+#EXTINF:-1 tvg-chno="" tvg-id="TCMPanregional.us" tvg-name="TCM Panregional", TCM Panregional
 http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/147296 
 
 #EXTINF:-1 tvg-id=”” tvg-name=”Win Sports” tvg-logo=”http://127.0.0.1/” group-title=”LATINO (USA) (SD)”,Win Sports
