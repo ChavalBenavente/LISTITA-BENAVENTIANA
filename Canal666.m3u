@@ -169,7 +169,7 @@ http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/120545
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-name="Pasiones Latin America",Pasiones Latin America
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/727.ts
 
-#EXTINF:-1 tvg-chno="7.1" tvg-id="TVPeruNoticias.pe" tvg-name="TV Peru Noticias",TV Peru Noticias
+#EXTINF:-1 tvg-chno="7" tvg-id="TVPeruNoticias.pe" tvg-name="TV Peru Noticias",TV Peru Noticias
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/400653.ts
 
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature",Love Nature
@@ -189,7 +189,7 @@ http://teamnextlevel.xyz:25461/Cortez/Cortez/220474
 http://panel.tured.live:80/Hector123/Hector123/173213.ts
 
 
-#EXTINF:-1 tvg-id="Americatv.ar" tvg-name="America Tv",America Tv
+#EXTINF:-1 tvg-chno="2.1" tvg-id="Americatv.ar" tvg-name="America Tv",America Tv
 http://teamnextlevel.xyz:25461/Cortez/Cortez/241116
 
 #EXTINF:-1 tvg-chno="" tvg-id="SpacePanregional.us" tvg-name="Space Panregional", Space Panregional
@@ -581,18 +581,18 @@ http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1194933
 http://panel.tured.live:80/mauri2022/mauri2022/99650.ts
 
 
-#EXTINF:-1 tvg-id="tvpublica.ar" tvg-name="Televisión Pública" tvg-logo="http://panel.tured.live:80/images/7rrEG-F0t8RQQWrko5sqSihbYM4ajZ-6Xg2TWIL5xGcTBcTT4FLSwfej4XxnT6QO8u1dFpHHM1PkNCocD8AlLFWNaXIeMDvQesvl0782Wcc.png" group-title="ARGENTINA",TV Pública
+#EXTINF:-1 tvg-chno="7.1" tvg-id="tvpublica.ar" tvg-name="Televisión Pública" tvg-logo="http://panel.tured.live:80/images/7rrEG-F0t8RQQWrko5sqSihbYM4ajZ-6Xg2TWIL5xGcTBcTT4FLSwfej4XxnT6QO8u1dFpHHM1PkNCocD8AlLFWNaXIeMDvQesvl0782Wcc.png" group-title="ARGENTINA",TV Pública
 http://panel.tured.live:80/mauri2022/mauri2022/99765.ts
  
 
-#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINAAMERICATV.jpg" group-title="ARGENTINA CHANNELS",AMERICA TV
+#EXTINF:-1 tvg-chno="2.2" tvg-id="" tvg-name="AMERICA TV" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINAAMERICATV.jpg" group-title="ARGENTINA CHANNELS",AMERICA TV
 http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/1019
 
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="TELEFE" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINATELEFE.jpg" group-title="ARGENTINA CHANNELS",TELEFE
+#EXTINF:-1 tvg-chno="11.1" tvg-id="Telefe.ar" tvg-name="TELEFE" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINATELEFE.jpg" group-title="ARGENTINA CHANNELS",TELEFE
 http://teamnextlevel.xyz:25461/Cortez/Cortez/205232
 
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="CRÓNICA" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINACRONICA.jpg" group-title="ARGENTINA CHANNELS",CRÓNICA
+#EXTINF:-1 tvg-chno="4.1" tvg-id="CronicaTV.ar" tvg-name="CRÓNICA" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINACRONICA.jpg" group-title="ARGENTINA CHANNELS",CRÓNICA
 http://teamnextlevel.xyz:25461/Cortez/Cortez/205243
 
 
